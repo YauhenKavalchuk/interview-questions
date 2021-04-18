@@ -14,25 +14,25 @@
 </a>
 
 ### HTML:
-- [Что такое doctype? И для чего он используется?]()
-- [Опишите базовую структуру HTML-страницы?]()
-- [Что такое семантика? Какие семантичные тэги вы знаете?]()
-- [Какая разница между тэгами `<strong><em>` и `<b><i>`?]()
+- [Что такое doctype? И для чего он используется?](https://youtu.be/H4CWDktMEu8?t=65)
+- [Опишите базовую структуру HTML-страницы?](https://youtu.be/H4CWDktMEu8?t=103)
+- [Что такое семантика? Какие семантичные тэги вы знаете?](https://youtu.be/H4CWDktMEu8?t=149)
+- [Какая разница между тэгами `<strong><em>` и `<b><i>`?](https://youtu.be/H4CWDktMEu8?t=202)
 ---
 
 ### CSS:
-- [Что такое CSS? И для чего он используется?]()
-- [Варианты добавление CSS стилей на страницу?]()
-- [Типы позиционирования в CSS?]()
-- [Блочная модель CSS?]()
+- [Что такое CSS? И для чего он используется?](https://youtu.be/H4CWDktMEu8?t=251)
+- [Варианты добавление CSS стилей на страницу?](https://youtu.be/H4CWDktMEu8?t=277)
+- [Типы позиционирования в CSS?](https://youtu.be/H4CWDktMEu8?t=321)
+- [Блочная модель CSS?](https://youtu.be/H4CWDktMEu8?t=410)
 ---
 
 ### JavaScript:
-- [Типы данных в JavaScript?]()
-- [Разница между `==` и `===` (нестрогое/строгое равенство)?]()
-- [Что такое Strict mode в JavaScript?]()
-- [Разница между function declaration и function expression?]()
+- [Типы данных в JavaScript?](https://youtu.be/H4CWDktMEu8?t=471)
+- [Разница между `==` и `===` (нестрогое/строгое равенство)?](https://youtu.be/H4CWDktMEu8?t=529)
+- [Что такое Strict mode в JavaScript?](https://youtu.be/H4CWDktMEu8?t=577)
+- [Разница между function declaration и function expression?](https://youtu.be/H4CWDktMEu8?t=632)
 ---
 
 ### Практические задачи:
-- [Функция проверки палиндрома?]()
+- [Функция проверки палиндрома?](https://youtu.be/H4CWDktMEu8?t=683)
