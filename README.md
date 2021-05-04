@@ -14,25 +14,25 @@
 </a>
 
 ### HTML:
-- [Что такое doctype? И для чего он используется?](https://youtu.be/H4CWDktMEu8?t=65)
-- [Опишите базовую структуру HTML-страницы?](https://youtu.be/H4CWDktMEu8?t=103)
-- [Что такое семантика? Какие семантичные тэги вы знаете?](https://youtu.be/H4CWDktMEu8?t=149)
-- [Какая разница между тэгами `<strong><em>` и `<b><i>`?](https://youtu.be/H4CWDktMEu8?t=202)
+- [Что такое doctype? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=65)
+- [Опишите базовую структуру HTML-страницы?](https://youtu.be/ycYp7CYOnO0?t=103)
+- [Что такое семантика? Какие семантичные тэги вы знаете?](https://youtu.be/ycYp7CYOnO0?t=149)
+- [Какая разница между тэгами `<strong><em>` и `<b><i>`?](https://youtu.be/ycYp7CYOnO0?t=202)
 ---
 
 ### CSS:
-- [Что такое CSS? И для чего он используется?](https://youtu.be/H4CWDktMEu8?t=251)
-- [Варианты добавление CSS стилей на страницу?](https://youtu.be/H4CWDktMEu8?t=277)
-- [Типы позиционирования в CSS?](https://youtu.be/H4CWDktMEu8?t=321)
-- [Блочная модель CSS?](https://youtu.be/H4CWDktMEu8?t=410)
+- [Что такое CSS? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=251)
+- [Варианты добавление CSS стилей на страницу?](https://youtu.be/ycYp7CYOnO0?t=277)
+- [Типы позиционирования в CSS?](https://youtu.be/ycYp7CYOnO0?t=321)
+- [Блочная модель CSS?](https://youtu.be/ycYp7CYOnO0?t=410)
 ---
 
 ### JavaScript:
-- [Типы данных в JavaScript?](https://youtu.be/H4CWDktMEu8?t=471)
-- [Разница между `==` и `===` (нестрогое/строгое равенство)?](https://youtu.be/H4CWDktMEu8?t=529)
-- [Что такое Strict mode в JavaScript?](https://youtu.be/H4CWDktMEu8?t=577)
-- [Разница между function declaration и function expression?](https://youtu.be/H4CWDktMEu8?t=632)
+- [Типы данных в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=471)
+- [Разница между `==` и `===` (нестрогое/строгое равенство)?](https://youtu.be/ycYp7CYOnO0?t=529)
+- [Что такое Strict mode в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=577)
+- [Разница между function declaration и function expression?](https://youtu.be/ycYp7CYOnO0?t=632)
 ---
 
 ### Практические задачи:
-- [Функция проверки палиндрома?](https://youtu.be/H4CWDktMEu8?t=683)
+- [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
