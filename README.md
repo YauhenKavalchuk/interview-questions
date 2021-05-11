@@ -18,6 +18,11 @@
 - [Опишите базовую структуру HTML-страницы?](https://youtu.be/ycYp7CYOnO0?t=103)
 - [Что такое семантика? Какие семантичные тэги вы знаете?](https://youtu.be/ycYp7CYOnO0?t=149)
 - [Какая разница между тэгами `<strong><em>` и `<b><i>`?](https://youtu.be/ycYp7CYOnO0?t=202)
+- [Что такое валидация? И какие типы проверок HTML документа вы знаете?](https://youtu.be/G7hLwudGWL4?t=39)
+- [Какой тэг использовать для того, что бы сверстать кнопку?](https://youtu.be/G7hLwudGWL4?t=96)
+- [Что такое инлайновый стиль? Можно ли его переопределить?](https://youtu.be/G7hLwudGWL4?t=155)
+- [Есть ли у HTML элементов свои дефолтные специфичные стили?](https://youtu.be/G7hLwudGWL4?t=181)
+- [Для какого тэга используется атрибут alt и зачем он нужен?](https://youtu.be/G7hLwudGWL4?t=230)
 ---
 
 ### CSS:
@@ -25,6 +30,9 @@
 - [Варианты добавление CSS стилей на страницу?](https://youtu.be/ycYp7CYOnO0?t=277)
 - [Типы позиционирования в CSS?](https://youtu.be/ycYp7CYOnO0?t=321)
 - [Блочная модель CSS?](https://youtu.be/ycYp7CYOnO0?t=410)
+- [Что такое селектор? И какие селекторы существуют?](https://youtu.be/G7hLwudGWL4?t=282)
+- [Что такое специфичность селектора? Как считать вес селектора?](https://youtu.be/G7hLwudGWL4?t=358)
+- [Разница между Reset.css и Normalize.css?](https://youtu.be/G7hLwudGWL4?t=445)
 ---
 
 ### JavaScript:
@@ -32,7 +40,12 @@
 - [Разница между `==` и `===` (нестрогое/строгое равенство)?](https://youtu.be/ycYp7CYOnO0?t=529)
 - [Что такое Strict mode в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=577)
 - [Разница между function declaration и function expression?](https://youtu.be/ycYp7CYOnO0?t=632)
+- [Разница между null и undefined?](https://youtu.be/G7hLwudGWL4?t=511)
+- [Что такое Hoisting (поднятие)?](https://youtu.be/G7hLwudGWL4?t=552)
+- [Операторы «И» и «ИЛИ» (&& и ||)?](https://youtu.be/G7hLwudGWL4?t=617)
+- [Типы таймеров в JavaScript?](https://youtu.be/G7hLwudGWL4?t=690)
 ---
 
 ### Практические задачи:
 - [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
+- [Функция поиска самого короткого слова?](https://youtu.be/G7hLwudGWL4?t=764)
