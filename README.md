@@ -23,6 +23,8 @@
 - [Что такое инлайновый стиль? Можно ли его переопределить?](https://youtu.be/G7hLwudGWL4?t=155)
 - [Есть ли у HTML элементов свои дефолтные специфичные стили?](https://youtu.be/G7hLwudGWL4?t=181)
 - [Для какого тэга используется атрибут alt и зачем он нужен?](https://youtu.be/G7hLwudGWL4?t=230)
+- [Типы списков в HTML?](https://youtu.be/1eIRTdgzHtw?t=29)
+- [Как семантически правильно сверстать картинку с подписью?](https://youtu.be/1eIRTdgzHtw?t=67)
 ---
 
 ### CSS:
@@ -33,6 +35,10 @@
 - [Что такое селектор? И какие селекторы существуют?](https://youtu.be/G7hLwudGWL4?t=282)
 - [Что такое специфичность селектора? Как считать вес селектора?](https://youtu.be/G7hLwudGWL4?t=358)
 - [Разница между Reset.css и Normalize.css?](https://youtu.be/G7hLwudGWL4?t=445)
+- [Разница между margin и padding?](https://youtu.be/1eIRTdgzHtw?t=116)
+- [Разница между display: none и visibility: hidden?](https://youtu.be/1eIRTdgzHtw?t=139)
+- [Разница между блочным и строчным (инлайновым) элементами?](https://youtu.be/1eIRTdgzHtw?t=188)
+- [Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?](https://youtu.be/1eIRTdgzHtw?t=233)
 ---
 
 ### JavaScript:
@@ -44,8 +50,17 @@
 - [Что такое Hoisting (поднятие)?](https://youtu.be/G7hLwudGWL4?t=552)
 - [Операторы «И» и «ИЛИ» (&& и ||)?](https://youtu.be/G7hLwudGWL4?t=617)
 - [Типы таймеров в JavaScript?](https://youtu.be/G7hLwudGWL4?t=690)
+- [Что такое область видимости (Scope)?](https://youtu.be/1eIRTdgzHtw)
+- [Разница между «let», «const» и «var»?](https://youtu.be/1eIRTdgzHtw?t=361)
+- [Что такое функции высшего порядка (Higher Order Functions)?](https://youtu.be/1eIRTdgzHtw?t=426)
 ---
+
+### JSDOM:
+- [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
+- [Что такое распространение события (Event Propagation)?](https://youtu.be/1eIRTdgzHtw?t=522)
+- [Что такое делегирование событий (Event Delegation)?](https://youtu.be/1eIRTdgzHtw?t=576)
 
 ### Практические задачи:
 - [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
 - [Функция поиска самого короткого слова?](https://youtu.be/G7hLwudGWL4?t=764)
+- [Функция создания инициалов?](https://youtu.be/1eIRTdgzHtw?t=632)
