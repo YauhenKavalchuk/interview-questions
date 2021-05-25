@@ -25,6 +25,9 @@
 - [Для какого тэга используется атрибут alt и зачем он нужен?](https://youtu.be/G7hLwudGWL4?t=230)
 - [Типы списков в HTML?](https://youtu.be/1eIRTdgzHtw?t=29)
 - [Как семантически правильно сверстать картинку с подписью?](https://youtu.be/1eIRTdgzHtw?t=67)
+- [Что такое HTML и для чего он используется?](https://youtu.be/CjdCxxqObaM?t=39)
+- [Типы input элементов в HTML?](https://youtu.be/CjdCxxqObaM?t=87)
+- [Что такое элемент canvas? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
 ---
 
 ### CSS:
@@ -39,6 +42,9 @@
 - [Разница между display: none и visibility: hidden?](https://youtu.be/1eIRTdgzHtw?t=139)
 - [Разница между блочным и строчным (инлайновым) элементами?](https://youtu.be/1eIRTdgzHtw?t=188)
 - [Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?](https://youtu.be/1eIRTdgzHtw?t=233)
+- [Что такое CSS-правило?](https://youtu.be/CjdCxxqObaM?t=228)
+- [Разница между классом и идентификатором в CSS?](https://youtu.be/CjdCxxqObaM?t=264)
+- [Что такое CSS спрайт? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=330)
 ---
 
 ### JavaScript:
@@ -53,14 +59,20 @@
 - [Что такое область видимости (Scope)?](https://youtu.be/1eIRTdgzHtw)
 - [Разница между «let», «const» и «var»?](https://youtu.be/1eIRTdgzHtw?t=361)
 - [Что такое функции высшего порядка (Higher Order Functions)?](https://youtu.be/1eIRTdgzHtw?t=426)
+- [Как превратить любой тип данных в булевый? Перечислите ложные значения в JS?](https://youtu.be/CjdCxxqObaM?t=368)
+- [Методы строк в JavaScript?](https://youtu.be/CjdCxxqObaM?t=415)
+- [Методы массивов в JavaScript?](https://youtu.be/CjdCxxqObaM?t=538)
 ---
 
 ### JSDOM:
 - [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
 - [Что такое распространение события (Event Propagation)?](https://youtu.be/1eIRTdgzHtw?t=522)
 - [Что такое делегирование событий (Event Delegation)?](https://youtu.be/1eIRTdgzHtw?t=576)
+- [Разница между e.preventDefault() и e.stopPropagation()?](https://youtu.be/CjdCxxqObaM?t=650)
+- [Методы поиска элементов в DOM?](https://youtu.be/CjdCxxqObaM?t=678)
 
 ### Практические задачи:
 - [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
 - [Функция поиска самого короткого слова?](https://youtu.be/G7hLwudGWL4?t=764)
 - [Функция создания инициалов?](https://youtu.be/1eIRTdgzHtw?t=632)
+- [Функция суммирования всех цифр числа?](https://youtu.be/CjdCxxqObaM?t=764)
