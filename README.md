@@ -15,9 +15,9 @@
 
 ---
 
-<h3 style="display: flex; align-items: center;">
-  <img src="./assets/HTML.png" width="30" height="30" />
-  <span style="margin-left: 2px;">HTML:</span>
+<h3>
+  <img src="./assets/HTML.png" width="15" height="15" />
+  <span>HTML:</span>
 </h3>
 
 - [Что такое doctype? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=65)
@@ -36,9 +36,9 @@
 - [Что такое элемент canvas? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
 ---
 
-<h3 style="display: flex; align-items: center;">
-  <img src="./assets/CSS.png" width="30" height="30" />
-  <span style="margin-left: 2px;">CSS:</span>
+<h3>
+  <img src="./assets/CSS.png" width="15" height="15" />
+  <span>CSS:</span>
 </h3>
 
 - [Что такое CSS? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=251)
@@ -57,9 +57,9 @@
 - [Что такое CSS спрайт? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=330)
 ---
 
-<h3 style="display: flex; align-items: center;">
-  <img src="./assets/JavaScript.png" width="20" height="20" />
-  <span style="margin-left: 4px;">JavaScript:</span>
+<h3>
+  <img src="./assets/JavaScript.png" width="15" height="15" />
+  <span>JavaScript:</span>
 </h3>
 
 - [Типы данных в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=471)
@@ -78,9 +78,9 @@
 - [Методы массивов в JavaScript?](https://youtu.be/CjdCxxqObaM?t=538)
 ---
 
-<h3 style="display: flex; align-items: center;">
-  <img src="./assets/JavaScript.png" width="20" height="20" />
-  <span style="margin-left: 4px;">JS DOM:</span>
+<h3>
+  <img src="./assets/JavaScript.png" width="15" height="15" />
+  <span>JS DOM:</span>
 </h3>
 
 - [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
@@ -90,9 +90,9 @@
 - [Методы поиска элементов в DOM?](https://youtu.be/CjdCxxqObaM?t=678)
 ---
 
-<h3 style="display: flex; align-items: center;">
+<h3>
   <img src="./assets/Dev.png" width="15" height="15" />
-  <span style="margin-left: 6px;">Практические задачи:</span>
+  <span>Практические задачи:</span>
 </h3>
 
 - [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
