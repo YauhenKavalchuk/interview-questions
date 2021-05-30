@@ -16,7 +16,7 @@
 ---
 
 <h3>
-  <img src="./assets/HTML.png" width="15" height="15" />
+  <img src="./assets/HTML.png" width="16" height="16" />
   <span>HTML:</span>
 </h3>
 
@@ -37,7 +37,7 @@
 ---
 
 <h3>
-  <img src="./assets/CSS.png" width="15" height="15" />
+  <img src="./assets/CSS.png" width="16" height="16" />
   <span>CSS:</span>
 </h3>
 
@@ -58,7 +58,7 @@
 ---
 
 <h3>
-  <img src="./assets/JavaScript.png" width="15" height="15" />
+  <img src="./assets/JavaScript.png" width="16" height="16" />
   <span>JavaScript:</span>
 </h3>
 
@@ -79,7 +79,7 @@
 ---
 
 <h3>
-  <img src="./assets/JavaScript.png" width="15" height="15" />
+  <img src="./assets/JavaScript.png" width="16" height="16" />
   <span>JS DOM:</span>
 </h3>
 
@@ -91,7 +91,7 @@
 ---
 
 <h3>
-  <img src="./assets/Dev.png" width="15" height="15" />
+  <img src="./assets/Dev.png" width="16" height="16" />
   <span>Практические задачи:</span>
 </h3>
 
