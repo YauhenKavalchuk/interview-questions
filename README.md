@@ -5,7 +5,7 @@
 Все вопросы сформулированы максимально коректно, что бы не запутать кандидата.
 А ответы подробны и максимально лаконичны, что бы не тратить много времени на подготовку.
 
-Ещё больше полезной информации можно найти на [YouTube канале](https://youtube.com/c/YauhenKavalchuk)
+🚀 Ещё больше полезной информации можно найти на [YouTube канале](https://youtube.com/c/YauhenKavalchuk)
 
 ## Поддержать канал:
 
@@ -13,7 +13,13 @@
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-### HTML:
+---
+
+<h3 style="display: flex; align-items: center;">
+  <img src="./assets/HTML.png" width="30" height="30" />
+  <span style="margin-left: 2px;">HTML:</span>
+</h3>
+
 - [Что такое doctype? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=65)
 - [Опишите базовую структуру HTML-страницы?](https://youtu.be/ycYp7CYOnO0?t=103)
 - [Что такое семантика? Какие семантичные тэги вы знаете?](https://youtu.be/ycYp7CYOnO0?t=149)
@@ -30,7 +36,11 @@
 - [Что такое элемент canvas? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
 ---
 
-### CSS:
+<h3 style="display: flex; align-items: center;">
+  <img src="./assets/CSS.png" width="30" height="30" />
+  <span style="margin-left: 2px;">CSS:</span>
+</h3>
+
 - [Что такое CSS? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=251)
 - [Варианты добавление CSS стилей на страницу?](https://youtu.be/ycYp7CYOnO0?t=277)
 - [Типы позиционирования в CSS?](https://youtu.be/ycYp7CYOnO0?t=321)
@@ -47,7 +57,11 @@
 - [Что такое CSS спрайт? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=330)
 ---
 
-### JavaScript:
+<h3 style="display: flex; align-items: center;">
+  <img src="./assets/JavaScript.png" width="20" height="20" />
+  <span style="margin-left: 4px;">JavaScript:</span>
+</h3>
+
 - [Типы данных в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=471)
 - [Разница между `==` и `===` (нестрогое/строгое равенство)?](https://youtu.be/ycYp7CYOnO0?t=529)
 - [Что такое Strict mode в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=577)
@@ -64,14 +78,23 @@
 - [Методы массивов в JavaScript?](https://youtu.be/CjdCxxqObaM?t=538)
 ---
 
-### JSDOM:
+<h3 style="display: flex; align-items: center;">
+  <img src="./assets/JavaScript.png" width="20" height="20" />
+  <span style="margin-left: 4px;">JS DOM:</span>
+</h3>
+
 - [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
 - [Что такое распространение события (Event Propagation)?](https://youtu.be/1eIRTdgzHtw?t=522)
 - [Что такое делегирование событий (Event Delegation)?](https://youtu.be/1eIRTdgzHtw?t=576)
 - [Разница между `e.preventDefault()` и `e.stopPropagation()`?](https://youtu.be/CjdCxxqObaM?t=650)
 - [Методы поиска элементов в DOM?](https://youtu.be/CjdCxxqObaM?t=678)
+---
 
-### Практические задачи:
+<h3 style="display: flex; align-items: center;">
+  <img src="./assets/Dev.png" width="15" height="15" />
+  <span style="margin-left: 6px;">Практические задачи:</span>
+</h3>
+
 - [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
 - [Функция поиска самого короткого слова?](https://youtu.be/G7hLwudGWL4?t=764)
 - [Функция создания инициалов?](https://youtu.be/1eIRTdgzHtw?t=632)
