@@ -34,6 +34,9 @@
 - [Что такое HTML и для чего он используется?](https://youtu.be/CjdCxxqObaM?t=39)
 - [Типы `input` элементов в HTML?](https://youtu.be/CjdCxxqObaM?t=87)
 - [Что такое элемент canvas? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
+- [Для чего используют data-атрибуты?](https://youtu.be/rlWgI7AvV18?t=34)
+- [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
+- [Для чего используется элемент `datalist`?](https://youtu.be/rlWgI7AvV18?t=178)
 ---
 
 <h3>
@@ -55,6 +58,9 @@
 - [Что такое CSS-правило?](https://youtu.be/CjdCxxqObaM?t=228)
 - [Разница между классом и идентификатором в CSS?](https://youtu.be/CjdCxxqObaM?t=264)
 - [Что такое CSS спрайт? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=330)
+- [Что такое вендорные префиксы? И для чего они используются?](https://youtu.be/rlWgI7AvV18?t=234)
+- [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)
+- [Что такое псевдоэлементы? И для чего они используются?](https://youtu.be/rlWgI7AvV18?t=355)
 ---
 
 <h3>
@@ -76,6 +82,11 @@
 - [Как превратить любой тип данных в булевый? Перечислите ложные значения в JS?](https://youtu.be/CjdCxxqObaM?t=368)
 - [Методы строк в JavaScript?](https://youtu.be/CjdCxxqObaM?t=415)
 - [Методы массивов в JavaScript?](https://youtu.be/CjdCxxqObaM?t=538)
+- [Что такое чистая функция?](https://youtu.be/rlWgI7AvV18?t=401)
+- [Разница между `.forEach` и `.map()`?](https://youtu.be/rlWgI7AvV18?t=456)
+- [Что обозначает `this` в JavaScript?](https://youtu.be/rlWgI7AvV18?t=507)
+- [Разница между `.call()`, `.apply()` и `bind()`?](https://youtu.be/rlWgI7AvV18?t=548)
+- [Почему в JS функции называют объектами первого класса?](https://youtu.be/rlWgI7AvV18?t=624)
 ---
 
 <h3>
@@ -99,3 +110,4 @@
 - [Функция поиска самого короткого слова?](https://youtu.be/G7hLwudGWL4?t=764)
 - [Функция создания инициалов?](https://youtu.be/1eIRTdgzHtw?t=632)
 - [Функция суммирования всех цифр числа?](https://youtu.be/CjdCxxqObaM?t=764)
+- [Функция поиска минимального и максимального значений в массиве?](https://youtu.be/rlWgI7AvV18?t=670)
