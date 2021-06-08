@@ -61,6 +61,9 @@
 - [Что такое вендорные префиксы? И для чего они используются?](https://youtu.be/rlWgI7AvV18?t=234)
 - [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)
 - [Что такое псевдоэлементы? И для чего они используются?](https://youtu.be/rlWgI7AvV18?t=355)
+- [Что такое схлопывание границ (margin collapsing)?](https://youtu.be/kx3dR6ztICU?t=30)
+- [Что такое кроссбраузерность?](https://youtu.be/kx3dR6ztICU?t=90)
+- [Что такое CSS препроцессор?](https://youtu.be/kx3dR6ztICU?t=159)
 ---
 
 <h3>
@@ -87,6 +90,11 @@
 - [Что обозначает `this` в JavaScript?](https://youtu.be/rlWgI7AvV18?t=507)
 - [Разница между `.call()`, `.apply()` и `bind()`?](https://youtu.be/rlWgI7AvV18?t=548)
 - [Почему в JS функции называют объектами первого класса?](https://youtu.be/rlWgI7AvV18?t=624)
+- [Как определить наличие свойства в объекте?](https://youtu.be/kx3dR6ztICU?t=226)
+- [Что такое замыкание (Closure)?](https://youtu.be/kx3dR6ztICU?t=284)
+- [Что такое IIFE?](https://youtu.be/kx3dR6ztICU?t=396)
+- [Что такое псевдомассив `arguments`?](https://youtu.be/kx3dR6ztICU?t=442)
+- [Разница между host-объектами и нативными объектами?](https://youtu.be/kx3dR6ztICU?t=484)
 ---
 
 <h3>
@@ -99,6 +107,17 @@
 - [Что такое делегирование событий (Event Delegation)?](https://youtu.be/1eIRTdgzHtw?t=576)
 - [Разница между `e.preventDefault()` и `e.stopPropagation()`?](https://youtu.be/CjdCxxqObaM?t=650)
 - [Методы поиска элементов в DOM?](https://youtu.be/CjdCxxqObaM?t=678)
+- [Разница между `event.target` и `event.currentTarget`?](https://youtu.be/kx3dR6ztICU?t=539)
+- [Разница между `.stopPropagation()` и `.stopImmediatePropagation()`?](https://youtu.be/kx3dR6ztICU?t=580)
+- [Разница между событиями `load` и `DOMContentLoaded`?](https://youtu.be/kx3dR6ztICU?t=627)
+---
+
+<h3>
+  <img src="./assets/JavaScript.png" width="16" height="16" />
+  <span>Async JS</span>
+</h3>
+
+- [Разница между синхронными и асинхронными функциями?](https://youtu.be/kx3dR6ztICU?t=681)
 ---
 
 <h3>
@@ -111,3 +130,4 @@
 - [Функция создания инициалов?](https://youtu.be/1eIRTdgzHtw?t=632)
 - [Функция суммирования всех цифр числа?](https://youtu.be/CjdCxxqObaM?t=764)
 - [Функция поиска минимального и максимального значений в массиве?](https://youtu.be/rlWgI7AvV18?t=670)
+- [Функция создания набора дубликатов символов строки?](https://youtu.be/kx3dR6ztICU?t=736)
