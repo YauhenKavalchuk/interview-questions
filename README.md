@@ -37,6 +37,7 @@
 - [Для чего используют data-атрибуты?](https://youtu.be/rlWgI7AvV18?t=34)
 - [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
 - [Для чего используется элемент `datalist`?](https://youtu.be/rlWgI7AvV18?t=178)
+- [Что такое прогрессивный рендеринг?](https://youtu.be/IooJ3P2VUYs?t=26)
 ---
 
 <h3>
@@ -95,6 +96,10 @@
 - [Что такое IIFE?](https://youtu.be/kx3dR6ztICU?t=396)
 - [Что такое псевдомассив `arguments`?](https://youtu.be/kx3dR6ztICU?t=442)
 - [Разница между host-объектами и нативными объектами?](https://youtu.be/kx3dR6ztICU?t=484)
+- [Почему результат сравнения 2х объектов это false?](https://youtu.be/IooJ3P2VUYs?t=100)
+- [Что такое прототипное наследование? Как создать объект без прототипа?](https://youtu.be/IooJ3P2VUYs?t=154)
+- [Почему расширение нативных JavaScript-объектов это плохая практика](https://youtu.be/IooJ3P2VUYs?t=202)
+- [Что такое NaN? Как определить, что значение равно NaN?](https://youtu.be/IooJ3P2VUYs?t=266)
 ---
 
 <h3>
@@ -110,14 +115,28 @@
 - [Разница между `event.target` и `event.currentTarget`?](https://youtu.be/kx3dR6ztICU?t=539)
 - [Разница между `.stopPropagation()` и `.stopImmediatePropagation()`?](https://youtu.be/kx3dR6ztICU?t=580)
 - [Разница между событиями `load` и `DOMContentLoaded`?](https://youtu.be/kx3dR6ztICU?t=627)
+- [Разница между attribute и property у DOM-элементов?](https://youtu.be/IooJ3P2VUYs?t=659)
+- [Разница между HTMLCollection и NodeList?](https://youtu.be/IooJ3P2VUYs?t=705)
 ---
 
 <h3>
   <img src="./assets/JavaScript.png" width="16" height="16" />
-  <span>Async JS</span>
+  <span>Async JS:</span>
 </h3>
 
 - [Разница между синхронными и асинхронными функциями?](https://youtu.be/kx3dR6ztICU?t=681)
+- [Что такое AJAX?](https://youtu.be/IooJ3P2VUYs?t=547)
+- [Что такое same-origin policy в контексте JavaScript?](https://youtu.be/IooJ3P2VUYs?t=612)
+---
+
+<h3>
+  <img src="./assets/JavaScript.png" width="16" height="16" />
+  <span>ECMAScript:</span>
+</h3>
+
+- [Что такое ECMAScript? В чём отличие от JavaScript?](https://youtu.be/IooJ3P2VUYs?t=336)
+- [Можно ли изменить значение определённое через const?](https://youtu.be/IooJ3P2VUYs?t=407)
+- [Что такое временная мёртвая зона (temporal dead zone)?](https://youtu.be/IooJ3P2VUYs?t=478)
 ---
 
 <h3>
@@ -131,3 +150,4 @@
 - [Функция суммирования всех цифр числа?](https://youtu.be/CjdCxxqObaM?t=764)
 - [Функция поиска минимального и максимального значений в массиве?](https://youtu.be/rlWgI7AvV18?t=670)
 - [Функция создания набора дубликатов символов строки?](https://youtu.be/kx3dR6ztICU?t=736)
+- [Функция возврата индексов заглавных букв строки?](https://youtu.be/IooJ3P2VUYs?t=767)
