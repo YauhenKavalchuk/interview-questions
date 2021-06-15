@@ -96,10 +96,10 @@
 - [Что такое IIFE?](https://youtu.be/kx3dR6ztICU?t=396)
 - [Что такое псевдомассив `arguments`?](https://youtu.be/kx3dR6ztICU?t=442)
 - [Разница между host-объектами и нативными объектами?](https://youtu.be/kx3dR6ztICU?t=484)
-- [Почему результат сравнения 2х объектов это false?](https://youtu.be/IooJ3P2VUYs?t=100)
+- [Почему результат сравнения 2х объектов это `false`?](https://youtu.be/IooJ3P2VUYs?t=100)
 - [Что такое прототипное наследование? Как создать объект без прототипа?](https://youtu.be/IooJ3P2VUYs?t=154)
 - [Почему расширение нативных JavaScript-объектов это плохая практика](https://youtu.be/IooJ3P2VUYs?t=202)
-- [Что такое NaN? Как определить, что значение равно NaN?](https://youtu.be/IooJ3P2VUYs?t=266)
+- [Что такое `NaN`? Как определить, что значение равно `NaN`?](https://youtu.be/IooJ3P2VUYs?t=266)
 ---
 
 <h3>
@@ -135,7 +135,7 @@
 </h3>
 
 - [Что такое ECMAScript? В чём отличие от JavaScript?](https://youtu.be/IooJ3P2VUYs?t=336)
-- [Можно ли изменить значение определённое через const?](https://youtu.be/IooJ3P2VUYs?t=407)
+- [Можно ли изменить значение определённое через `const`?](https://youtu.be/IooJ3P2VUYs?t=407)
 - [Что такое временная мёртвая зона (temporal dead zone)?](https://youtu.be/IooJ3P2VUYs?t=478)
 ---
 
