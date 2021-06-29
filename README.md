@@ -25,9 +25,15 @@
 - [Что такое кроссбраузерность?](https://youtu.be/kx3dR6ztICU?t=90)
 - [Что такое HTTP?](https://youtu.be/w-vUj0gHGgg?t=422)
 - [Из чего состоит HTTP-запрос?](https://youtu.be/w-vUj0gHGgg?t=483)
+- [Какие методы может иметь HTTP-запрос?](https://youtu.be/G4iYlbilozM?t=419)
+- [Что такое HTTP cookie? Для чего они используются?](https://youtu.be/G4iYlbilozM?t=488)
 - [Основные принципы ООП?](https://youtu.be/w-vUj0gHGgg?t=538)
 - [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
 - [Что такое Babel? Для чего он используется?](https://youtu.be/w-vUj0gHGgg?t=680)
+- [Разница между feature detection, feature inference и анализом строки user-agent?](https://youtu.be/G4iYlbilozM?t=568)
+- [Что такое статический метод класса (`static`)? Как осуществляется его вызов?](https://youtu.be/G4iYlbilozM?t=641)
+- [Что такое Веб-компоненты и какие технологии в них используются?](https://youtu.be/G4iYlbilozM?t=704)
+- [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
 ---
 
 <h3>
@@ -113,6 +119,10 @@
 - [Что такое объектная обертка (Wrapper Objects)?](https://youtu.be/w-vUj0gHGgg?t=26)
 - [Как в JavaScript создать объект?](https://youtu.be/w-vUj0gHGgg?t=83)
 - [Для чего используется ключевое слово `new`?](https://youtu.be/w-vUj0gHGgg?t=125)
+- [Для чего используется оператор `!!` (двойного отрицания)?](https://youtu.be/G4iYlbilozM?t=26)
+- [Как проверить, является ли значение массивом?](https://youtu.be/G4iYlbilozM?t=68)
+- [Для чего используется оператор `%` (остатка)?](https://youtu.be/G4iYlbilozM?t=88)
+- [Как работает boxing/unboxing в JavaScript?](https://youtu.be/G4iYlbilozM?t=149)
 ---
 
 <h3>
@@ -141,7 +151,7 @@
 - [Что такое AJAX?](https://youtu.be/IooJ3P2VUYs?t=547)
 - [Что такое same-origin policy в контексте JavaScript?](https://youtu.be/IooJ3P2VUYs?t=612)
 - [Что такое цикл событий (event loop) и как он работает?](https://youtu.be/w-vUj0gHGgg?t=293)
-- [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
+- [Что такое промисы (Promises)?](https://youtu.be/G4iYlbilozM?t=371)
 ---
 
 <h3>
@@ -155,6 +165,9 @@
 - [Что такое временная мёртвая зона (temporal dead zone)?](https://youtu.be/IooJ3P2VUYs?t=478)
 - [Разница между Rest и Spread операторами?](https://youtu.be/w-vUj0gHGgg?t=183)
 - [Что такое деструктуризация?](https://youtu.be/w-vUj0gHGgg?t=241)
+- [Для чего используется цикл `for…of`?](https://youtu.be/G4iYlbilozM?t=223)
+- [Что такое шаблонные литералы (Template Literals)?](https://youtu.be/G4iYlbilozM?t=254)
+- [Что такое `Set`, `Map`, `WeackMap` и `WeackSet`?](https://youtu.be/G4iYlbilozM?t=288)
 ---
 
 <h3>
@@ -170,3 +183,4 @@
 - [Функция создания набора дубликатов символов строки?](https://youtu.be/kx3dR6ztICU?t=736)
 - [Функция возврата индексов заглавных букв строки?](https://youtu.be/IooJ3P2VUYs?t=767)
 - [Функция вывода чисел от 1 до n (n - передаваемый аргумент)](https://youtu.be/w-vUj0gHGgg?t=746)
+- [Функция возврата уникальных значений из нескольких массивов?](https://youtu.be/G4iYlbilozM?t=752)
