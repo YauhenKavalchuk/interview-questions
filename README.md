@@ -167,7 +167,7 @@
 - [Что такое деструктуризация?](https://youtu.be/w-vUj0gHGgg?t=241)
 - [Для чего используется цикл `for…of`?](https://youtu.be/G4iYlbilozM?t=223)
 - [Что такое шаблонные литералы (Template Literals)?](https://youtu.be/G4iYlbilozM?t=254)
-- [Что такое `Set`, `Map`, `WeackMap` и `WeackSet`?](https://youtu.be/G4iYlbilozM?t=288)
+- [Что такое `Set`, `Map`, `WeakMap` и `WeakSet`?](https://youtu.be/G4iYlbilozM?t=288)
 ---
 
 <h3>
