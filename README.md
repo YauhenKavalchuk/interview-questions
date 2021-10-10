@@ -7,13 +7,20 @@
 
 🚀 Ещё больше полезной информации можно найти на [YouTube канале](https://youtube.com/c/YauhenKavalchuk)
 
-## Поддержать канал:
-
-<a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+### Поддержать развитие канала:
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
 
 ---
+
+[youtube]: https://youtube.com/YauhenKavalchuk
+[instagram]: https://instagram.com/YauhenKavalchuk
+[linkedin]: https://linkedin.com/in/YauhenKavalchuk
+[vk]: https://vk.com/YauhenKavalchuk
+[twitter]: https://twitter.com/YauhenKavalchuk
+[sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
+[patron]: https://www.patreon.com/YauhenKavalchuk
+
 <h3>
   <img src="./assets/WWW.png" width="16" height="16" />
   <span>Web technologies:</span>
