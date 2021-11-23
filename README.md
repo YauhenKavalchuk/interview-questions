@@ -41,6 +41,8 @@
 - [Что такое статический метод класса (`static`)? Как осуществляется его вызов?](https://youtu.be/G4iYlbilozM?t=641)
 - [Что такое Веб-компоненты и какие технологии в них используются?](https://youtu.be/G4iYlbilozM?t=704)
 - [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
+- [Разница между `cookie`, `sessionStorage` и `localStorage`?](https://youtu.be/nvktMVFM0_M?t=604)
+- [Способы уменьшения времени загрузки веб-страницы?](https://youtu.be/nvktMVFM0_M?t=678)
 ---
 
 <h3>
@@ -130,6 +132,12 @@
 - [Как проверить, является ли значение массивом?](https://youtu.be/G4iYlbilozM?t=68)
 - [Для чего используется оператор `%` (остатка)?](https://youtu.be/G4iYlbilozM?t=88)
 - [Как работает boxing/unboxing в JavaScript?](https://youtu.be/G4iYlbilozM?t=149)
+- [Что такое мемоизация? Реализуйте базовую логику функции для мемоизации?](https://youtu.be/nvktMVFM0_M?t=30)
+- [Разница между оператором `in` и методом `hasOwnProperty`?](https://youtu.be/nvktMVFM0_M?t=102)
+- [Разница между глубокой (deep) и поверхностной (shallow) копиями объекта? Как сделать каждую из них?](https://youtu.be/nvktMVFM0_M?t=125)
+- [Что такое цепочка вызовов функций (chaining)? Как реализовать такой подход?](https://youtu.be/nvktMVFM0_M?t=200)
+- [Что такое необъявленная переменная?](https://youtu.be/nvktMVFM0_M?t=236)
+- [Как передаются параметры в функцию: по ссылке или по значению?](https://youtu.be/nvktMVFM0_M?t=280)
 ---
 
 <h3>
@@ -147,6 +155,7 @@
 - [Разница между событиями `load` и `DOMContentLoaded`?](https://youtu.be/kx3dR6ztICU?t=627)
 - [Разница между attribute и property у DOM-элементов?](https://youtu.be/IooJ3P2VUYs?t=659)
 - [Разница между HTMLCollection и NodeList?](https://youtu.be/IooJ3P2VUYs?t=705)
+- [Как динамически добавить элемент на HTML-страницу?](https://youtu.be/nvktMVFM0_M?t=551)
 ---
 
 <h3>
@@ -175,6 +184,9 @@
 - [Для чего используется цикл `for…of`?](https://youtu.be/G4iYlbilozM?t=223)
 - [Что такое шаблонные литералы (Template Literals)?](https://youtu.be/G4iYlbilozM?t=254)
 - [Что такое `Set`, `Map`, `WeakMap` и `WeakSet`?](https://youtu.be/G4iYlbilozM?t=288)
+- [Разница между обычными функциями и стрелочными?](https://youtu.be/nvktMVFM0_M?t=347)
+- [Разница между методом `Object.freeze()` и `const`?](https://youtu.be/nvktMVFM0_M?t=429)
+- [Что такое генераторы? Когда стоит использовать генераторы?](https://youtu.be/nvktMVFM0_M?t=476)
 ---
 
 <h3>
@@ -191,3 +203,4 @@
 - [Функция возврата индексов заглавных букв строки?](https://youtu.be/IooJ3P2VUYs?t=767)
 - [Функция вывода чисел от 1 до n (n - передаваемый аргумент)](https://youtu.be/w-vUj0gHGgg?t=746)
 - [Функция возврата уникальных значений из нескольких массивов?](https://youtu.be/G4iYlbilozM?t=752)
+- [Функция форматирования цифр в телефонный номер?](https://youtu.be/nvktMVFM0_M?t=742)
