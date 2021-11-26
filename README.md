@@ -7,6 +7,12 @@
 
 🚀 Ещё больше полезной информации можно найти на [YouTube канале](https://youtube.com/c/YauhenKavalchuk)
 
+---
+
+<p align="center">Не забудь щёлкнуть ⭐, если тебе нравится проект!<p>
+
+---
+
 ### Поддержать развитие канала:
 [<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
 [<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
