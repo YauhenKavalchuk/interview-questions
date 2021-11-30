@@ -73,6 +73,8 @@
 - [Для чего используют `data-`атрибуты?](https://youtu.be/rlWgI7AvV18?t=34)
 - [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
 - [Для чего используется элемент `datalist`?](https://youtu.be/rlWgI7AvV18?t=178)
+- [Почему хорошей практикой считается располагать `<link>` для подключения CSS стилей внутри тэга `<head>`, а `<script>` для подключения JS ставить перед закрывающимся тэгом `</body>`?](https://youtu.be/7TvS0iKR3_c?t=30)
+- [Основные этапы проверок валидности HTML-документа?](https://youtu.be/7TvS0iKR3_c?t=133)
 ---
 
 <h3>
@@ -162,6 +164,12 @@
 - [Разница между attribute и property у DOM-элементов?](https://youtu.be/IooJ3P2VUYs?t=659)
 - [Разница между HTMLCollection и NodeList?](https://youtu.be/IooJ3P2VUYs?t=705)
 - [Как динамически добавить элемент на HTML-страницу?](https://youtu.be/nvktMVFM0_M?t=551)
+- [Типы узлов DOM-дерева?](https://youtu.be/7TvS0iKR3_c?t=201)
+- [Свойства для перемещения по DOM-дереву?](https://youtu.be/7TvS0iKR3_c?t=245)
+- [Виды событий в JavaScript?](https://youtu.be/7TvS0iKR3_c?t=318)
+- [Как добавить обработчик события на DOM-элемент?](https://youtu.be/7TvS0iKR3_c?t=425)
+- [Как удалить обработчик события с DOM-элемента?](https://youtu.be/7TvS0iKR3_c?t=505)
+- [Сколько аргументов принимает `addEventListener`?](https://youtu.be/7TvS0iKR3_c?t=538)
 ---
 
 <h3>
@@ -196,6 +204,16 @@
 ---
 
 <h3>
+  <img src="./assets/React.png" width="16" height="16" />
+  <span>React:</span>
+</h3>
+
+- [Что такое React?](https://youtu.be/7TvS0iKR3_c?t=638)
+- [Перечислите особенности React?](https://youtu.be/7TvS0iKR3_c?t=671)
+- [Что такое Virtual DOM? Как он работает с React?](https://youtu.be/7TvS0iKR3_c?t=740)
+---
+
+<h3>
   <img src="./assets/Dev.png" width="16" height="16" />
   <span>Практические задачи:</span>
 </h3>
@@ -210,3 +228,4 @@
 - [Функция вывода чисел от 1 до n (n - передаваемый аргумент)](https://youtu.be/w-vUj0gHGgg?t=746)
 - [Функция возврата уникальных значений из нескольких массивов?](https://youtu.be/G4iYlbilozM?t=752)
 - [Функция форматирования цифр в телефонный номер?](https://youtu.be/nvktMVFM0_M?t=742)
+- [Функция поиска гласных букв в строке?](https://youtu.be/7TvS0iKR3_c?t=807)
