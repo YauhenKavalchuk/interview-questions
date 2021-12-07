@@ -49,6 +49,10 @@
 - [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
 - [Разница между `cookie`, `sessionStorage` и `localStorage`?](https://youtu.be/nvktMVFM0_M?t=604)
 - [Способы уменьшения времени загрузки веб-страницы?](https://youtu.be/nvktMVFM0_M?t=678)
+- [Особенности разработки мультиязычных сайтов?](https://youtu.be/yvOXvZ8aEFo?t=82)
+- [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/yvOXvZ8aEFo?t=164)
+- [Разница между layout, painting и compositing?](https://youtu.be/yvOXvZ8aEFo?t=209)
+- [Что такое `WebSocket`? В чем принцип его работы?](https://youtu.be/yvOXvZ8aEFo?t=237)
 ---
 
 <h3>
@@ -75,6 +79,7 @@
 - [Для чего используется элемент `datalist`?](https://youtu.be/rlWgI7AvV18?t=178)
 - [Почему хорошей практикой считается располагать `<link>` для подключения CSS стилей внутри тэга `<head>`, а `<script>` для подключения JS ставить перед закрывающимся тэгом `</body>`?](https://youtu.be/7TvS0iKR3_c?t=30)
 - [Основные этапы проверок валидности HTML-документа?](https://youtu.be/7TvS0iKR3_c?t=133)
+- [Если представить HTML5 как открытую веб-платформу, из каких блоков он состоит?](https://youtu.be/yvOXvZ8aEFo?t=28)
 ---
 
 <h3>
@@ -146,6 +151,7 @@
 - [Что такое цепочка вызовов функций (chaining)? Как реализовать такой подход?](https://youtu.be/nvktMVFM0_M?t=200)
 - [Что такое необъявленная переменная?](https://youtu.be/nvktMVFM0_M?t=236)
 - [Как передаются параметры в функцию: по ссылке или по значению?](https://youtu.be/nvktMVFM0_M?t=280)
+- [Что такое прототип объекта в JavaScript?](https://youtu.be/yvOXvZ8aEFo?t=287)
 ---
 
 <h3>
@@ -182,6 +188,9 @@
 - [Что такое same-origin policy в контексте JavaScript?](https://youtu.be/IooJ3P2VUYs?t=612)
 - [Что такое цикл событий (event loop) и как он работает?](https://youtu.be/w-vUj0gHGgg?t=293)
 - [Что такое промисы (Promises)?](https://youtu.be/G4iYlbilozM?t=371)
+- [Плюсы и минусы использовании Ajax?](https://youtu.be/yvOXvZ8aEFo?t=352)
+- [Подходы при работе с асинхронным кодом?](https://youtu.be/yvOXvZ8aEFo?t=410)
+- [Преимущества использовании промисов вместо колбэков?](https://youtu.be/yvOXvZ8aEFo?t=481)
 ---
 
 <h3>
@@ -211,6 +220,10 @@
 - [Что такое React?](https://youtu.be/7TvS0iKR3_c?t=638)
 - [Перечислите особенности React?](https://youtu.be/7TvS0iKR3_c?t=671)
 - [Что такое Virtual DOM? Как он работает с React?](https://youtu.be/7TvS0iKR3_c?t=740)
+- [Для чего нужен атрибут `key` при рендере списков?](https://youtu.be/yvOXvZ8aEFo?t=526)
+- [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
+- [Что такое Компонент высшего порядка (Higher-Order Component / HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
+- [Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?](https://youtu.be/yvOXvZ8aEFo?t=684)
 ---
 
 <h3>
@@ -229,3 +242,4 @@
 - [Функция возврата уникальных значений из нескольких массивов?](https://youtu.be/G4iYlbilozM?t=752)
 - [Функция форматирования цифр в телефонный номер?](https://youtu.be/nvktMVFM0_M?t=742)
 - [Функция поиска гласных букв в строке?](https://youtu.be/7TvS0iKR3_c?t=807)
+- [Функция трансформации букв в заглавный регистр?](https://youtu.be/yvOXvZ8aEFo?t=744)
