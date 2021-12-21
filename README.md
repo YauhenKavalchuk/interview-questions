@@ -224,6 +224,25 @@
 - [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
 - [Что такое Компонент высшего порядка (Higher-Order Component / HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
 - [Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?](https://youtu.be/yvOXvZ8aEFo?t=684)
+- [Методы жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=35)
+- [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
+- [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
+- [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
+- [Что такое контекст (`Context`)?](https://youtu.be/RpcB5jnJvcI?t=390)
+- [Что такое React хуки (Hooks)?](https://youtu.be/RpcB5jnJvcI?t=475)
+- [Что Такое `JSX`?](https://youtu.be/RpcB5jnJvcI?t=571)
+- [Разница между состоянием(`state`) и пропсами(`props`)?](https://youtu.be/RpcB5jnJvcI?t=621)
+- [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
+- [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=689)
+---
+
+<h3>
+  <img src="./assets/React.png" width="16" height="16" />
+  <span>State management:</span>
+</h3>
+
+- [Что такое Flux?](https://youtu.be/RpcB5jnJvcI?t=792)
+- [Что такое Redux? Ключевые принципы Redux?](https://youtu.be/RpcB5jnJvcI?t=886)
 ---
 
 <h3>
