@@ -234,6 +234,20 @@
 - [Разница между состоянием(`state`) и пропсами(`props`)?](https://youtu.be/RpcB5jnJvcI?t=621)
 - [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
 - [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=689)
+- [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
+- [Что такое React-ссылка (Ref)? Как создать ссылку?](https://youtu.be/81yRgVQ1ciM?t=69)
+- [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
+- [Назовите преимущества использования React?](https://youtu.be/81yRgVQ1ciM?t=170)
+- [Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?](https://youtu.be/81yRgVQ1ciM?t=224)
+- [Что такое компонент-переключатель (Switching Component)?](https://youtu.be/81yRgVQ1ciM?t=265)
+- [Разница между `React` и `ReactDOM`?](https://youtu.be/81yRgVQ1ciM?t=305)
+- [Разница между компонентом и контейнером?](https://youtu.be/81yRgVQ1ciM?t=370)
+- [Как React обрабатывает, или ограничивает использование пропсов определенного типа?](https://youtu.be/81yRgVQ1ciM?t=413)
+- [Что такое «бурение пропсов» (Prop Drilling)? Как его избежать?](https://youtu.be/81yRgVQ1ciM?t=469)
+- [Что такое строгий режим в React? Его преимущества?](https://youtu.be/81yRgVQ1ciM?t=532)
+- [Что такое «опрос» (Polling)? Как его реализовать в React?](https://youtu.be/81yRgVQ1ciM?t=597)
+- [Разница между элементом и компонентом?](https://youtu.be/81yRgVQ1ciM?t=663)
+- [Что такое `ReactDOMServer`?](https://youtu.be/81yRgVQ1ciM?t=763)
 ---
 
 <h3>
@@ -243,6 +257,7 @@
 
 - [Что такое Flux?](https://youtu.be/RpcB5jnJvcI?t=792)
 - [Что такое Redux? Ключевые принципы Redux?](https://youtu.be/RpcB5jnJvcI?t=886)
+- [Разница между Redux и Flux?](https://youtu.be/81yRgVQ1ciM?t=819)
 ---
 
 <h3>
