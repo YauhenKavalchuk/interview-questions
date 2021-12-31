@@ -13,12 +13,6 @@
 
 ---
 
-### Поддержать развитие канала:
-[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
-[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
-
----
-
 ### Темы вопросов:
 - [Web technologies (общие вопросы по веб-разработке)](./questions/web.md)
 - [HTML (вопросы по языку гипертекстовой разметки)](./questions/html.md)
@@ -30,6 +24,12 @@
 - [React (вопросы по библиотеке React)](./questions/react.md)
 - [State management (вопросы по менеджменту состояния)](./questions/state-management.md)
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
+
+---
+
+### Поддержать развитие канала:
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
