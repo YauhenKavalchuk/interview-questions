@@ -1,5 +1,5 @@
 <h3>
-  <img src="./assets/WWW.png" width="16" height="16" />
+  <img src="../assets/WWW.png" width="16" height="16" />
   <span>Web technologies:</span>
 </h3>
 

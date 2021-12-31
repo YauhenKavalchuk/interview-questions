@@ -1,5 +1,5 @@
 <h3>
-  <img src="./assets/AsyncJS.png" width="16" height="16" />
+  <img src="../assets/AsyncJS.png" width="16" height="16" />
   <span>Async JS:</span>
 </h3>
 
