@@ -20,3 +20,4 @@
 - [Как добавить обработчик события на DOM-элемент?](https://youtu.be/7TvS0iKR3_c?t=425)
 - [Как удалить обработчик события с DOM-элемента?](https://youtu.be/7TvS0iKR3_c?t=505)
 - [Сколько аргументов принимает `addEventListener`?](https://youtu.be/7TvS0iKR3_c?t=538)
+- [Разница между `innerHTML` и `outerHTML`?](https://youtu.be/xZLxdts7ZW4?t=621)
