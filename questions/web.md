@@ -24,3 +24,7 @@
 - [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/yvOXvZ8aEFo?t=164)
 - [Разница между layout, painting и compositing?](https://youtu.be/yvOXvZ8aEFo?t=209)
 - [Что такое `WebSocket`? В чем принцип его работы?](https://youtu.be/yvOXvZ8aEFo?t=237)
+- [Разница между `HTTP` и `HTTPS`?](https://youtu.be/xZLxdts7ZW4?t=31)
+- [Разница между Long-Polling, Websockets и Server-Sent Events?](https://youtu.be/xZLxdts7ZW4?t=98)
+- [Что такое MVC?](https://youtu.be/xZLxdts7ZW4?t=181)
+- [Недостатки паттерна MVW?](https://youtu.be/xZLxdts7ZW4?t=282)
