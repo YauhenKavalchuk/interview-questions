@@ -44,3 +44,7 @@
 - [Что такое необъявленная переменная?](https://youtu.be/nvktMVFM0_M?t=236)
 - [Как передаются параметры в функцию: по ссылке или по значению?](https://youtu.be/nvktMVFM0_M?t=280)
 - [Что такое прототип объекта в JavaScript?](https://youtu.be/yvOXvZ8aEFo?t=287)
+- [Разниц между `Object.freeze()` и `Object.seal()`?](https://youtu.be/xZLxdts7ZW4?t=374)
+- [Разница между методами `slice()` и `splice()`?](https://youtu.be/xZLxdts7ZW4?t=435)
+- [Как работают методы `find()`, `findIndex()` и `indexOf()`?](https://youtu.be/xZLxdts7ZW4?t=488)
+- [Плюсы и минусы использования `use strict`?](https://youtu.be/xZLxdts7ZW4?t=549)
