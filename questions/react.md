@@ -41,3 +41,7 @@
 - [Что такое события указателя (Pointer Events)?](https://youtu.be/HBSAjY-xh3k?t=239)
 - [Что такое инверсия наследования (Inheritance Inversion)?](https://youtu.be/HBSAjY-xh3k?t=301)
 - [Как в React реализовать двустороннее связывание данных?](https://youtu.be/HBSAjY-xh3k?t=355)
+- [Разница между классовым и функциональным компонентами?](https://youtu.be/xZLxdts7ZW4?t=664)
+- [Разница между `useEffect()` и `componentDidMount()`?](https://youtu.be/xZLxdts7ZW4?t=754)
+- [Преимущества хуков?](https://youtu.be/xZLxdts7ZW4?t=819)
+- [Правила (ограничения) использования хуков?](https://youtu.be/xZLxdts7ZW4?t=873)
