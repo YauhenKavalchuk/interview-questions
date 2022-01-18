@@ -48,3 +48,8 @@
 - [Разница между методами `slice()` и `splice()`?](https://youtu.be/xZLxdts7ZW4?t=435)
 - [Как работают методы `find()`, `findIndex()` и `indexOf()`?](https://youtu.be/xZLxdts7ZW4?t=488)
 - [Плюсы и минусы использования `use strict`?](https://youtu.be/xZLxdts7ZW4?t=549)
+- [Разница между методами `push()`, `pop()`, `shift()` и `unshift()`?](https://youtu.be/ngyOYuTrUk8?t=385)
+- [Плюсы и минусы иммутабельности? Как достичь иммутабельности в JS?](https://youtu.be/ngyOYuTrUk8?t=445)
+- [Типы всплывающих окон в JavaScript?](https://youtu.be/ngyOYuTrUk8?t=515)
+- [Типы объектов JavaScript?](https://youtu.be/ngyOYuTrUk8?t=595)
+- [Парадигмы программирования в JavaScript?](https://youtu.be/ngyOYuTrUk8?t=653)
