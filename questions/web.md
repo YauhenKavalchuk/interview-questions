@@ -28,3 +28,6 @@
 - [Разница между Long-Polling, Websockets и Server-Sent Events?](https://youtu.be/xZLxdts7ZW4?t=98)
 - [Что такое MVC?](https://youtu.be/xZLxdts7ZW4?t=181)
 - [Недостатки паттерна MVW?](https://youtu.be/xZLxdts7ZW4?t=282)
+- [Разница между `PUT`- и `POST`-запросами?](https://youtu.be/ngyOYuTrUk8?t=29)
+- [Что Такое API?](https://youtu.be/ngyOYuTrUk8?t=98)
+- [Что такое CDN?](https://youtu.be/ngyOYuTrUk8?t=152)
