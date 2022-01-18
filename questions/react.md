@@ -45,3 +45,6 @@
 - [Разница между `useEffect()` и `componentDidMount()`?](https://youtu.be/xZLxdts7ZW4?t=754)
 - [Преимущества хуков?](https://youtu.be/xZLxdts7ZW4?t=819)
 - [Правила (ограничения) использования хуков?](https://youtu.be/xZLxdts7ZW4?t=873)
+- [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
+- [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
+- [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
