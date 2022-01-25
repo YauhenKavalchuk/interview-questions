@@ -22,6 +22,7 @@
 - [Async JS (вопросы из асинхронного JavaScript)](./questions/async-js.md)
 - [ECMAScript (вопросы из новых версий стандарта ECMAScript)](./questions/es.md)
 - [React (вопросы по библиотеке React)](./questions/react.md)
+- [React Ecosystem (вопросы по пакетам и библиотекам экосистемы React)(./questions/react-ecosystem.md)]  
 - [State management (вопросы по менеджменту состояния)](./questions/state-management.md)
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
 
