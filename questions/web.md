@@ -31,3 +31,4 @@
 - [Разница между `PUT`- и `POST`-запросами?](https://youtu.be/ngyOYuTrUk8?t=29)
 - [Что Такое API?](https://youtu.be/ngyOYuTrUk8?t=98)
 - [Что такое CDN?](https://youtu.be/ngyOYuTrUk8?t=152)
+- [Разница между композицией и наследованием?](https://youtu.be/GZUy2i6QN7o?t=29)
