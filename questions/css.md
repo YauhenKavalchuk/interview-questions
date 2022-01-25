@@ -20,3 +20,5 @@
 - [Что такое псевдоэлементы? И для чего они используются?](https://youtu.be/rlWgI7AvV18?t=355)
 - [Что такое схлопывание границ (margin collapsing)?](https://youtu.be/kx3dR6ztICU?t=30)
 - [Что такое CSS препроцессор?](https://youtu.be/kx3dR6ztICU?t=159)
+- [Что такое `z-index`? Как формируется контекст наложения?](https://youtu.be/GZUy2i6QN7o?t=102)
+- [Порядок наложения элементов в CSS (Stacking Order)?](https://youtu.be/GZUy2i6QN7o?t=204)
