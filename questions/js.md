@@ -12,6 +12,7 @@
 - [Типы таймеров в JavaScript?](https://youtu.be/G7hLwudGWL4?t=690)
 - [Что такое поднятие (Hoisting)?](https://youtu.be/G7hLwudGWL4?t=552)
 - [Что такое область видимости (Scope)?](https://youtu.be/1eIRTdgzHtw?t=282)
+- [Разница между `var`, `let` и `const`?](https://youtu.be/1eIRTdgzHtw?t=362)
 - [Что такое замыкание (Closure)?](https://youtu.be/kx3dR6ztICU?t=284)
 - [Что обозначает `this` в JavaScript?](https://youtu.be/rlWgI7AvV18?t=507)
 - [Что такое функции высшего порядка (Higher Order Functions)?](https://youtu.be/1eIRTdgzHtw?t=426)
