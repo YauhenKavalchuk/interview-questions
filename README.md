@@ -19,7 +19,7 @@
 - [HTML (вопросы по языку гипертекстовой разметки)](./questions/html.md)
 - [CSS (вопросы по каскадным таблицам стилей)](./questions/css.md)
 - [JavaScript (вопросы по языку JavaScript)](./questions/js.md)
-- [JS DOM (вопросы из браузерного JavaScript)](./questions/browser-js.md)
+- [Browser JS & Web API (вопросы из браузерного JavaScript)](./questions/browser-js.md)
 - [Async JS (вопросы из асинхронного JavaScript)](./questions/async-js.md)
 - [ECMAScript (вопросы из новых версий стандарта ECMAScript)](./questions/es.md)
 - [TypeScript (вопросы по языку TypeScript)](./questions/ts.md)
