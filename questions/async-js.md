@@ -11,3 +11,6 @@
 - [Плюсы и минусы использовании Ajax?](https://youtu.be/yvOXvZ8aEFo?t=352)
 - [Подходы при работе с асинхронным кодом?](https://youtu.be/yvOXvZ8aEFo?t=410)
 - [Преимущества использовании промисов вместо колбэков?](https://youtu.be/yvOXvZ8aEFo?t=481)
+- [Что такое коллбэк-функция (Callback)? Что такое Callback Hell?](https://youtu.be/V-m0sQ-hW58?t=348)
+- [Что такое `async/await`?](https://youtu.be/V-m0sQ-hW58?t=417)
+- [Разница между `Promise.all()`, `Promise.any()` и `Promise.race()`?](https://youtu.be/XtQPrt8G0n8?t=782)
