@@ -22,9 +22,12 @@
 - [JS DOM (вопросы из браузерного JavaScript)](./questions/browser-js.md)
 - [Async JS (вопросы из асинхронного JavaScript)](./questions/async-js.md)
 - [ECMAScript (вопросы из новых версий стандарта ECMAScript)](./questions/es.md)
+- [TypeScript (вопросы по языку TypeScript)] (./questions/ts.md)
 - [React (вопросы по библиотеке React)](./questions/react.md)
 - [React Ecosystem (вопросы по пакетам и библиотекам экосистемы React)](./questions/react-ecosystem.md)
+- [Vue.js (вопросы по фрэймворку Vue.js)](./questions/vue-js.md)
 - [State management (вопросы по менеджменту состояния)](./questions/state-management.md)
+- [Node.js (вопросы по платформt Node.js)](./questions/node-js.md)  
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
 
 ---
