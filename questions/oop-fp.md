@@ -3,6 +3,8 @@
   <span>OOP & FP:</span>
 </h3>
 
+- [Основные принципы ООП?](https://youtu.be/w-vUj0gHGgg?t=538)
+- [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
 - [Разница между классовым и прототипным наследованием?](https://youtu.be/rWEsjNWBoIE?t=751)
 - [Однонаправленный поток данных и двусторонняя связь данных? В чем между ними разница?](https://youtu.be/rWEsjNWBoIE?t=845)
 - [Что такое функциональное программирование?](https://youtu.be/ovV8GhIkzBE?t=410)
