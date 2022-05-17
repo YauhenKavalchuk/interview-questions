@@ -11,8 +11,6 @@
 - [Из чего состоит HTTP-запрос?](https://youtu.be/w-vUj0gHGgg?t=483)
 - [Какие методы может иметь HTTP-запрос?](https://youtu.be/G4iYlbilozM?t=419)
 - [Что такое HTTP cookie? Для чего они используются?](https://youtu.be/G4iYlbilozM?t=488)
-- [Основные принципы ООП?](https://youtu.be/w-vUj0gHGgg?t=538)
-- [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
 - [Что такое Babel? Для чего он используется?](https://youtu.be/w-vUj0gHGgg?t=680)
 - [Разница между feature detection, feature inference и анализом строки user-agent?](https://youtu.be/G4iYlbilozM?t=568)
 - [Что такое статический метод класса (`static`)? Как осуществляется его вызов?](https://youtu.be/G4iYlbilozM?t=641)
