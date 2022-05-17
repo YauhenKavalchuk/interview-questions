@@ -32,3 +32,5 @@
 - [Что Такое API?](https://youtu.be/ngyOYuTrUk8?t=98)
 - [Что такое CDN?](https://youtu.be/ngyOYuTrUk8?t=152)
 - [Разница между композицией и наследованием?](https://youtu.be/GZUy2i6QN7o?t=29)
+- [Разница между `JSON` и `XML`?](https://youtu.be/XtQPrt8G0n8?t=28)
+- [Что такое Progressive Web Application?](https://youtu.be/XtQPrt8G0n8?t=76)
