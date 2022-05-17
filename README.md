@@ -14,14 +14,15 @@
 ---
 
 ### Темы вопросов:
-- [Web technologies (общие вопросы по веб-разработке)](./questions/web.md)
+- [Web Technologies (общие вопросы по веб-разработке)](./questions/web.md)
+- [Web API (вопросы из веб API)](./questions/web-api.md)
 - [OOP & FP (вопросы из объектно-ориентированного и функционального программирования)](./questions/oop-fp.md)   
 - [HTML (вопросы по языку гипертекстовой разметки)](./questions/html.md)
 - [CSS (вопросы по каскадным таблицам стилей)](./questions/css.md)
 - [JavaScript (вопросы по языку JavaScript)](./questions/js.md)
-- [Browser JS & Web API (вопросы из браузерного JavaScript)](./questions/browser-js.md)
+- [JS in Browser (вопросы из браузерного JavaScript)](./questions/browser-js.md)
 - [Async JS (вопросы из асинхронного JavaScript)](./questions/async-js.md)
-- [ECMAScript (вопросы из новых версий стандарта ECMAScript)](./questions/es.md)
+- [ECMAScript (вопросы из стандарта ECMAScript)](./questions/es.md)
 - [TypeScript (вопросы по языку TypeScript)](./questions/ts.md)
 - [React (вопросы по библиотеке React)](./questions/react.md)
 - [React Ecosystem (вопросы по пакетам и библиотекам экосистемы React)](./questions/react-ecosystem.md)
