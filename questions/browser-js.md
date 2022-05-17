@@ -1,6 +1,6 @@
 <h3>
   <img src="../assets/JSDom.png" width="16" height="16" />
-  <span>JS DOM:</span>
+  <span>JS in Browser:</span>
 </h3>
 
 - [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
@@ -21,17 +21,5 @@
 - [Как удалить обработчик события с DOM-элемента?](https://youtu.be/7TvS0iKR3_c?t=505)
 - [Сколько аргументов принимает `addEventListener`?](https://youtu.be/7TvS0iKR3_c?t=538)
 - [Разница между `innerHTML` и `outerHTML`?](https://youtu.be/xZLxdts7ZW4?t=621)
-- [Что такое безопасные (Secure) и HttpOnly cookies?](https://youtu.be/ovV8GhIkzBE?t=158)
-- [Что такое Content Security Policy (CSP)?](https://youtu.be/ovV8GhIkzBE?t=231)
-- [Что такое межсайтовый скриптинг (XSS)?](https://youtu.be/ovV8GhIkzBE?t=292)
-- [Что такое REST?](https://youtu.be/ovV8GhIkzBE?t=352)
-- [Что такое IndexedDB в браузере? Преимущества IndexedDB?](https://youtu.be/V-m0sQ-hW58?t=653)
-- [Что такое Service Workers?](https://youtu.be/V-m0sQ-hW58?t=727)
-- [Что такое Web Workers?](https://youtu.be/V-m0sQ-hW58?t=811)
 - [Расскажите про координаты в браузере?](https://youtu.be/70VnuTXi4Wk?t=644)
-- [Что такое IP-адрес?](https://youtu.be/70VnuTXi4Wk?t=720)
-- [Разница между host и domain?](https://youtu.be/70VnuTXi4Wk?t=779)
-- [Разница между URI и URL?](https://youtu.be/70VnuTXi4Wk?t=844)
-- [Что такое History API в браузере?](https://youtu.be/XtQPrt8G0n8?t=352)
-- [Что такое веб-хранилище (web storage)?](https://youtu.be/XtQPrt8G0n8?t=406)
-- [Что такое BOM?](https://youtu.be/XtQPrt8G0n8?t=448)
+- [Разница между `JSON` и `XML`?](https://youtu.be/XtQPrt8G0n8?t=28)
