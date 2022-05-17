@@ -6,6 +6,8 @@
 - [Разница между классовым и прототипным наследованием?](https://youtu.be/rWEsjNWBoIE?t=751)
 - [Однонаправленный поток данных и двусторонняя связь данных? В чем между ними разница?](https://youtu.be/rWEsjNWBoIE?t=845)
 - [Что такое функциональное программирование?](https://youtu.be/ovV8GhIkzBE?t=410)
+- [Что такое MVC?](https://youtu.be/xZLxdts7ZW4?t=181)
+- [Недостатки паттерна MVW?](https://youtu.be/xZLxdts7ZW4?t=282)
 - [Что такое MVVM?](https://youtu.be/ovV8GhIkzBE?t=489)
 - [Что такое MVP?](https://youtu.be/ovV8GhIkzBE?t=581)
 - [Разница между функцией и методом?](https://youtu.be/ovV8GhIkzBE?t=645)
