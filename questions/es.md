@@ -14,6 +14,7 @@
 - [Что такое `Set`, `Map`, `WeakMap` и `WeakSet`?](https://youtu.be/G4iYlbilozM?t=288)
 - [Разница между обычными функциями и стрелочными?](https://youtu.be/nvktMVFM0_M?t=347)
 - [Разница между методом `Object.freeze()` и `const`?](https://youtu.be/nvktMVFM0_M?t=429)
+- [Что такое итераторы?](https://youtu.be/trriSYNrHw4?t=836)
 - [Что такое генераторы? Когда стоит использовать генераторы?](https://youtu.be/nvktMVFM0_M?t=476)
 - [Что такое ES6 модули?](https://youtu.be/V-m0sQ-hW58?t=494)
 - [Что такое символ (Symbol) в ES6?](https://youtu.be/V-m0sQ-hW58?t=571)
