@@ -28,3 +28,6 @@
 - [Глобальные ключевые слова в CSS?](https://youtu.be/VYQl2GhbCUs?t=224)
 - [Что такое CSS-атрибут (`attr`)?](https://youtu.be/VYQl2GhbCUs?t=301)
 - [Что такое перечисление селекторов?](https://youtu.be/VYQl2GhbCUs?t=336)
+- [Для чего используется ключевое слово `currentColor` в CSS?](https://youtu.be/trriSYNrHw4?t=549)
+- [Какие псевдоклассы были добавлены в CSS3?](https://youtu.be/trriSYNrHw4?t=592)
+- [Какие фильтры есть в CSS?](https://youtu.be/trriSYNrHw4?t=662)
