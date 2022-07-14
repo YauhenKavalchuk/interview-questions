@@ -69,3 +69,4 @@
 - [Что такое выражения (expression) и инструкции (statement) в JavaScript?](https://youtu.be/VYQl2GhbCUs?t=706)
 - [Разница между `.some()` и `.every()`?](https://youtu.be/VYQl2GhbCUs?t=762)
 - [Как сгенерировать случайное число в JavaScript?](https://youtu.be/VYQl2GhbCUs?t=801)
+- [Как работает «сборщик мусора» в JavaScript?](https://youtu.be/trriSYNrHw4?t=786)
