@@ -4,6 +4,7 @@
 </h3>
 
 - [Что такое прогрессивный рендеринг?](https://youtu.be/IooJ3P2VUYs?t=26)
+- [Что такое прогрессивный SSR?](https://youtu.be/trriSYNrHw4?t=25)
 - [Что такое поток документа?](https://youtu.be/trriSYNrHw4?t=102)
 - [Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?](https://youtu.be/1eIRTdgzHtw?t=233)
 - [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)
