@@ -14,6 +14,8 @@
 - [Что такое безопасные (Secure) и HttpOnly cookies?](https://youtu.be/ovV8GhIkzBE?t=158)
 - [Что такое Content Security Policy (CSP)?](https://youtu.be/ovV8GhIkzBE?t=231)
 - [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
+- [Что такое прогрессивный SSR?](https://youtu.be/trriSYNrHw4?t=25)
+- [Как работает `JSONP`?](https://youtu.be/trriSYNrHw4?t=178)
 - [Что такое IndexedDB в браузере? Преимущества IndexedDB?](https://youtu.be/V-m0sQ-hW58?t=653)
 - [Что такое Service Workers?](https://youtu.be/V-m0sQ-hW58?t=727)
 - [Что такое Web Workers?](https://youtu.be/V-m0sQ-hW58?t=811)
