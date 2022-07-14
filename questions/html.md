@@ -45,3 +45,7 @@
 - [Для чего используются тэги `sub` и `sup`?](https://youtu.be/VYQl2GhbCUs?t=491)
 - [Как можно скрыть элемент разметки не используя CSS и JS?](https://youtu.be/VYQl2GhbCUs?t=539)
 - [Разница между `meter` и `progress`?](https://youtu.be/VYQl2GhbCUs?t=608)
+- [Как можно сгруппировать опции внутри тэга `<select>`?](https://youtu.be/trriSYNrHw4?t=304)
+- [Какие глобальные атрибуты есть в HTML?](https://youtu.be/trriSYNrHw4?t=360)
+- [Для чего используют атрибут `novalidate`?](https://youtu.be/trriSYNrHw4?t=451)
+- [Для чего используют атрибут `inputmode`?](https://youtu.be/trriSYNrHw4?t=512)
