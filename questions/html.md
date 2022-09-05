@@ -16,7 +16,7 @@
 - [Есть ли у HTML элементов свои дефолтные специфичные стили?](https://youtu.be/G7hLwudGWL4?t=181)
 - [Типы списков в HTML?](https://youtu.be/1eIRTdgzHtw?t=29)
 - [Типы `<input>` элементов в HTML?](https://youtu.be/CjdCxxqObaM?t=87)
-- [Что такое элемент `canvas`? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
+- [Что такое элемент `<canvas>`? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
 - [Для чего используют `data-`атрибуты?](https://youtu.be/rlWgI7AvV18?t=34)
 - [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
 - [Для чего используется элемент `<datalist>`?](https://youtu.be/rlWgI7AvV18?t=178)
