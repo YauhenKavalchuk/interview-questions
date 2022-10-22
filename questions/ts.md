@@ -21,4 +21,4 @@
 - [Разница между внутренним (Internal Module) и внешним модулями (External Module)?](https://youtu.be/TOn-1RrowKE?t=807)
 - [Что такое декораторы в TypeScript?](https://youtu.be/VYQl2GhbCUs?t=29)
 - [Как TypeScript поддерживает необязательные и дефолтные параметры в функции?](https://youtu.be/VYQl2GhbCUs?t=102)
-- [Что такое перечисление (enum)?](https://youtu.be/VYQl2GhbCUs?t=168)
+- [Что такое перечисление (`enum`)?](https://youtu.be/VYQl2GhbCUs?t=168)
