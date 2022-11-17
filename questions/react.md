@@ -19,7 +19,7 @@
 - [Что Такое `JSX`?](https://youtu.be/RpcB5jnJvcI?t=571)
 - [Разница между состоянием(`state`) и пропсами(`props`)?](https://youtu.be/RpcB5jnJvcI?t=621)
 - [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
-- [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=689)
+- [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=730)
 - [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
 - [Что такое React-ссылка (Ref)? Как создать ссылку?](https://youtu.be/81yRgVQ1ciM?t=69)
 - [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
