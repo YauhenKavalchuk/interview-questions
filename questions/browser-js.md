@@ -23,3 +23,8 @@
 - [Разница между `innerHTML` и `outerHTML`?](https://youtu.be/xZLxdts7ZW4?t=621)
 - [Расскажите про координаты в браузере?](https://youtu.be/70VnuTXi4Wk?t=644)
 - [Разница между `JSON` и `XML`?](https://youtu.be/XtQPrt8G0n8?t=28)
+- [Как узнать об использовании метода `event.preventDefault()`?](https://youtu.be/lZNWrW39ELM?t=443)
+- [Для чего используется свойство `window.navigator`?](https://youtu.be/lZNWrW39ELM?t=493)
+- [Для чего используется метод `.focus()`?](https://youtu.be/lZNWrW39ELM?t=551)
+- [Для чего используется свойство `.forms`?](https://youtu.be/lZNWrW39ELM?t=616)
+- [Для чего используется метод `.scrollIntoView()`?](https://youtu.be/lZNWrW39ELM?t=682)
