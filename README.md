@@ -25,10 +25,11 @@
 - [ECMAScript (вопросы из стандарта ECMAScript)](./questions/es.md)
 - [TypeScript (вопросы по языку TypeScript)](./questions/ts.md)
 - [React (вопросы по библиотеке React)](./questions/react.md)
-- [React Ecosystem (вопросы по пакетам и библиотекам экосистемы React)](./questions/react-ecosystem.md)
 - [Vue.js (вопросы по фрэймворку Vue.js)](./questions/vue-js.md)
+- [Angular (вопросы по фрэймворку Angular)](./questions/angular.md)
 - [State management (вопросы по менеджменту состояния)](./questions/state-management.md)
-- [Node.js (вопросы по платформе Node.js)](./questions/node-js.md)  
+- [Node.js (вопросы по платформе Node.js)](./questions/node-js.md)
+- [React Ecosystem (вопросы по пакетам и библиотекам экосистемы React)](./questions/react-ecosystem.md)
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
 
 ---
