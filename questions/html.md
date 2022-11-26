@@ -49,3 +49,8 @@
 - [Как можно сгруппировать опции внутри тэга `<select>`?](https://youtu.be/trriSYNrHw4?t=304)
 - [Для чего используют атрибут `novalidate`?](https://youtu.be/trriSYNrHw4?t=451)
 - [Для чего используют атрибут `inputmode`?](https://youtu.be/trriSYNrHw4?t=512)
+- [Что такое скринридер?](https://youtu.be/xIGp2FCxqj0?t=30)
+- [Для чего используется атрибут `pattern`?](https://youtu.be/xIGp2FCxqj0?t=111)
+- [Как можно изменить форму картинки или HTML элемента?](https://youtu.be/xIGp2FCxqj0?t=163)
+- [Чем отличается `<article>` от `<section>`?](https://youtu.be/xIGp2FCxqj0?t=232)
+- [Расскажите об особенностях стилизации `<svg>`?](https://youtu.be/xIGp2FCxqj0?t=298)
