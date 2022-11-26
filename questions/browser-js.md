@@ -28,3 +28,5 @@
 - [Для чего используется метод `.focus()`?](https://youtu.be/lZNWrW39ELM?t=551)
 - [Для чего используется свойство `.forms`?](https://youtu.be/lZNWrW39ELM?t=616)
 - [Для чего используется метод `.scrollIntoView()`?](https://youtu.be/lZNWrW39ELM?t=682)
+- [Как использовать media выражения в JavaScript?](https://youtu.be/3kvKFfPteFg?t=30)
+- [Разница между методами `.submit()` и `.requestSubmit()`?](https://youtu.be/3kvKFfPteFg?t=90)
