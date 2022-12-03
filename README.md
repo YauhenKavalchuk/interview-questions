@@ -29,7 +29,6 @@
 - [Angular (вопросы по фрэймворку Angular)](./questions/angular.md)
 - [State management (вопросы по менеджменту состояния)](./questions/state-management.md)
 - [Node.js (вопросы по платформе Node.js)](./questions/node-js.md)
-- [React Ecosystem (вопросы по пакетам и библиотекам экосистемы React)](./questions/react-ecosystem.md)
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
 
 ---
