@@ -1,6 +1,6 @@
 <h3>
   <img src="../assets/Angular.png" width="16" height="16" />
-  <span>ECMAScript:</span>
+  <span>Angular:</span>
 </h3>
 
 - [Что такое Angular?](https://youtu.be/lZNWrW39ELM?t=765)
@@ -13,3 +13,20 @@
 - [Что такое `ngZone`?](https://youtu.be/3kvKFfPteFg?t=747)
 - [Cтратегии обнаружения изменений в Angular?](https://youtu.be/3kvKFfPteFg?t=816)
 - [Что такое декораторы в TypeScript?](https://youtu.be/3kvKFfPteFg?t=872)
+- [Назовите плюсы использования Angular?](https://youtu.be/54C3u9aCtoU?t=268)
+- [Назовите минусы использования Angular?](https://youtu.be/54C3u9aCtoU?t=345)
+- [Что такое внедрение зависимостей в Angular?](https://youtu.be/54C3u9aCtoU?t=412)
+- [Что такое директивы в Angular?](https://youtu.be/54C3u9aCtoU?t=463)
+- [Для чего нужны директивы `<ng-template>`, `<ng-container>`, `<ng-content>`?](https://youtu.be/54C3u9aCtoU?t=532)
+- [Что такое динамические компоненты в Angular?](https://youtu.be/54C3u9aCtoU?t=633)
+- [Назовите последовательность действий для отображения динамического компонента?](https://youtu.be/54C3u9aCtoU?t=724)
+- [Основные формы привязки данных в Angular?](https://youtu.be/54C3u9aCtoU?t=789)
+- [Типы стратегий загрузки в Angular?](https://youtu.be/54C3u9aCtoU?t=828)
+- [Что такое роутинг и как его создать в Angular?](https://youtu.be/OMQzqLyINnI?t=364)
+- [Что такое интерполяция в Angular?](https://youtu.be/OMQzqLyINnI?t=433)
+- [Жизненный цикл в Angular Router?](https://youtu.be/OMQzqLyINnI?t=469)
+- [Разница между `RouterModule.forRoot()` и `RouterModule.forChild()`?](https://youtu.be/OMQzqLyINnI?t=593)
+- [Когда нужно использовать `ngrx/store`?](https://youtu.be/OMQzqLyINnI?t=652)
+- [Разница между умным и презентационным компонентами?](https://youtu.be/OMQzqLyINnI?t=718)
+- [Разница между `@ViewChild()` и `@ContentChild()`?](https://youtu.be/OMQzqLyINnI?t=785)
+- [Что такое template variable? Как ее использовать?](https://youtu.be/OMQzqLyINnI?t=850)
