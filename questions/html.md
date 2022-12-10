@@ -54,3 +54,4 @@
 - [Как можно изменить форму картинки или HTML элемента?](https://youtu.be/xIGp2FCxqj0?t=163)
 - [Чем отличается `<article>` от `<section>`?](https://youtu.be/xIGp2FCxqj0?t=232)
 - [Расскажите об особенностях стилизации `<svg>`?](https://youtu.be/xIGp2FCxqj0?t=298)
+- [Что такое `ARIA` роли в веб приложении?](https://youtu.be/N1wPX5Z4HKE?t=131)
