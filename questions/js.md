@@ -75,3 +75,6 @@
 - [Разница между явным и неявным преобразованием (Implicit and Explicit Coercion)?](https://youtu.be/lZNWrW39ELM?t=232)
 - [Для чего применяется метод `Array.from()`?](https://youtu.be/lZNWrW39ELM?t=328)
 - [Назовите способы преобразования массива в объект?](https://youtu.be/lZNWrW39ELM?t=389)
+- [Разница между `Object` и `Map`?](https://youtu.be/nbWY5W-9OEo?t=214)
+- [Что такое каррирование?](https://youtu.be/nbWY5W-9OEo?t=295)
+- [Для чего используются метод `Object.seal()`?](https://youtu.be/nbWY5W-9OEo?t=354)
