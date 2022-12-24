@@ -5,6 +5,7 @@
 
 - [Что такое Vue.js?](https://youtu.be/ad34hPJ273k?t=34)
 - [Перечислите особенности Vue.js?](https://youtu.be/ad34hPJ273k?t=78)
+- [Перечислите преимущества Vue.js?](https://youtu.be/i96lHslBOIc?t=474)
 - [Назовите хуки жизненного цикла компонента во Vue.js?](https://youtu.be/ad34hPJ273k?t=133)
 - [Опишите жизненный цикл компонента во Vue.js?](https://youtu.be/ad34hPJ273k?t=185)
 - [Что такое условные директивы (conditional directives)?](https://youtu.be/ad34hPJ273k?t=339)
@@ -33,5 +34,4 @@
 - [Что такое слот (`<slot>`) во Vue.js?](https://youtu.be/jti2FWFqtmk?t=598)
 - [Какие хуки предоставляют директивы?](https://youtu.be/i96lHslBOIc?t=338)
 - [Что такое аргументы директивных хуков?](https://youtu.be/i96lHslBOIc?t=384)
-- [Перечислите преимущества Vue.js?](https://youtu.be/i96lHslBOIc?t=474)
 - [Что такое `vue-loader`?](https://youtu.be/i96lHslBOIc?t=594)
