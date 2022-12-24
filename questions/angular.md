@@ -49,3 +49,6 @@
 - [Что такое Shared модуль?](https://youtu.be/nbWY5W-9OEo?t=710)
 - [Почему импортировать сервис из SharedModule в lazy loaded модуль считается плохой практикой?](https://youtu.be/nbWY5W-9OEo?t=781)
 - [Разница между `switchMap`, `concatMap` и `mergeMap`?](https://youtu.be/nbWY5W-9OEo?t=856)
+- [Разница между `BehaviorSubject`, `ReplaySubject` и `AsyncSubject`?](https://youtu.be/i96lHslBOIc?t=653)
+- [Принцип работы `ChangeDetectionStrategy.onPush`?](https://youtu.be/i96lHslBOIc?t=718)
+- [Что такое пайп (`pipe`) в Angular? Разница между чистыми и нечистыми пайпами?](https://youtu.be/i96lHslBOIc?t=778)
