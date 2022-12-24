@@ -31,3 +31,7 @@
 - [Какие модификаторы поддерживаются в модели (`v-model`)?](https://youtu.be/jti2FWFqtmk?t=448)
 - [Что такое плагины? Какие возможности дают плагины для Vue.js?](https://youtu.be/jti2FWFqtmk?t=527)
 - [Что такое слот (`<slot>`) во Vue.js?](https://youtu.be/jti2FWFqtmk?t=598)
+- [Какие хуки предоставляют директивы?](https://youtu.be/i96lHslBOIc?t=338)
+- [Что такое аргументы директивных хуков?](https://youtu.be/i96lHslBOIc?t=384)
+- [Перечислите преимущества Vue.js?](https://youtu.be/i96lHslBOIc?t=474)
+- [Что такое `vue-loader`?](https://youtu.be/i96lHslBOIc?t=594)
