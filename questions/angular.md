@@ -52,3 +52,8 @@
 - [Разница между `BehaviorSubject`, `ReplaySubject` и `AsyncSubject`?](https://youtu.be/i96lHslBOIc?t=653)
 - [Принцип работы `ChangeDetectionStrategy.onPush`?](https://youtu.be/i96lHslBOIc?t=718)
 - [Что такое пайп (`pipe`) в Angular? Разница между чистыми и нечистыми пайпами?](https://youtu.be/i96lHslBOIc?t=778)
+- [Назовите ключевые компоненты Angular?](https://youtu.be/J6CgOSKFOlw?t=609)
+- [Разница между компонентом и директивой?](https://youtu.be/J6CgOSKFOlw?t=675)
+- [Что такое `HttpClient`, перечислите его преимущества?](https://youtu.be/J6CgOSKFOlw?t=738)
+- [Что такое пользовательский элемент (Custom Element)? Как он работает?](https://youtu.be/J6CgOSKFOlw?t=808)
+- [Как трансформировать Angular-компоненты в пользовательские элементы?](https://youtu.be/J6CgOSKFOlw?t=912)
