@@ -26,3 +26,5 @@
 - [Что такое композиция в контексте JavaScript?](https://youtu.be/54C3u9aCtoU?t=31)
 - [Что такое паттерн, или шаблон проектирования?](https://youtu.be/N1wPX5Z4HKE?t=216)
 - [Типы паттернов?](https://youtu.be/N1wPX5Z4HKE?t=266)
+- [Что такое GOF паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
+- [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
