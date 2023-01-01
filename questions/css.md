@@ -37,3 +37,4 @@
 - [Что такое плавающие элементы (floats)? Как они работают?](https://youtu.be/xIGp2FCxqj0?t=610)
 - [Расскажите о свойстве `text-rendering`?](https://youtu.be/nbWY5W-9OEo?t=35)
 - [Расскажите о свойстве `text-decoration-skip-ink`?](https://youtu.be/nbWY5W-9OEo?t=156)
+- [Расскажите о свойстве `pointer-events`?](https://youtu.be/J6CgOSKFOlw?t=336)
