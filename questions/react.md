@@ -59,3 +59,8 @@
 - [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
 - [Как передавать пропсы в React Router?](https://youtu.be/GZUy2i6QN7o?t=841)
 - [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
+- [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
+- [Какие типы данных может возвращать `render`?](https://youtu.be/DgevxmyzymQ?t=90)
+- [Разница между `memo` и `useMemo`?](https://youtu.be/DgevxmyzymQ?t=166)
+- [Что такое синтетические события (SyntheticEvent) в React?](https://youtu.be/DgevxmyzymQ?t=235)
+- [Является ли React реактивным?](https://youtu.be/DgevxmyzymQ?t=291)
