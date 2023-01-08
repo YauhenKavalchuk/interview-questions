@@ -35,3 +35,6 @@
 - [Какие хуки предоставляют директивы?](https://youtu.be/i96lHslBOIc?t=338)
 - [Что такое аргументы директивных хуков?](https://youtu.be/i96lHslBOIc?t=384)
 - [Что такое `vue-loader`?](https://youtu.be/i96lHslBOIc?t=594)
+- [Что такое рендер-функция (render function)? Преимущества рендер-функции?](https://youtu.be/DgevxmyzymQ?t=349)
+- [Что такое динамические (`<keep-alive>`) компоненты?](https://youtu.be/DgevxmyzymQ?t=424)
+- [Что такое асинхронные компоненты?](https://youtu.be/DgevxmyzymQ?t=510)
