@@ -57,3 +57,7 @@
 - [Что такое `HttpClient`, перечислите его преимущества?](https://youtu.be/J6CgOSKFOlw?t=738)
 - [Что такое пользовательский элемент (Custom Element)? Как он работает?](https://youtu.be/J6CgOSKFOlw?t=808)
 - [Как трансформировать Angular-компоненты в пользовательские элементы?](https://youtu.be/J6CgOSKFOlw?t=912)
+- [Назовите преимущества AOT компиляции?](https://youtu.be/DgevxmyzymQ?t=596)
+- [Преимущества использования сервис-воркеров в Angular приложении?](https://youtu.be/DgevxmyzymQ?t=669)
+- [Что такое платформа в Angular?](https://youtu.be/DgevxmyzymQ?t=757)
+- [Для чего используется связка `ngFor` и `trackBy`?](https://youtu.be/DgevxmyzymQ?t=832)
