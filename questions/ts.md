@@ -23,7 +23,7 @@
 - [Как TypeScript поддерживает необязательные и дефолтные параметры в функции?](https://youtu.be/VYQl2GhbCUs?t=102)
 - [Что такое перечисление (`enum`)?](https://youtu.be/VYQl2GhbCUs?t=168)
 - [Для чего в TypeScript используется `NoImplicitAny`?](https://youtu.be/54C3u9aCtoU?t=123)
-- [Разница между типами “Объединение” (`|`) и  “Перечисление” (`&`)?](https://youtu.be/54C3u9aCtoU?t=193)
+- [Разница между типами “Объединение” (`|`) и “Пересечение” (`&`)?](https://youtu.be/54C3u9aCtoU?t=193)
 - [Что такое общие типы (`generic`) в TypeScript?](https://youtu.be/OMQzqLyINnI?t=29)
 - [Какие области видимости доступны в TypeScript?](https://youtu.be/OMQzqLyINnI?t=101)
 - [Что такое `.map` файл, как и зачем его использовать?](https://youtu.be/OMQzqLyINnI?t=146)
