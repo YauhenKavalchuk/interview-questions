@@ -58,3 +58,5 @@
 - [Для чего используют атрибут `novalidate`?](https://youtu.be/trriSYNrHw4?t=451)
 - [Для чего используют атрибут `inputmode`?](https://youtu.be/trriSYNrHw4?t=512)
 - [Для чего используется атрибут `pattern`?](https://youtu.be/xIGp2FCxqj0?t=111)
+- [Почему стоит использовать семантические теги в верстке?](https://youtu.be/3NGkctg4lsE?t=229)
+- [Для чего используется тэг `<label>`?](https://youtu.be/3NGkctg4lsE?t=338)
