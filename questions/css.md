@@ -38,3 +38,6 @@
 - [Расскажите о свойстве `text-rendering`?](https://youtu.be/nbWY5W-9OEo?t=35)
 - [Расскажите о свойстве `text-decoration-skip-ink`?](https://youtu.be/nbWY5W-9OEo?t=156)
 - [Расскажите о свойстве `pointer-events`?](https://youtu.be/J6CgOSKFOlw?t=336)
+- [Почему не стоит использовать краткую запись свойств CSS?](https://youtu.be/3NGkctg4lsE?t=404)
+- [Расскажите о свойстве `outline`?](https://youtu.be/3NGkctg4lsE?t=498)
+- [Назовите псевдоэлементы для подсветки текста?](https://youtu.be/3NGkctg4lsE?t=584)
