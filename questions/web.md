@@ -25,3 +25,4 @@
 - [Разница между host и domain?](https://youtu.be/70VnuTXi4Wk?t=779)
 - [Разница между URI и URL?](https://youtu.be/70VnuTXi4Wk?t=844)
 - [Почему очищать кэш важно? Как это можно сделать?](https://youtu.be/N1wPX5Z4HKE?t=30)
+- [Назовите критические этапы рендеринга?](https://youtu.be/3NGkctg4lsE?t=31)
