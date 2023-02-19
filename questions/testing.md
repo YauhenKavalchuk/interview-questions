@@ -8,3 +8,6 @@
 - [Что такое Stub в unit тестировании?](https://youtu.be/i96lHslBOIc?t=194)
 - [Что такое Mock в unit тестировании?](https://youtu.be/i96lHslBOIc?t=234)
 - [Разница между Mock и Stub?](https://youtu.be/i96lHslBOIc?t=299)
+- [Что такое White/Black/Grey Box-тестирование?](https://youtu.be/__neFkxAO9s?t=30)
+- [Что такое Quality Gates?](https://youtu.be/__neFkxAO9s?t=145)
+- [Разница между TDD и BDD?](https://youtu.be/__neFkxAO9s?t=247)
