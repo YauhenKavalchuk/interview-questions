@@ -44,6 +44,7 @@
 - [Разница между классовым и функциональным компонентами?](https://youtu.be/xZLxdts7ZW4?t=664)
 - [Разница между `useEffect()` и `componentDidMount()`?](https://youtu.be/xZLxdts7ZW4?t=754)
 - [Преимущества хуков?](https://youtu.be/xZLxdts7ZW4?t=819)
+- [Недостатки хуков?](https://youtu.be/__neFkxAO9s?t=793)
 - [Правила (ограничения) использования хуков?](https://youtu.be/xZLxdts7ZW4?t=873)
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 - [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
@@ -64,3 +65,5 @@
 - [Разница между `memo` и `useMemo`?](https://youtu.be/DgevxmyzymQ?t=166)
 - [Что такое синтетические события (SyntheticEvent) в React?](https://youtu.be/DgevxmyzymQ?t=235)
 - [Является ли React реактивным?](https://youtu.be/DgevxmyzymQ?t=291)
+- [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
+- [Лучшие практики безопасности в React?](https://youtu.be/__neFkxAO9s?t=694)
