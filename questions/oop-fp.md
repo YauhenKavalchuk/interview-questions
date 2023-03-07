@@ -28,3 +28,4 @@
 - [Типы паттернов?](https://youtu.be/N1wPX5Z4HKE?t=266)
 - [Что такое GOF паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
 - [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
+- [Типы полиморфизма?](https://youtu.be/DQ0BLu6rZYc?t=135)
