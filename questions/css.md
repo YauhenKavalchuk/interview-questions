@@ -39,5 +39,6 @@
 - [Расскажите о свойстве `text-decoration-skip-ink`?](https://youtu.be/nbWY5W-9OEo?t=156)
 - [Расскажите о свойстве `pointer-events`?](https://youtu.be/J6CgOSKFOlw?t=336)
 - [Расскажите о свойстве `outline`?](https://youtu.be/3NGkctg4lsE?t=498)
+- [Расскажите о свойстве `scrollbar-gutter`?](https://youtu.be/DQ0BLu6rZYc?t=29)
 - [Почему не стоит использовать краткую запись свойств CSS?](https://youtu.be/3NGkctg4lsE?t=404)
 - [Назовите псевдоэлементы для подсветки текста?](https://youtu.be/3NGkctg4lsE?t=584)
