@@ -30,3 +30,4 @@
 - [Можно ли использовать TypeScript в серверной разработке?](https://youtu.be/OMQzqLyINnI?t=199)
 - [Для чего в TypeScript используют ключевое слово `declare`?](https://youtu.be/OMQzqLyINnI?t=281)
 - [Разница между типами `void`, `never` и `unknown`?](https://youtu.be/__neFkxAO9s?t=883)
+- [Как вы отлавливаете ошибки в TypeScript коде?](https://youtu.be/DQ0BLu6rZYc?t=802)
