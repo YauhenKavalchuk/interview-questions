@@ -30,7 +30,7 @@
 - [State management (вопросы по менеджменту состояния)](./questions/state-management.md)
 - [Node.js (вопросы по платформе Node.js)](./questions/node-js.md)
 - [Testing (базовые вопросы по тестированию)](./questions/testing.md)
-- [Tools (вопросы по различным инструментам веб-разработки)](./questions/testing.md)
+- [Tools (вопросы по различным инструментам веб-разработки)](./questions/tools.md)
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
 
 ---
