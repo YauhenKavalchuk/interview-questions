@@ -32,7 +32,7 @@
 - [Какие псевдоклассы были добавлены в CSS3?](https://youtu.be/trriSYNrHw4?t=592)
 - [Какие фильтры есть в CSS?](https://youtu.be/trriSYNrHw4?t=662)
 - [Для чего используется псевдокласс `:invalid`?](https://youtu.be/xIGp2FCxqj0?t=370)
-- [Расскажите про свойство display в CSS?](https://youtu.be/xIGp2FCxqj0?t=436)
+- [Расскажите про свойство `display` в CSS?](https://youtu.be/xIGp2FCxqj0?t=436)
 - [В каком случае лучше использовать `translate()` вместо абсолютного позиционирования?](https://youtu.be/xIGp2FCxqj0?t=543)
 - [Что такое плавающие элементы (floats)? Как они работают?](https://youtu.be/xIGp2FCxqj0?t=610)
 - [Расскажите о свойстве `text-rendering`?](https://youtu.be/nbWY5W-9OEo?t=35)
