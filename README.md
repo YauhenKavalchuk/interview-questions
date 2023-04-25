@@ -23,6 +23,7 @@
 - [JS in Browser (вопросы из браузерного JavaScript)](./questions/browser-js.md)
 - [Async JS (вопросы из асинхронного JavaScript)](./questions/async-js.md)
 - [ECMAScript (вопросы из стандарта ECMAScript)](./questions/es.md)
+- [Accessibility (вопросы по доступности)](./questions/accessibility.md)
 - [TypeScript (вопросы по языку TypeScript)](./questions/ts.md)
 - [React (вопросы по библиотеке React)](./questions/react.md)
 - [Vue.js (вопросы по фрэймворку Vue.js)](./questions/vue-js.md)
