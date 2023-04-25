@@ -42,3 +42,4 @@
 - [Расскажите о свойстве `scrollbar-gutter`?](https://youtu.be/DQ0BLu6rZYc?t=29)
 - [Почему не стоит использовать краткую запись свойств CSS?](https://youtu.be/3NGkctg4lsE?t=404)
 - [Назовите псевдоэлементы для подсветки текста?](https://youtu.be/3NGkctg4lsE?t=584)
+- [Способы задания цвета в CSS?](https://youtu.be/hL5yFo9Pms4?t=384)
