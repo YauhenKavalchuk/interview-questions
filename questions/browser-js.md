@@ -30,3 +30,7 @@
 - [Для чего используется метод `.scrollIntoView()`?](https://youtu.be/lZNWrW39ELM?t=682)
 - [Как использовать media выражения в JavaScript?](https://youtu.be/3kvKFfPteFg?t=30)
 - [Разница между методами `.submit()` и `.requestSubmit()`?](https://youtu.be/3kvKFfPteFg?t=90)
+- [Расскажите о `IntersectionObserver`?](https://youtu.be/hL5yFo9Pms4?t=28)
+- [Расскажите о `URLSearchParams`?](https://youtu.be/hL5yFo9Pms4?t=98)
+- [Какие есть ограничения у `window.close()`?](https://youtu.be/hL5yFo9Pms4?t=149)
+- 
