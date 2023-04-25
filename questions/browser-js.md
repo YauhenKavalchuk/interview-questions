@@ -33,4 +33,3 @@
 - [Расскажите о `IntersectionObserver`?](https://youtu.be/hL5yFo9Pms4?t=28)
 - [Расскажите о `URLSearchParams`?](https://youtu.be/hL5yFo9Pms4?t=98)
 - [Какие есть ограничения у `window.close()`?](https://youtu.be/hL5yFo9Pms4?t=149)
-- 
