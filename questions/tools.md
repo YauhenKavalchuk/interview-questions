@@ -7,3 +7,4 @@
 - [Что такое stylelint? Назовите особенности stylelint?](https://youtu.be/DQ0BLu6rZYc?t=644)
 - [Что такое статический анализ кода?](https://youtu.be/DQ0BLu6rZYc?t=695)
 - [Что такое Git CLI?](https://youtu.be/DQ0BLu6rZYc?t=749)
+- [Как работает Webpack? Какие основные концепции в нем существуют?](https://youtu.be/t0sdlbA6yA8?t=761)
