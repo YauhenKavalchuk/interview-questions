@@ -17,3 +17,7 @@
 - [Что такое `async/await`?](https://youtu.be/V-m0sQ-hW58?t=417)
 - [Разница между `Promise.all()`, `Promise.any()` и `Promise.race()`?](https://youtu.be/XtQPrt8G0n8?t=782)
 - [Расскажите про статический метод `.allSettled()`?](https://youtu.be/trriSYNrHw4?t=896)
+- [Плюсы и минусы асинхронного программирования в JavaScript?](https://youtu.be/t0sdlbA6yA8?t=460)
+- [Проблемы при использовании callback-функций?](https://youtu.be/t0sdlbA6yA8?t=540)
+- [Как выполнить несколько асинхронных операций последовательно?](https://youtu.be/t0sdlbA6yA8?t=599)
+- [Какие проблемы может вызвать неправильное использование асинхронности в JavaScript?](https://youtu.be/t0sdlbA6yA8?t=657)
