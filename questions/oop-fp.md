@@ -29,3 +29,8 @@
 - [Что такое GOF паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
 - [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
 - [Типы полиморфизма?](https://youtu.be/DQ0BLu6rZYc?t=135)
+- [Можно ли в JavaScript реализовать абстрактный класс и как это сделать?](https://youtu.be/Sw4BlFLj2dg?t=31)
+- [Как работает механизм прототипов в JavaScript?](https://youtu.be/Sw4BlFLj2dg?t=85)
+- [Основные принципы функционального программирования?](https://youtu.be/Sw4BlFLj2dg?t=149)
+- [Плюсы функционального программирования?](https://youtu.be/Sw4BlFLj2dg?t=247)
+- [Разница между императивным и декларативным подходами программирования?](https://youtu.be/Sw4BlFLj2dg?t=316)
