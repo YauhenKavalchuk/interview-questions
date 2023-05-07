@@ -11,3 +11,6 @@
 - [Что такое White/Black/Grey Box-тестирование?](https://youtu.be/__neFkxAO9s?t=30)
 - [Что такое Quality Gates?](https://youtu.be/__neFkxAO9s?t=145)
 - [Разница между TDD и BDD?](https://youtu.be/__neFkxAO9s?t=247)
+- [Что такое UI-тестирование? Назовите подходы UI-тестирования?](https://youtu.be/Sw4BlFLj2dg?t=372)
+- [Как можно оценить качество тестирования?](https://youtu.be/Sw4BlFLj2dg?t=471)
+- [Какие инструменты тестирования вы знаете?](https://youtu.be/Sw4BlFLj2dg?t=556)
