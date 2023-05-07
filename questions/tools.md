@@ -8,3 +8,6 @@
 - [Что такое статический анализ кода?](https://youtu.be/DQ0BLu6rZYc?t=695)
 - [Что такое Git CLI?](https://youtu.be/DQ0BLu6rZYc?t=749)
 - [Как работает Webpack? Какие основные концепции в нем существуют?](https://youtu.be/t0sdlbA6yA8?t=761)
+- [Какие основные задачи выполняет Webpack при сборке проекта?](https://youtu.be/Sw4BlFLj2dg?t=641)
+- [Что такое бандл (bundle)? Как он используется во Frontend разработке?](https://youtu.be/Sw4BlFLj2dg?t=723)
+- [Какие проблемы могут возникнуть при работе с Git?](https://youtu.be/Sw4BlFLj2dg?t=775)
