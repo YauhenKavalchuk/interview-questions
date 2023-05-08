@@ -7,6 +7,8 @@
 
 🚀 Ещё больше полезной информации можно найти на [YouTube-канале](https://youtube.com/c/YauhenKavalchuk)
 
+### [Как получить доступ к закрытым видео?][instruction]
+
 ---
 
 <p align="center">Не забудь щёлкнуть ⭐, если тебе нравится проект!<p>
@@ -47,3 +49,4 @@
 [twitter]: https://twitter.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
 [patron]: https://www.patreon.com/YauhenKavalchuk
+[instruction]: https://github.com/YauhenKavalchuk/youtube/blob/main/instruction.md
