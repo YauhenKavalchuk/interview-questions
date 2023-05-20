@@ -34,6 +34,7 @@
 - [Node.js (вопросы по платформе Node.js)](./questions/node-js.md)
 - [Testing (базовые вопросы по тестированию)](./questions/testing.md)
 - [Tools (вопросы по различным инструментам веб-разработки)](./questions/tools.md)
+- [Soft skills (вопросы по нетехническим навыкам)](./questions/soft-skills.md)  
 - [Практические задачи (решения типовых задач)](./questions/practical-tasks.md)
 
 ---
