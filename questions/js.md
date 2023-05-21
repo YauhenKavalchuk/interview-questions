@@ -82,3 +82,5 @@
 - [Как работает «сборщик мусора» в JavaScript?](https://youtu.be/trriSYNrHw4?t=786)
 - [Что такое утечки памяти?](https://youtu.be/3NGkctg4lsE?t=815)
 - [Назовите основные типы утечек памяти в JavaScript?](https://youtu.be/3NGkctg4lsE?t=874)
+- [Как работает контекст выполнения (execution context) в JavaScript?](https://youtu.be/nTE4qvSvxXY?t=704)
+- [Разница между примитивом и объектом?](https://youtu.be/nTE4qvSvxXY?t=791)
