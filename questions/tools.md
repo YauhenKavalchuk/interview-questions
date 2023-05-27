@@ -3,6 +3,7 @@
   <span>Tools:</span>
 </h3>
 
+- [Что такое Babel? Для чего он используется?](https://youtu.be/w-vUj0gHGgg?t=680)
 - [Что такое tree shaking? Для чего используется tree shaking?](https://youtu.be/DQ0BLu6rZYc?t=599)
 - [Что такое stylelint? Назовите особенности stylelint?](https://youtu.be/DQ0BLu6rZYc?t=644)
 - [Что такое статический анализ кода?](https://youtu.be/DQ0BLu6rZYc?t=695)
