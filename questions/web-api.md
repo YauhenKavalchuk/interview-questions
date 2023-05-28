@@ -34,3 +34,5 @@
 - [Что такое Content Security Policy (CSP)?](https://youtu.be/ovV8GhIkzBE?t=231)
 - [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
 - [Что такое межсайтовый скриптинг (XSS)?](https://youtu.be/ovV8GhIkzBE?t=292)
+- [Методы повышения безопасности веб-приложений?](https://youtu.be/DZjIcc6KdjE?t=347)
+- [Что такое OWASP Top 10?](https://youtu.be/DZjIcc6KdjE?t=419)
