@@ -11,3 +11,7 @@
 - [Что такое технический долг?](https://youtu.be/nTE4qvSvxXY?t=440)
 - [Что такое функциональные и нефункциональные требования?](https://youtu.be/nTE4qvSvxXY?t=526)
 - [Разница между POC, Prototype и MVP?](https://youtu.be/nTE4qvSvxXY?t=607)
+- [Разница между DoD и DoR?](https://youtu.be/DZjIcc6KdjE?t=625)
+- [Почему критерии DoD и DoR важны для проекта?](https://youtu.be/DZjIcc6KdjE?t=709)
+- [Кто такой стейкхолдер (stakeholder)? Расскажите о матрице RACI?](https://youtu.be/DZjIcc6KdjE?t=767)
+- [Разница между менторингом и коучингом?](https://youtu.be/DZjIcc6KdjE?t=857)
