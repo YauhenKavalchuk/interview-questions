@@ -3,12 +3,51 @@
   <span>React:</span>
 </h3>
 
-- [Что такое React?](https://youtu.be/7TvS0iKR3_c?t=638)
-- [Перечислите особенности React?](https://youtu.be/7TvS0iKR3_c?t=671)
-- [Что такое Virtual DOM? Как он работает с React?](https://youtu.be/7TvS0iKR3_c?t=740)
-- [Для чего нужен атрибут `key` при рендере списков?](https://youtu.be/yvOXvZ8aEFo?t=526)
-- [Что такое `PureComponent`?](https://youtu.be/yvOXvZ8aEFo?t=581)
-- [Что такое Компонент высшего порядка (Higher-Order Component/HOC)?](https://youtu.be/yvOXvZ8aEFo?t=637)
+<details>
+<summary><a href="https://youtu.be/7TvS0iKR3_c?t=638">Что такое React?</a></summary>
+  <br/>
+  - JavaScript библиотека с открытым исходным кодом, созданная компанией Facebook. В основе которой используется виртуал дом и компонентный подход для эффективной отрисовки пользовательских интерфейсов. 
+</details>
+
+<details>
+<summary><a href="https://youtu.be/7TvS0iKR3_c?t=671">Перечислите особенности React?</a></summary>
+    <br/>
+- Virtual DOM  <br/>
+- Компонентный подход <br/>
+- Поддержка SSR <br/>
+- One way of data flow <br/>
+</details>
+
+<details>
+<summary><a href="https://youtu.be/7TvS0iKR3_c?t=740">Что такое Virtual DOM? Как он работает с React?</a></summary>
+    <br/>
+- Это упрощенная версия обычного DOM, который намного эффективнее смотрит что изменилось и перерисовывает в реальном DOM только то что изменилось, а не всю страницу 
+</details>
+
+<details>
+<summary><a href="https://youtu.be/yvOXvZ8aEFo?t=526">Для чего нужен атрибут `key` при рендере списков? и почему нельзя использовать индекс</a></summary>
+    <br/>
+- Для того чтобы помочь более эффективно видеть изменения в списках и перерисовывать только те эелементы, у которых изменился ключ. если сделать индекс, то при добавлении в начало списка нового элемента будет неожидаемое поведение.
+</details>
+
+<details>
+<summary><a href="https://youtu.be/yvOXvZ8aEFo?t=581">Что такое `PureComponent`?</a></summary>
+    <br/>
+- Это компонент, который не будет обновляться если у него не изменился локальный стейт или передаваемые пропсы. не смотря на перерисовку родительского компонента. (shouldComponentUpdate)
+</details>
+
+<details>
+<summary><a href="https://youtu.be/yvOXvZ8aEFo?t=637">Что такое Компонент высшего порядка (Higher-Order Component/HOC)?</a></summary>
+    <br/>
+- Принимает как аргумент компонент и возвращает компонент. Этот паттер позволяет оптимизировать повторяющийся функционал путем создания HOC'a и потом обернуть им необходимые компоненты.
+</details>
+
+<details>
+<summary><a href="https://youtu.be/yvOXvZ8aEFo?t=684">Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?</a></summary>
+    <br/>
+- Примерами таких компонентов могут быть input or select. Неуправляемые компоненты опираются на DOM в качестве источника данных. В управляемых компонентах каждое изменение состояние компонента происходит через функцию обработчик и состояние храниться в стейте.
+</details>
+
 - [Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?](https://youtu.be/yvOXvZ8aEFo?t=684)
 - [Методы жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=35)
 - [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
