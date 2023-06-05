@@ -81,14 +81,79 @@
 3) Commit - Изменяет дом и выполняет все сайд эффекты, в этот момент вызываются методы с приставкой DID
 </details>
 
-- [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
-- [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
-- [Что такое контекст (`Context`)?](https://youtu.be/RpcB5jnJvcI?t=390)
-- [Что такое React хуки (Hooks)?](https://youtu.be/RpcB5jnJvcI?t=475)
-- [Что Такое `JSX`?](https://youtu.be/RpcB5jnJvcI?t=571)
-- [Разница между состоянием(`state`) и пропсами(`props`)?](https://youtu.be/RpcB5jnJvcI?t=621)
-- [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
-- [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=730)
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=271">Что такое React Reconciliation?</a>
+  </summary>
+    <br/>
+  - Это алгоритм по которому происходит сравнение старого и нового виртуал дома и добавление соответсвующих изменений в реальный DOM. Сравнение начинается рекурсивно с корневого элемента и если оно изменилось, то перерисовывается вся нода.
+</details>
+
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=342">Что такое портал (`Portal`)?</a>
+  </summary>
+    <br/>
+  - Компонент, который рендерит свое содержиимое в произвольную часть DOM дерева. Например модальное окно или чат поверх всего layot'a. Создается при помощи React.createPortal(children, element)
+</details>
+
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=390">Что такое контекст (`Context`)?</a>
+  </summary>
+    <br/>
+  - Это способ глобального управления состоянием для более легкого обмена состоянием между глубоко вложенными компонентами, чем только. Создается через React.createContext() и компонент, которому необходимо соединение с контекстом оборачивается в <Provider> и передается через useContext хуком.
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=475">Что такое React хуки (Hooks)?</a>
+  </summary>
+    <br/>
+  - Это нововведение, которые было добавлено в реакт с версией 16.8, которые позволяют использовать состояние, некоторые методы жизненого цикла компонентов и некоторые методы React (ref, context) в функциональных компонентах.
+   - useState (создание состояние компонента)
+   - useEffect (апдейт компонента / дидмаунт)
+   - useLayoutEffect (запускается после всех обновлений в дом дерева)
+   - useContext (создать контекст)
+   - useCallback (создать калбек)
+   - useMemo (мемоизировать функцию)
+   - useRef (создать ссылку)
+   - useReducer (использование редьюсера)
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=571">Что Такое `JSX`?</a>
+  </summary>
+    <br/>
+  - Расшифровывается аббревиатура как javascript xml. Конвертируемый Babel весь написанный JSX в функции React.createElement, так что по сути это синтаксический сахар, созданный для упрощения процесса создания компонентов. 
+</details>
+    
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=621">Разница между состоянием(`state`) и пропсами(`props`)?</a>
+  </summary>
+    <br/>
+  - Это два JavaScript объекта. Props это входные аргументы для компонента, которые передаются от вышестоящего компонента. А state это локальная переменная по сути которая контролируется этим компонентом.
+</details>
+      
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=689">Что такое React Fiber?</a>
+  </summary>
+    <br/>
+  - Это новая версия алгоритма reconsilation, который предоставляет более гибкую и масштабируемую основу для работы с компонентами React. Основное преимущество это то что процесс согласования(reconciliation) компонентов происходит поэтапно (incrementally), что в общем влияет на перфоманс. 
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=689">Что такое React Fiber?</a>
+  </summary>
+    <br/>
+  - Специальный тег JSX котрый не отрисовывается в DOM. Плюс в том, что он быстрее и использует меньше памяти, так же плюс в CSS при flex and grid
+</details>
+  
+
 - [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
 - [Что такое React-ссылка (`ref`)? Как создать ссылку?](https://youtu.be/81yRgVQ1ciM?t=69)
 - [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
