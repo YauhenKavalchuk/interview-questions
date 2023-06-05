@@ -48,9 +48,39 @@
 - Примерами таких компонентов могут быть input or select. Неуправляемые компоненты опираются на DOM в качестве источника данных. В управляемых компонентах каждое изменение состояние компонента происходит через функцию обработчик и состояние храниться в стейте.
 </details>
 
-- [Разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?](https://youtu.be/yvOXvZ8aEFo?t=684)
-- [Методы жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=35)
-- [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=35">Методы жизненного цикла компонента в React?</a>
+  </summary>
+    <br/>
+  Всего они делятся на 3 стадии:
+1) Монтирование “mounting”
+   - constructor (Установка state и присваивание props) 
+   - getDerivedStateFromProps (посмотреть что лежит в пропсах, изменились ли они и присвоить их в стейт)
+   - render()
+   - componentDidMount (Вызывается один раз после рендера компонента)
+3) Обновление “updating”
+    - getDerivedStateFromProps (посмотреть что лежит в пропсах, изменились ли они и присвоить их в стейт)
+    - shouldComponentUpdate (приходит nextProps, nextState и нужно вернуть булеан)
+    - getSnapshotBeforeUpdate()
+    - componentDidUpdate (вызывается после монтирования в DOM, приходят аргументы prevProps и prevState)
+4) Размонтирования “unmounting”
+    - componentWillUnMount (Вызывается перед размонтированием в DOM, можно удалить таймауты)
+ 5) Ошибки "errors"
+    - getDerivedStateFromError() 
+</details>
+
+<details>
+  <summary>
+    <a href="https://youtu.be/RpcB5jnJvcI?t=173">Фазы отрисовки компонента в React?</a>
+  </summary>
+    <br/>
+  Всего есть 3 фазы:
+1) Render - чистая фаза без сайд эффектов, может перезапускаться реактом несколько раз
+2) Pre-commit - Реакт читает дом через getSnapshotBeforeUpdate
+3) Commit - Изменяет дом и выполняет все сайд эффекты, в этот момент вызываются методы с приставкой DID
+</details>
+
 - [Что такое React Reconciliation?](https://youtu.be/RpcB5jnJvcI?t=271)
 - [Что такое портал (`Portal`)?](https://youtu.be/RpcB5jnJvcI?t=342)
 - [Что такое контекст (`Context`)?](https://youtu.be/RpcB5jnJvcI?t=390)
