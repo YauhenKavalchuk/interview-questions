@@ -53,21 +53,21 @@
     <a href="https://youtu.be/RpcB5jnJvcI?t=35">Методы жизненного цикла компонента в React?</a>
   </summary>
     <br/>
-  Всего они делятся на 3 стадии:
-1) Монтирование “mounting”
-   - constructor (Установка state и присваивание props) 
-   - getDerivedStateFromProps (посмотреть что лежит в пропсах, изменились ли они и присвоить их в стейт)
-   - render()
-   - componentDidMount (Вызывается один раз после рендера компонента)
-3) Обновление “updating”
-    - getDerivedStateFromProps (посмотреть что лежит в пропсах, изменились ли они и присвоить их в стейт)
-    - shouldComponentUpdate (приходит nextProps, nextState и нужно вернуть булеан)
-    - getSnapshotBeforeUpdate()
-    - componentDidUpdate (вызывается после монтирования в DOM, приходят аргументы prevProps и prevState)
-4) Размонтирования “unmounting”
-    - componentWillUnMount (Вызывается перед размонтированием в DOM, можно удалить таймауты)
- 5) Ошибки "errors"
-    - getDerivedStateFromError() 
+  Всего они делятся на 3 стадии:    <br/>
+1) Монтирование “mounting”    <br/>
+   - constructor (Установка state и присваивание props)     <br/>
+   - getDerivedStateFromProps (посмотреть что лежит в пропсах, изменились ли они и присвоить их в стейт)    <br/>
+   - render()    <br/>
+   - componentDidMount (Вызывается один раз после рендера компонента)    <br/>
+3) Обновление “updating”    <br/>
+    - getDerivedStateFromProps (посмотреть что лежит в пропсах, изменились ли они и присвоить их в стейт)    <br/>
+    - shouldComponentUpdate (приходит nextProps, nextState и нужно вернуть булеан)    <br/>
+    - getSnapshotBeforeUpdate()    <br/>
+    - componentDidUpdate (вызывается после монтирования в DOM, приходят аргументы prevProps и prevState)    <br/>
+4) Размонтирования “unmounting”    <br/>
+    - componentWillUnMount (Вызывается перед размонтированием в DOM, можно удалить таймауты)    <br/>
+ 5) Ошибки "errors"    <br/>
+    - getDerivedStateFromError()     <br/>
 </details>
 
 <details>
@@ -75,10 +75,10 @@
     <a href="https://youtu.be/RpcB5jnJvcI?t=173">Фазы отрисовки компонента в React?</a>
   </summary>
     <br/>
-  Всего есть 3 фазы:
-1) Render - чистая фаза без сайд эффектов, может перезапускаться реактом несколько раз
-2) Pre-commit - Реакт читает дом через getSnapshotBeforeUpdate
-3) Commit - Изменяет дом и выполняет все сайд эффекты, в этот момент вызываются методы с приставкой DID
+  Всего есть 3 фазы:    <br/>
+1) Render - чистая фаза без сайд эффектов, может перезапускаться реактом несколько раз    <br/>
+2) Pre-commit - Реакт читает дом через getSnapshotBeforeUpdate    <br/>
+3) Commit - Изменяет дом и выполняет все сайд эффекты, в этот момент вызываются методы с приставкой DID    <br/>
 </details>
 
 <details>
@@ -110,15 +110,15 @@
     <a href="https://youtu.be/RpcB5jnJvcI?t=475">Что такое React хуки (Hooks)?</a>
   </summary>
     <br/>
-  - Это нововведение, которые было добавлено в реакт с версией 16.8, которые позволяют использовать состояние, некоторые методы жизненого цикла компонентов и некоторые методы React (ref, context) в функциональных компонентах.
-   - useState (создание состояние компонента)
-   - useEffect (апдейт компонента / дидмаунт)
-   - useLayoutEffect (запускается после всех обновлений в дом дерева)
-   - useContext (создать контекст)
-   - useCallback (создать калбек)
-   - useMemo (мемоизировать функцию)
-   - useRef (создать ссылку)
-   - useReducer (использование редьюсера)
+  - Это нововведение, которые было добавлено в реакт с версией 16.8, которые позволяют использовать состояние, некоторые методы жизненого цикла компонентов и некоторые методы React (ref, context) в функциональных компонентах.    <br/>
+   - useState (создание состояние компонента)    <br/>
+   - useEffect (апдейт компонента / дидмаунт)    <br/>
+   - useLayoutEffect (запускается после всех обновлений в дом дерева)    <br/>
+   - useContext (создать контекст)    <br/>
+   - useCallback (создать калбек)    <br/>
+   - useMemo (мемоизировать функцию)    <br/>
+   - useRef (создать ссылку)    <br/>
+   - useReducer (использование редьюсера)    <br/>
 </details>
   
  <details>
