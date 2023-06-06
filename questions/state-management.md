@@ -51,8 +51,50 @@
   - Flux: мутабельность состояния, несколько store, dispather to state
 </details>
 
-- [Ключевые концепции Redux?](https://youtu.be/HBSAjY-xh3k?t=408)
-- [Что такое «единственный источник истины» (Single Source of Truth)?](https://youtu.be/HBSAjY-xh3k?t=517)
-- [Разница между React State и Redux State?](https://youtu.be/HBSAjY-xh3k?t=638)
-- [Как выглядит поток данных в Redux-приложении?](https://youtu.be/HBSAjY-xh3k?t=706)
-- [Плюсы и минусы Redux?](https://youtu.be/HBSAjY-xh3k?t=767)
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=408">Ключевые концепции Redux?</a>
+  </summary>
+    <br/>
+- Хранилище (Store)    <br/>
+- Действия (Actions)    <br/>
+- Редьюсеры (Reducers)  <br/>
+- Селекторы (Selectors): Функции, которые извлекают определенные части состояния из хранилища.<br/>
+- Middleware: Функции, которые расширяют функциональность Redux. Они позволяют обрабатывать действия перед их достижением редьюсерам, а также могут использоваться для логирования, асинхронных операций и других задач.<br/>
+- Подписка и обновление: Компоненты могут подписываться на изменения состояния в хранилище и обновляться автоматически при изменении состояния.
+</details>
+
+
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=517">Что такое «единственный источник истины» (Single Source of Truth)?</a>
+  </summary>
+    <br/>
+- Это хранилище данных, имеет постоянную структуру. единственный способ изменить это отправить экшен в редьюсер и получить обновление если подписаны на них определенные компоненты.
+</details>
+
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=638">Разница между React State и Redux State? (local and global state)</a>
+  </summary>
+    <br/>
+- Состояние реакт хранится локально внутри компонента, передается через колбек.     <br/>
+  - Глобальное состояние хранится отдельно и любой компонент может подписаться на получение данных от туда
+</details>
+
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=706">Как выглядит поток данных в Redux-приложении?</a>
+  </summary>
+    <br/>
+-  View - Action - Dispatcher - Middleware(Thunks, Sagas) - Reducer - State
+</details>
+
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=767">Плюсы и минусы Redux?</a>
+  </summary>
+    <br/>
+-  Плюсы: Получение состояния без передачи пропсов, отдельно визуализация и управление данными, 
+  - Минусы: Много кода, расходы памяти на обновление состояния (создание новых стейтов)
+</details>
