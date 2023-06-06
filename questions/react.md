@@ -276,21 +276,103 @@
     <br/>
     - Позволяет рендерить компоненты в виде статической html разметки, используется на js сервере для SSR
 </details>
-
-
-- []()
-- [Что такое предохранители (Error Boundaries)?](https://youtu.be/HBSAjY-xh3k?t=36)
-- [Что такое «ленивая» (Lazy) функция?](https://youtu.be/HBSAjY-xh3k?t=103)
-- [Разница между рендерингом и монтированием?](https://youtu.be/HBSAjY-xh3k?t=149)
-- [Что такое `сhildren`?](https://youtu.be/HBSAjY-xh3k?t=191)
-- [Что такое события указателя (Pointer Events)?](https://youtu.be/HBSAjY-xh3k?t=239)
-- [Что такое инверсия наследования (Inheritance Inversion)?](https://youtu.be/HBSAjY-xh3k?t=301)
-- [Как в React реализовать двустороннее связывание данных?](https://youtu.be/HBSAjY-xh3k?t=355)
-- [Разница между классовым и функциональным компонентами?](https://youtu.be/xZLxdts7ZW4?t=664)
-- [Разница между `useEffect()` и `componentDidMount()`?](https://youtu.be/xZLxdts7ZW4?t=754)
-- [Преимущества хуков?](https://youtu.be/xZLxdts7ZW4?t=819)
-- [Недостатки хуков?](https://youtu.be/__neFkxAO9s?t=793)
-- [Правила (ограничения) использования хуков?](https://youtu.be/xZLxdts7ZW4?t=873)
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=36">Что такое предохранители (Error Boundaries)?</a>
+  </summary>
+    <br/>
+    - Это компоненты которые перехватывают вознишие ошибки в дереве потомков и отображают соответствующий контент или выводят лог    <br/>
+  - Перехватывают во время рендеринга getDerivedStateFromError(error), componentDidCatch(error)
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=103">Что такое «ленивая» (Lazy) функция?</a>
+  </summary>
+    <br/>
+    - Это функция которая позволяет создавать компоненты при помощи динамического импорта, что позволяет уменьшить размер бандла, посколько загружаются только те компоненты, которые загружаются на UI в данный момент.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=149">Разница между рендерингом и монтированием?</a>
+  </summary>
+    <br/>
+    - Монтирование компонента происходит только один раз после выполнения рендера и означает встраивание в дом. А ренедер происходит каждый раз при изменении состояния или пропсов компонента. 
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=191">Что такое `сhildren`?</a>
+  </summary>
+    <br/>
+    - это пропс позволяющий передавать компоненты другим компонентам как обычные пропсы. childrenMap, childrenToArray, childrenCount. 
+</details>
+  
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=239">Что такое события указателя (Pointer Events)?</a>
+  </summary>
+    <br/>
+    - Это кроссплатформенные события, которые позволяют обрабатывать прикосновения, клики мыши или нажатие стилусом
+</details>
+  
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=301">Что такое инверсия наследования (Inheritance Inversion)?</a>
+  </summary>
+    <br/>
+    - Это паттерн. который при помощи HOC позволяет наследоваться от оборачиваемого компонента и контролировать стейт или рендеринг.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/HBSAjY-xh3k?t=355">Как в React реализовать двустороннее связывание данных?</a>
+  </summary>
+    <br/>
+    - Специально запутанный вопрос. На самом деле нужно рассказать как управлять не управляемыми элементами типа input.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/xZLxdts7ZW4?t=664">Разница между классовым и функциональным компонентами?</a>
+  </summary>
+    <br/>
+    - Функциональные это компоненты без стейта и основная функция просто отображать контент     <br/>
+    - У классовых компонентов есть жизненные циклы, метод рендер и стейт
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/xZLxdts7ZW4?t=754">Разница между `useEffect()` и `componentDidMount()`?</a>
+  </summary>
+    <br/>
+    - useEffect это в функциях (можно получить flicker нужно использовать useLayoutEffect - хук который вызывается до отображения контента)
+    - componentDidMount в классовых компонентах и вызывается до отображения контента на странице.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/xZLxdts7ZW4?t=819">Преимущества хуков?</a>
+  </summary>
+    <br/>
+    - С ними легче работать, легче читать, чем HOC, которые усложняют понимание работы компонента. вся логика в одном месте    <br/>
+    - Позволяет создавать собственные хуки тем самым объеденять в функции повторяющуюся логику между другими компонентами
+</details>
+  
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/xZLxdts7ZW4?t=873">Правила (ограничения) использования хуков?</a>
+  </summary>
+    <br/>
+    - С ними легче работать, легче читать, чем HOC, которые усложняют понимание работы компонента. вся логика в одном месте    <br/>
+    - Позволяет создавать собственные хуки тем самым объеденять в функции повторяющуюся логику между другими компонентами
+</details>
+  
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 - [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
 - [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
@@ -308,7 +390,6 @@
 - [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
 - [Какие типы данных может возвращать `render`?](https://youtu.be/DgevxmyzymQ?t=90)
 - [Разница между `memo` и `useMemo`?](https://youtu.be/DgevxmyzymQ?t=166)
-- [Что такое синтетические события (SyntheticEvent) в React?](https://youtu.be/DgevxmyzymQ?t=235)
 - [Является ли React реактивным?](https://youtu.be/DgevxmyzymQ?t=291)
 - [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
 - [Лучшие практики безопасности в React?](https://youtu.be/__neFkxAO9s?t=694)
