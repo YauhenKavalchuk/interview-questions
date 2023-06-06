@@ -147,27 +147,138 @@
   
  <details>
   <summary>
-    <a href="https://youtu.be/RpcB5jnJvcI?t=689">Что такое React Fiber?</a>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=34">Что такое синтетические события в React?</a>
   </summary>
     <br/>
-  - Специальный тег JSX котрый не отрисовывается в DOM. Плюс в том, что он быстрее и использует меньше памяти, так же плюс в CSS при flex and grid
+  - Это кроссбраузерная обертка для нативных евентов. все события с которыми работает рекат являются такими обертками.
 </details>
   
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=69">Что такое React-ссылка (`ref`)?</a>
+  </summary>
+    <br/>
+  - Это используется для получения ссылки на элемент из дом дерева, по сути аналог функции getElementById(). Для создания ссылки используется хук useRef() или функция createRef()
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=112">Разница между теневым (Shadow) и виртуальным (Virtual) DOM?</a>
+  </summary>
+    <br/>
+  - Основная разница заключается в том, что они решают разные проблемы и находятся на разных уровнях абстракции.     <br/>
+   - Virtual DOM для поиска различий и эффективной синхронизации изменений
+   - Shadow DOM для создания веб елементов с собественным стилями и поведением типа псевдоэлементов before:: after::
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=112">Назовите преимущества использования React?</a>
+  </summary>
+    <br/>
+  - Virtual DOM    <br/>
+  - Возможность рендера на клиенте и на сервере    <br/>
+  - JSX    <br/>
+  - Низкий порог входа    <br/>
+  - Простая интеграция с фреймворками и библиотеками    <br/>
+  - Комьюнити и библиотеки с готовыми решениями    <br/>
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=224">Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?</a>
+  </summary>
+    <br/>
+  - Это отрисовка компонетна или элемента в зависимости от входного условия isLoading ? <Prelocader/> : null
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=265">Что такое компонент-переключатель (Switching Component)?</a>
+  </summary>
+    <br/>
+  - Это паттерн, которые отрисовывает один из компонентов, которые есть в списке в зависимости от входных данных 
+</details>
+  
+ <details>
+  <summary>
+    <a href="">Разница между `React` и `ReactDOM`?</a>
+  </summary>
+    <br/>
+   - React содержит методы для взаимодействия с элементами и создания компонентов    <br/>
+   - React DOM содержит методы для управления дом элементами содержащимися на странице    <br/>
+   - Были разделены в разные библиотеки для того чтобы компоненты могли создаваться как для веб так и для мобилы
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=370">Разница между компонентом и контейнером? (Conatainer & Presentational)</a>
+  </summary>
+    <br/>
+   - Presentational component чистый функциональный или классовый компонент основной задачей является визуализация данных   <br/>
+   - Conatainer component в которых содержится сложная логика управления/состояния/связывание других компонентов   <br/>
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=370">Разница между компонентом и контейнером? (Conatainer & Presentational)</a>
+  </summary>
+    <br/>
+   - Presentational component чистый функциональный или классовый компонент основной задачей является визуализация данных   <br/>
+   - Conatainer component в которых содержится сложная логика управления/состояния/связывание других компонентов   <br/>
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=413">Как React обрабатывает, или ограничивает использование пропсов определенного типа?</a>
+  </summary>
+    <br/>
+   - Использует сторонние библиотеки/языки типа TypeScrip/PropsTypes
+</details>
+  
+ <details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=469">Что такое строгий режим в React? Его преимущества?</a>
+  </summary>
+    <br/>
+   - Для определения потенциальных проблем приложения, который включает доп проверки и предупреждения для компонентов, которые происходят только в dev mode. Типа устаревшее API.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=532">Что такое «бурение пропсов» (Prop Drilling)? Как его избежать?</a>
+  </summary>
+    <br/>
+   - Так как поток данных однонаправленный, то есть от корневого элемента к дочерним. то чтобы передать от первого уровня вложенности в 3 или 4 можно использовать контекст или редакс.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=597">Что такое «опрос» (Polling)? Как его реализовать в React?</a>
+  </summary>
+    <br/>
+   - Это отправка запросов в api через определенный интервал и в случае появление изменений, то визуализации для пользователя. например уведомления. (setInterval)
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=663">Разница между элементом и компонентом?</a>
+  </summary>
+    <br/>
+   - Компонент это шаблон, который может быть функцией или классом и у него есть методы жизненного цикла или хуки так же может быть состояние и пропсы   <br/>
+   - Элемент это то что возвращается из компонента, объект описывающий виртуальное представление дом узла
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=763">Что такое `ReactDOMServer`?</a>
+  </summary>
+    <br/>
+    - Позволяет рендерить компоненты в виде статической html разметки, используется на js сервере для SSR
+</details>
 
-- [Что такое синтетические события в React?](https://youtu.be/81yRgVQ1ciM?t=34)
-- [Что такое React-ссылка (`ref`)? Как создать ссылку?](https://youtu.be/81yRgVQ1ciM?t=69)
-- [Разница между теневым (Shadow) и виртуальным (Virtual) DOM?](https://youtu.be/81yRgVQ1ciM?t=112)
-- [Назовите преимущества использования React?](https://youtu.be/81yRgVQ1ciM?t=170)
-- [Что такое условный рендеринг (Conditional Rendering)? Как его выполнить?](https://youtu.be/81yRgVQ1ciM?t=224)
-- [Что такое компонент-переключатель (Switching Component)?](https://youtu.be/81yRgVQ1ciM?t=265)
-- [Разница между `React` и `ReactDOM`?](https://youtu.be/81yRgVQ1ciM?t=305)
-- [Разница между компонентом и контейнером?](https://youtu.be/81yRgVQ1ciM?t=370)
-- [Как React обрабатывает, или ограничивает использование пропсов определенного типа?](https://youtu.be/81yRgVQ1ciM?t=413)
-- [Что такое строгий режим в React? Его преимущества?](https://youtu.be/81yRgVQ1ciM?t=469)
-- [Что такое «бурение пропсов» (Prop Drilling)? Как его избежать?](https://youtu.be/81yRgVQ1ciM?t=532)
-- [Что такое «опрос» (Polling)? Как его реализовать в React?](https://youtu.be/81yRgVQ1ciM?t=597)
-- [Разница между элементом и компонентом?](https://youtu.be/81yRgVQ1ciM?t=663)
-- [Что такое `ReactDOMServer`?](https://youtu.be/81yRgVQ1ciM?t=763)
+
+- []()
 - [Что такое предохранители (Error Boundaries)?](https://youtu.be/HBSAjY-xh3k?t=36)
 - [Что такое «ленивая» (Lazy) функция?](https://youtu.be/HBSAjY-xh3k?t=103)
 - [Разница между рендерингом и монтированием?](https://youtu.be/HBSAjY-xh3k?t=149)
