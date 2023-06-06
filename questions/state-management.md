@@ -8,10 +8,10 @@
     <a href="https://youtu.be/RpcB5jnJvcI?t=792">Что такое Flux?</a>
   </summary>
     <br/>
-  - Это архитектурный подход для обмена данными в пользовательских интерфейсах. В основе которого лежит однонаправленный поток данных. 
+  - Это архитектурный подход для обмена данными в пользовательских интерфейсах. В основе которого лежит однонаправленный поток данных и мутация state <br/>
   1) Action(экшен тайп, пэйлоад)     <br/>
   2) Dispather(экшен) - доставляет данные об изменении в редьюсер     <br/>
-  3) Reducer - чистая функция, не мутирует а возвращает новый стейт и потом происходит сравнение объектов и изменение.    <br/>
+  3) Store  <br/>
   4) View - отображение данных (конечная точка)
 </details>
 
@@ -42,8 +42,15 @@
  - Это чистая функция которая принимает в качестве аргументов Action_type, payload и возвращает новое состояние для state
 </details>
 
+<details>
+  <summary>
+    <a href="https://youtu.be/81yRgVQ1ciM?t=819">Разница между Redux и Flux?</a>
+  </summary>
+    <br/>
+ - Redux: иммутабельнеость состояния, только один store (single source of truth), dispather to reducer, midlware (типа санки, саги)     <br/>
+  - Flux: мутабельность состояния, несколько store, dispather to state
+</details>
 
-- [Разница между Redux и Flux?](https://youtu.be/81yRgVQ1ciM?t=819)
 - [Ключевые концепции Redux?](https://youtu.be/HBSAjY-xh3k?t=408)
 - [Что такое «единственный источник истины» (Single Source of Truth)?](https://youtu.be/HBSAjY-xh3k?t=517)
 - [Разница между React State и Redux State?](https://youtu.be/HBSAjY-xh3k?t=638)
