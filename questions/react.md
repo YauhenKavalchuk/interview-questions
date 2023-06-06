@@ -373,23 +373,54 @@
     - Позволяет создавать собственные хуки тем самым объеденять в функции повторяющуюся логику между другими компонентами
 </details>
   
+<details>
+  <summary>
+    <a href="https://youtu.be/GZUy2i6QN7o?t=257">Что такое `useReducer()`?</a>
+  </summary>
+    <br/>
+    - Это хук принимающий в качестве аргуметов редьюсер(как в редаксе по экшен тайп) и начальный стейт и возвращающий текущий стейт и dispatch функцию    <br/>
+  const [state, dispatch] = useReducer(initialState, reducer);
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/GZUy2i6QN7o?t=449">Расскажите о хуках `useCallback()`, `useMemo()`?</a>
+  </summary>
+    <br/>
+    - useCallback(() => callback, [depend]) возвращает мемоизированную колбек функцию, которая изменяется только от зависимостей     <br/>
+    - useMemo(result, [depend]) возвращает мемоизированное вычесление и в отличии от useCallback может принимать любой аргумент
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/XtQPrt8G0n8?t=847">Что такое Reselect и как он работает?</a>
+  </summary>
+    <br/>
+    - Библиотека для мемоизации селекторов из redux. если ничего не изменилось то компонент не делает рендер.
+</details>
+  
+<details>
+  <summary>
+    <a href="https://youtu.be/DgevxmyzymQ?t=166">Разница между `memo` и `useMemo`?</a>
+  </summary>
+    <br/>
+    - Memo это компонетн высшего порядка который принимает на вход другой компонент и смотрит изменились ли пропсы и если нет, то не будет перерисовываться    <br/>
+  - useMemo хук для мемоизации функций, которые вызываются каждый раз заного при изменении зависимостей
+</details>
+  
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 - [Что делает метод `shouldComponentUpdate`?](https://youtu.be/ngyOYuTrUk8?t=748)
 - [Разница между `createElement()` и `cloneElement()`?](https://youtu.be/ngyOYuTrUk8?t=816)
-- [Что такое `useReducer()`?](https://youtu.be/GZUy2i6QN7o?t=257)
 - [Как реализовать однократное выполнение операции при начальном рендеринге?](https://youtu.be/GZUy2i6QN7o?t=321)
 - [Что такое распределенный компонент?](https://youtu.be/GZUy2i6QN7o?t=386)
-- [Расскажите о хуках `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?](https://youtu.be/GZUy2i6QN7o?t=449)
 - [Как отрендерить HTML код в React-компоненте?](https://youtu.be/GZUy2i6QN7o?t=572)
 - [Зачем в `setState()` нужно передавать функцию?](https://youtu.be/GZUy2i6QN7o?t=627)
 - [Для чего предназначен метод `registerServiceWorker()` в React?](https://youtu.be/GZUy2i6QN7o?t=665)
 - [Чем React Router отличается от обычной маршрутизации?](https://youtu.be/GZUy2i6QN7o?t=710)
 - [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
 - [Как передавать пропсы в React Router?](https://youtu.be/GZUy2i6QN7o?t=841)
-- [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
 - [Назовите основную цель React Fiber?](https://youtu.be/DgevxmyzymQ?t=30)
 - [Какие типы данных может возвращать `render`?](https://youtu.be/DgevxmyzymQ?t=90)
-- [Разница между `memo` и `useMemo`?](https://youtu.be/DgevxmyzymQ?t=166)
 - [Является ли React реактивным?](https://youtu.be/DgevxmyzymQ?t=291)
 - [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
 - [Лучшие практики безопасности в React?](https://youtu.be/__neFkxAO9s?t=694)
