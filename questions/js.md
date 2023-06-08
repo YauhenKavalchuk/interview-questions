@@ -39,51 +39,73 @@
 <details>
 <summary><a href="https://youtu.be/1eIRTdgzHtw?t=282">Что такое область видимости (Scope)?</a></summary>
     <br/>
+  - это место от куда мы имеем доступ к переменными или функциям. Существует три типа: глобальная, локальная/функциональная, блочная {let i = 0}.
 </details>
 
 <details>
 <summary><a href="https://youtu.be/1eIRTdgzHtw?t=362">Разница между `var`, `let` и `const`?</a></summary>
     <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/kx3dR6ztICU?t=284">Что такое замыкание (Closure)?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/rlWgI7AvV18?t=507">Что обозначает `this` в JavaScript?</a></summary>
-    <br/>
+  - var применяется hoisting, es5 глобальная область видимости
+  - let блочная область видимости/ можно изменять
+  - const блоачная область видимости/ нельзя изменять
 </details>
 
 <details>
 <summary><a href="https://youtu.be/1eIRTdgzHtw?t=426">Что такое функции высшего порядка (Higher Order Functions)?</a></summary>
     <br/>
+  - это функции, которые в качестве аргумента принимают другую функцию или возвращают функцию. примеры map, reduce, forEach
 </details>
 
 <details>
-<summary><a href="https://youtu.be/rlWgI7AvV18?t=401">Что такое чистая функция?</a></summary>
+<summary><a href="https://youtu.be/1eIRTdgzHtw?t=426">Что такое распространение события (Evenet Propagation)?</a></summary>
     <br/>
+  - это происходит после нажатия кнопки, то событие начинает опускаться с window до элемента на который тыкнули итого три фазы (capturing, targer, bubbling)
+</details>
+
+<details>
+<summary><a href="https://youtu.be/1eIRTdgzHtw?t=426">Что такое делегация события (Evenet Delegation)?</a></summary>
+    <br/>
+  - это вместо того, чтобы вешать слушатель события на элемент, мы вешаем на родителя и смотрим на какой таргет было нажатие. 
+</details>
+
+<details>
+<summary><a href="https://youtu.be/kx3dR6ztICU?t=284">Что такое замыкание (Closure)?</a></summary>
+    <br/>
+  - мы знаем, что переменные созданные внутри функции не доступны снаружи функции, но они удаляются после того, как функция была выполнена. Но мы можем из этой функции вернуть функцию, предварительно создав переменную и получится, что она замкнулась внутри.
+</details>
+
+<details>
+<summary><a href="https://youtu.be/rlWgI7AvV18?t=507">Что обозначает `this` в JavaScript?</a></summary>
+    <br/>
+  - это конекст вызова или ссылка на значение объекта, который вызывает/выполняет функцию (по умолчанию это window)
 </details>
 
 <details>
 <summary><a href="https://youtu.be/rlWgI7AvV18?t=548">Разница между `.call()`, `.apply()` и `bind()`?</a></summary>
     <br/>
+  - tellName.bind(object, firstName, lastName) // object.tellName()    <br/>
+  - someFunc.call(object, firstName, lastName)  // Ivan Kurochkin <br/>
+   - someFunc.apply(object, [firstName, lastName])  // Ivan Kurochkin
 </details>
 
+
 <details>
-<summary><a href="https://youtu.be/kx3dR6ztICU?t=396">Что такое IIFE?</a></summary>
+<summary><a href="https://youtu.be/rlWgI7AvV18?t=401">Что такое чистая функция?</a></summary>
     <br/>
+  - одна из концепций функционального программирования удовлетовраяющая двум основым требованиям: no side effects, при одни и тех же аргументах возвращает одинковые значения.
+</details>
+
+
+<details>
+<summary><a href="https://youtu.be/kx3dR6ztICU?t=396">Что такое IIFE? (Immediatly invoke function expression)</a></summary>
+    <br/>
+  - это функция которая вызывает сама себя: (() => hello!)()
 </details>
 
 <details>
 <summary><a href="https://youtu.be/IooJ3P2VUYs?t=100">Почему результат сравнения 2х объектов это `false`?</a></summary>
     <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/w-vUj0gHGgg?t=125">Для чего используется ключевое слово `new`?</a></summary>
-    <br/>
+  - потому что объекты сравниваются по адресу в котором они хранятся в памяти, а так как каждый объект это два разных адреса в памяти, то поэтому false. 
 </details>
 
 <details>
@@ -128,6 +150,11 @@
 
 <details>
 <summary><a href="https://youtu.be/trriSYNrHw4?t=786">Как работает «сборщик мусора» в JavaScript?</a></summary>
+    <br/>
+</details>
+
+<details>
+<summary><a href="https://youtu.be/w-vUj0gHGgg?t=125">Для чего используется ключевое слово `new`?</a></summary>
     <br/>
 </details>
 
