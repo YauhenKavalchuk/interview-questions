@@ -24,7 +24,8 @@
 <details>
 <summary><a href="https://youtu.be/1eIRTdgzHtw?t=233"></a>Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?</summary>
     <br/>
- 
+  - adaptive это разные версии приложения в зависимости от устройства     <br/>
+  - responsive это перестройка существующего макета в зависимости от размера экрана
 </details>
 
 <details>
