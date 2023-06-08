@@ -80,16 +80,20 @@
 <details>
 <summary><a href="https://youtu.be/DQ0BLu6rZYc?t=410"></a>Разница между `preload`, `prefetch`, `preconnect` и `prerender`?</summary>
     <br/>
+  - это для тега атрибута rel <link rel src="style.css/js/image" /> говорит как именно загружать этот файл быстро/кэшировать итд.
 </details>
 
 <details>
 <summary><a href="https://youtu.be/DQ0BLu6rZYc?t=519"></a>Для чего нужен паттерн PRPL?</summary>
     <br/>
+  - паттерн для оптимизации загрузки spa and pwa в основе которого лежит: Push, Render, Pre-cache, Lazy-load   <br/>
+  - Push 
 </details>
 
 <details>
 <summary><a href="https://youtu.be/trriSYNrHw4?t=102"></a>Что такое поток документа?</summary>
     <br/>
+  - принцип организации элементов на странице при отсутсвии стилей (зашитое поведение/отображение элементов в html), например div ведет себя как блок и span как строка. 
 </details>
 
 
