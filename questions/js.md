@@ -109,6 +109,47 @@
 </details>
 
 <details>
+<summary><a href="https://youtu.be/nvktMVFM0_M?t=280">Как передаются параметры в функцию: по ссылке или по значению?</a></summary>
+    <br/>
+  - примитивы по значению, а объекты и массивы по ссылке. то есть если передать примитив, то он не изменится глобально, а объект измениться.
+</details>
+
+<details>
+<summary><a href="https://youtu.be/V-m0sQ-hW58?t=98">JavaScript статически, или динамически типизированный язык?</a></summary>
+    <br/>
+  - динамический, потому что тип проверяется во время интерпритации. в отлчии от статического, когда проверятся на этапе компиляции.
+</details>
+
+<details>
+<summary><a href="https://youtu.be/VYQl2GhbCUs?t=706">Что такое выражения (expression) и инструкции (statement) в JavaScript?</a></summary>
+    <br/>
+  - expression это присваивание значения, а statement это условие if
+</details>
+
+<details>
+<summary><a href="https://youtu.be/lZNWrW39ELM?t=232">Разница между явным и неявным преобразованием (Implicit and Explicit Coercion)?</a></summary>
+    <br/>
+  - неявное преобразование происходит без участия разработчика типа '1' + 2 = '12';
+</details>
+
+<details>
+<summary><a href="https://youtu.be/3NGkctg4lsE?t=744">Каким образом можно обмениваться кодом между файлами?</a></summary>
+    <br/>
+  - через модули
+</details>
+
+<details>
+<summary><a href="https://youtu.be/trriSYNrHw4?t=786">Как работает «сборщик мусора» в JavaScript?</a></summary>
+    <br/>
+  - в основе лежит алгоритм mark and sweep, который помечает все корневые элементы а потом идет по ним и помечает все ссылки, далее по ссылкам идет и помечает их ссылки и так до тех пор пока он не пометит все. все что не пометилось он удаляет.
+</details>
+
+<details>
+<summary><a href="https://youtu.be/w-vUj0gHGgg?t=125">Для чего используется ключевое слово `new`?</a></summary>
+    <br/>
+</details>
+
+<details>
 <summary><a href="https://youtu.be/G4iYlbilozM?t=149">Как работает boxing/unboxing в JavaScript?</a></summary>
     <br/>
 </details>
@@ -119,42 +160,7 @@
 </details>
 
 <details>
-<summary><a href="https://youtu.be/nvktMVFM0_M?t=280">Как передаются параметры в функцию: по ссылке или по значению?</a></summary>
-    <br/>
-</details>
-
-<details>
 <summary><a href="https://youtu.be/ngyOYuTrUk8?t=445">Плюсы и минусы иммутабельности? Как достичь иммутабельности в JS?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/V-m0sQ-hW58?t=98">JavaScript статически, или динамически типизированный язык?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/VYQl2GhbCUs?t=706">Что такое выражения (expression) и инструкции (statement) в JavaScript?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/lZNWrW39ELM?t=232">Разница между явным и неявным преобразованием (Implicit and Explicit Coercion)?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/3NGkctg4lsE?t=744">Каким образом можно обмениваться кодом между файлами?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/trriSYNrHw4?t=786">Как работает «сборщик мусора» в JavaScript?</a></summary>
-    <br/>
-</details>
-
-<details>
-<summary><a href="https://youtu.be/w-vUj0gHGgg?t=125">Для чего используется ключевое слово `new`?</a></summary>
     <br/>
 </details>
 
