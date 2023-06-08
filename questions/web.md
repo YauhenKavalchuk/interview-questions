@@ -18,12 +18,13 @@
 <details>
 <summary><a href="https://youtu.be/XtQPrt8G0n8?t=76"></a>Что такое Progressive Web Application (PWA)?</summary>
     <br/>
+    - это веб сайты, которые ведут себя подобно нативным приложениям. устанавливаются на устройство и могут работать онлайн за счет serviceWorker
 </details>
 
 <details>
 <summary><a href="https://youtu.be/1eIRTdgzHtw?t=233"></a>Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?</summary>
     <br/>
-  - это веб сайты, которые ведут себя подобно нативным приложениям. устанавливаются на устройство и могут работать онлайн за счет serviceWorker
+ 
 </details>
 
 <details>
