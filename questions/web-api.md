@@ -111,13 +111,14 @@
 <details>
 <summary><a href="https://youtu.be/70VnuTXi4Wk?t=720"></a>Что такое IP-адрес?</summary>
     <br/>
-
+- уникальный и числовой идентификатор устройства в компьютерной сети, работающий по протоколу IP.
 </details>
 
 <details>
 <summary><a href="https://youtu.be/70VnuTXi4Wk?t=779"></a>Разница между host и domain?</summary>
     <br/>
-
+ - domain это человекочитаемое название, которое привязывается к ip адресу    <br/>
+  - host это место размещения веб сайта на сервере
 </details>
 
 <details>
