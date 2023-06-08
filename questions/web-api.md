@@ -105,7 +105,7 @@
 <details>
 <summary><a href="https://youtu.be/ngyOYuTrUk8?t=152"></a>Что такое CDN?</summary>
     <br/>
-
+ - что то типа service worker
 </details>
 
 <details>
