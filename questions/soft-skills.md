@@ -15,3 +15,4 @@
 - [Почему критерии DoD и DoR важны для проекта?](https://youtu.be/DZjIcc6KdjE?t=709)
 - [Кто такой стейкхолдер (stakeholder)? Расскажите о матрице RACI?](https://youtu.be/DZjIcc6KdjE?t=767)
 - [Разница между менторингом и коучингом?](https://youtu.be/DZjIcc6KdjE?t=857)
+- [Опишите суть методологии GitFlow?](https://youtu.be/hJDqYohmzL8?t=811)
