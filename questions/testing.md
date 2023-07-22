@@ -14,3 +14,5 @@
 - [Что такое UI-тестирование? Назовите подходы UI-тестирования?](https://youtu.be/Sw4BlFLj2dg?t=372)
 - [Как можно оценить качество тестирования?](https://youtu.be/Sw4BlFLj2dg?t=471)
 - [Какие инструменты тестирования вы знаете?](https://youtu.be/Sw4BlFLj2dg?t=556)
+- [Что такое Testing Trophy?](https://youtu.be/hJDqYohmzL8?t=28)
+- [Что такое принцип FIRST в тестировании?](https://youtu.be/hJDqYohmzL8?t=95)
