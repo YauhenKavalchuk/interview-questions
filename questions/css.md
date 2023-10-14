@@ -51,3 +51,5 @@
 - [Разница между псевдоклассами и псевдоэлементами?](https://youtu.be/ia3VPHMESnY?t=486)
 - [Как создавать и поддерживать единый стиль CSS на больших проектах?](https://youtu.be/ia3VPHMESnY?t=576)
 - [Что такое "контейнерные запросы" (container queries)? Как они отличаются от медиазапросов (media queries)?](https://youtu.be/ia3VPHMESnY?t=678)
+- [Расскажите о псевдоклассе `:has()`?](https://youtu.be/zcF-CVtXSBI?t=428)
+- [Расскажите о медиафункции `prefers-reduced-motion`?](https://youtu.be/zcF-CVtXSBI?t=484)
