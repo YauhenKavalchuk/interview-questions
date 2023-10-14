@@ -12,3 +12,4 @@
 - [Какие основные задачи выполняет Webpack при сборке проекта?](https://youtu.be/Sw4BlFLj2dg?t=641)
 - [Что такое бандл (bundle)? Как он используется во Frontend разработке?](https://youtu.be/Sw4BlFLj2dg?t=723)
 - [Какие проблемы могут возникнуть при работе с Git?](https://youtu.be/Sw4BlFLj2dg?t=775)
+- [Что такое пулреквест и как его сделать на GitHub?](https://youtu.be/zcF-CVtXSBI?t=746)
