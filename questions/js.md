@@ -85,3 +85,7 @@
 - [Как работает контекст выполнения (execution context) в JavaScript?](https://youtu.be/nTE4qvSvxXY?t=704)
 - [Разница между примитивом и объектом?](https://youtu.be/nTE4qvSvxXY?t=791)
 - [Что значит текст `max call stack size exceeded` в консоли?](https://youtu.be/ia3VPHMESnY?t=781)
+- [Как реализовать отложенную загрузку изображений?](https://youtu.be/zcF-CVtXSBI?t=540)
+- [Чем отличаются события `input` и `change`?](https://youtu.be/zcF-CVtXSBI?t=607)
+- [Почему `typeof null` возвращает `object`?](https://youtu.be/zcF-CVtXSBI?t=638)
+- [Зачем нужен конструктор `Proxy`?](https://youtu.be/zcF-CVtXSBI?t=690)
