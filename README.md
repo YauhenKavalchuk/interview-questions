@@ -18,6 +18,7 @@
 ### Темы вопросов:
 - [Web Technologies (общие вопросы по веб-разработке)](./questions/web.md)
 - [Web API (вопросы из веб API)](./questions/web-api.md)
+- [Security (вопросы по веб-безопасности)](./questions/security.md)
 - [OOP & FP (вопросы из объектно-ориентированного и функционального программирования)](./questions/oop-fp.md)   
 - [HTML (вопросы по языку гипертекстовой разметки)](./questions/html.md)
 - [CSS (вопросы по каскадным таблицам стилей)](./questions/css.md)
