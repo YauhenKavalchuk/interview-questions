@@ -34,7 +34,7 @@
 - [Что такое элемент `<canvas>`? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=200)
 - [Что такое `<svg>` и `<canvas>`?](https://youtu.be/rWEsjNWBoIE?t=287)
 - [Разница между `<canvas>` и `<svg>`?](https://youtu.be/rWEsjNWBoIE?t=340)
-- [В каких случаях лучше использовать `<canvas>`s, а в каких `<svg>`?](https://youtu.be/rWEsjNWBoIE?t=390)
+- [В каких случаях лучше использовать `<canvas>`, а в каких `<svg>`?](https://youtu.be/rWEsjNWBoIE?t=390)
 - [Плюсы и минусы `<canvas>` и `<svg>`?](https://youtu.be/rWEsjNWBoIE?t=443)
 - [Для чего нужен атрибут `autocomplete`?](https://youtu.be/rWEsjNWBoIE?t=612)
 - [Что такое элемент `<output>` в HTML5?](https://youtu.be/rWEsjNWBoIE?t=669)
