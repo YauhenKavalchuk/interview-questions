@@ -46,7 +46,7 @@
 - [Что такое Service Workers?](https://youtu.be/V-m0sQ-hW58?t=727)
 - [Что такое Web Workers?](https://youtu.be/V-m0sQ-hW58?t=811)
 - [Что такое Web Worklet?](https://youtu.be/__neFkxAO9s?t=521)
-- [Механизм устанавки сеанса между клиентом и сервером?](https://youtu.be/-mWa7erZu64?t=570)
+- [Механизм установки сеанса между клиентом и сервером?](https://youtu.be/-mWa7erZu64?t=570)
 - [Что Такое API?](https://youtu.be/ngyOYuTrUk8?t=98)
 - [Что такое CDN?](https://youtu.be/ngyOYuTrUk8?t=152)
 - [Что такое IP-адрес?](https://youtu.be/70VnuTXi4Wk?t=720)
