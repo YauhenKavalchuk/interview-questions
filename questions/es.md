@@ -37,3 +37,6 @@
 - [Назовите основные методы и свойства работы с коллекцией `Map`?](https://youtu.be/3kvKFfPteFg?t=382)
 - [Назовите основные методы и свойства работы с коллекцией `Set`?](https://youtu.be/3kvKFfPteFg?t=443)
 - [Как осуществить перебор элементов в коллекциях `Map` и `Set`?](https://youtu.be/3kvKFfPteFg?t=509)
+- [Как работают дефолтные параметры в ES6?](https://youtu.be/PI1X5oFHou8?t=507)
+- [Что такое `BigInt` в ES2020 и для чего он используется?](https://youtu.be/PI1X5oFHou8?t=562)
+- [Какие нововведения были представлены в ECMAScript 2021 (ES12)?](https://youtu.be/PI1X5oFHou8?t=634)
