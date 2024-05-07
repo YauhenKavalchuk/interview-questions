@@ -21,3 +21,6 @@
 - [Плюсы и минусы асинхронного программирования в JavaScript?](https://youtu.be/t0sdlbA6yA8?t=460)
 - [Как выполнить несколько асинхронных операций последовательно?](https://youtu.be/t0sdlbA6yA8?t=599)
 - [Какие проблемы может вызвать неправильное использование асинхронности в JavaScript?](https://youtu.be/t0sdlbA6yA8?t=657)
+- [Что такое `fetch()`? Как работает функция `fetch()`?](https://youtu.be/PI1X5oFHou8?t=713)
+- [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/PI1X5oFHou8?t=786)
+- [Что такое и как работает коэффициент сжатия (compression ratio) в контексте веб-разработки?](https://youtu.be/PI1X5oFHou8?t=835)
