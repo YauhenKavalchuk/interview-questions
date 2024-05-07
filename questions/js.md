@@ -89,3 +89,6 @@
 - [Чем отличаются события `input` и `change`?](https://youtu.be/zcF-CVtXSBI?t=607)
 - [Почему `typeof null` возвращает `object`?](https://youtu.be/zcF-CVtXSBI?t=638)
 - [Зачем нужен конструктор `Proxy`?](https://youtu.be/zcF-CVtXSBI?t=690)
+- [Что такое хвостовая рекурсия? Оптимизация рекурсии?](https://youtu.be/PI1X5oFHou8?t=30)
+- [Что такое и как работает `debounce()` и `throttle()` в JavaScript?](https://youtu.be/PI1X5oFHou8?t=104)
+- [Как в JavaScript работают декораторы? Как они могут быть использованы для модификации поведения классов и методов?](https://youtu.be/PI1X5oFHou8?t=188)
