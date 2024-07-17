@@ -41,3 +41,4 @@
 - [Что такое Dependency injection?](https://youtu.be/hJDqYohmzL8?t=540)
 - [Разница между агрегацией и композицией?](https://youtu.be/hJDqYohmzL8?t=610)
 - [Разница между процедурным и функциональным программированием?](https://youtu.be/hJDqYohmzL8?t=711)
+- [Что такое паттерн "обратный плагин" (Reverse-Plugin Pattern)? Когда его стоит использовать?](https://youtu.be/3bC0orWHc5g?t=510)
