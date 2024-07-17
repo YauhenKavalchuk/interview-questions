@@ -67,3 +67,6 @@
 - [Является ли React реактивным?](https://youtu.be/DgevxmyzymQ?t=291)
 - [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
 - [Лучшие практики безопасности в React?](https://youtu.be/__neFkxAO9s?t=694)
+- [Как работает пропс `children` в React?](https://youtu.be/3bC0orWHc5g?t=160)
+- [Что такое обратный поток данных в React?](https://youtu.be/3bC0orWHc5g?t=211)
+- [Как использовать `React.lazy` и `React.Suspense` для запуска кода приложения?](https://youtu.be/3bC0orWHc5g?t=281)
