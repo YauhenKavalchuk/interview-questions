@@ -21,3 +21,5 @@
 - [Разница между `module.exports` и `exports`?](https://youtu.be/R76_xPjzUd8?t=505)
 - [Почему в модулях переменные верхнего уровня не являются глобальными?](https://youtu.be/R76_xPjzUd8?t=554)
 - [Что такое циклические зависимости модулей в Node?](https://youtu.be/R76_xPjzUd8?t=611)
+- [Подходы к масштабированию Node.js приложения?](https://youtu.be/3bC0orWHc5g?t=358)
+- [Что такое переменные окружения в Node.js? Как они используются?](https://youtu.be/3bC0orWHc5g?t=439)
