@@ -26,6 +26,7 @@
 - [Async JS (вопросы из асинхронного JavaScript)](./questions/async-js.md)
 - [ECMAScript (вопросы из стандарта ECMAScript)](./questions/es.md)
 - [Accessibility (вопросы по доступности)](./questions/accessibility.md)
+- [Performance (вопросы по оптимизации веб-страниц)](./questions/performance.md)
 - [TypeScript (вопросы по языку TypeScript)](./questions/ts.md)
 - [React (вопросы по библиотеке React)](./questions/react.md)
 - [Vue.js (вопросы по фрэймворку Vue.js)](./questions/vue-js.md)
