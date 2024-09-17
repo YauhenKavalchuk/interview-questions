@@ -8,3 +8,8 @@
 - [Расскажите о метриках Core Web Vitals?](https://youtu.be/DQ0BLu6rZYc?t=314)
 - [Разница между `preload`, `prefetch`, `preconnect` и `prerender`?](https://youtu.be/DQ0BLu6rZYc?t=410)
 - [Для чего нужен паттерн PRPL?](https://youtu.be/DQ0BLu6rZYc?t=519)
+- [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
+- [Почему хорошей практикой считается располагать `<link>` для подключения CSS стилей внутри тэга `<head>`, а `<script>` для подключения JS ставить перед закрывающимся тэгом `</body>`?](https://youtu.be/7TvS0iKR3_c?t=30)
+- [Назовите критические этапы рендеринга?](https://youtu.be/3NGkctg4lsE?t=31)
+- [Разница между layout, painting и compositing?](https://youtu.be/yvOXvZ8aEFo?t=209)
+- [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/yvOXvZ8aEFo?t=164)
