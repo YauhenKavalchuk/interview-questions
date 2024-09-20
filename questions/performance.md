@@ -1,5 +1,5 @@
 <h3>
-  <img src="../assets/WWW.png" width="16" height="16" />
+  <img src="../assets/performance.png" width="16" height="16" />
   <span>Performance:</span>
 </h3>
 
@@ -13,3 +13,6 @@
 - [Назовите критические этапы рендеринга?](https://youtu.be/3NGkctg4lsE?t=31)
 - [Разница между layout, painting и compositing?](https://youtu.be/yvOXvZ8aEFo?t=209)
 - [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/yvOXvZ8aEFo?t=164)
+- [Почему важно минимизировать количество reflow и repaint в браузере? Как этого достигнуть?]()
+- [Как оптимизировать загрузку изображений для улучшения производительности?]()
+- [Методы оптимизации загрузки шрифтов?]()
