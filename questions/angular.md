@@ -15,7 +15,7 @@
 - [Что такое декораторы в TypeScript?](https://youtu.be/3kvKFfPteFg?t=872)
 - [Назовите плюсы использования Angular?](https://youtu.be/54C3u9aCtoU?t=268)
 - [Назовите минусы использования Angular?](https://youtu.be/54C3u9aCtoU?t=345)
-- [Что такое внедрение зависимостей в Angular?](https://youtu.be/54C3u9aCtoU?t=412)
+- [Что такое внедрение зависимостей (dependency injection) в Angular?](https://youtu.be/54C3u9aCtoU?t=412)
 - [Что такое директивы в Angular?](https://youtu.be/54C3u9aCtoU?t=463)
 - [Для чего нужны директивы `<ng-template>`, `<ng-container>`, `<ng-content>`?](https://youtu.be/54C3u9aCtoU?t=532)
 - [Что такое динамические компоненты в Angular?](https://youtu.be/54C3u9aCtoU?t=633)
