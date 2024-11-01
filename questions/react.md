@@ -17,6 +17,7 @@
 - [Что такое контекст (`Context`)?](https://youtu.be/RpcB5jnJvcI?t=390)
 - [Что такое React хуки (Hooks)?](https://youtu.be/RpcB5jnJvcI?t=475)
 - [Что Такое `JSX`?](https://youtu.be/RpcB5jnJvcI?t=571)
+- [Разница между `JSX` и `HTML`?](https://youtu.be/F2DHz6_y8LY?t=799)
 - [Разница между состоянием(`state`) и пропсами(`props`)?](https://youtu.be/RpcB5jnJvcI?t=621)
 - [Что такое React Fiber?](https://youtu.be/RpcB5jnJvcI?t=689)
 - [Что такое фрагмент (`Fragment`)? Почему фрагмент лучше, чем `div`?](https://youtu.be/RpcB5jnJvcI?t=730)
