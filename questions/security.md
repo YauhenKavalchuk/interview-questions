@@ -22,3 +22,6 @@
 - [Как можно защищаться от CSRF-атак (Cross-Site Request Forgery)?](https://youtu.be/RKFu0MC1aUs?t=509)
 - [Как можно защищаться от межсайтового скриптинга (XSS)?](https://youtu.be/RKFu0MC1aUs?t=596)
 - [Какие меры безопасности следует принять при работе с cookie на стороне клиента?](https://youtu.be/RKFu0MC1aUs?t=799)
+- [Подходы для междоменных запросов в JavaScript?](https://youtu.be/Tx5ABBxYs-Y?t=511)
+- [Лучшие практики при работе с веб-хранилищем?](https://youtu.be/Tx5ABBxYs-Y?t=632)
+- [Что такое SRI (Subresource Integrity)? Как его использовать для улучшения безопасности?](https://youtu.be/Tx5ABBxYs-Y?t=736)
