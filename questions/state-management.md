@@ -12,3 +12,4 @@
 - [Разница между React State и Redux State?](https://youtu.be/HBSAjY-xh3k?t=638)
 - [Как выглядит поток данных в Redux-приложении?](https://youtu.be/HBSAjY-xh3k?t=706)
 - [Плюсы и минусы Redux?](https://youtu.be/HBSAjY-xh3k?t=767)
+- [Какие библиотеки для управления состоянием вы знаете, кроме Redux?](https://youtu.be/CkX3nbEHcJ0?t=815)
