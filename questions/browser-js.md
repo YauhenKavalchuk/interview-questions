@@ -38,3 +38,6 @@
 - [Как можно создавать пользовательское событие (custom events) в JavaScript?](https://youtu.be/PI1X5oFHou8?t=277)
 - [Что такое `IndexedDB`? Как работает `IndexedDB`?](https://youtu.be/PI1X5oFHou8?t=339)
 - [Расскажите о методе `requestAnimationFrame()`?](https://youtu.be/PI1X5oFHou8?t=419)
+- [Подходы для междоменных запросов в JavaScript?](https://youtu.be/Tx5ABBxYs-Y?t=511)
+- [Лучшие практики при работе с веб-хранилищем?](https://youtu.be/Tx5ABBxYs-Y?t=632)
+- [Что такое SRI (Subresource Integrity)? Как его использовать для улучшения безопасности?](https://youtu.be/Tx5ABBxYs-Y?t=736)
