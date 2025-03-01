@@ -48,3 +48,6 @@
 - [Разница между host и domain?](https://youtu.be/70VnuTXi4Wk?t=779)
 - [Разница между URI и URL?](https://youtu.be/70VnuTXi4Wk?t=844)
 - [Почему очищать кэш важно? Как это можно сделать?](https://youtu.be/N1wPX5Z4HKE?t=30)
+- [Что такое "Server-less" архитектура?](https://youtu.be/NxPUaFAIyL0?t=222)
+- [Что такое "Declarative UI"? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
+- [Что такое "Server push"? Как он улучшает производительность страниц?](https://youtu.be/NxPUaFAIyL0?t=353)
