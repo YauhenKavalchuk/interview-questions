@@ -64,3 +64,5 @@
 - [Какие HTML-элементы используются для создания и форматирования таблиц? Какие атрибуты у них есть?](https://youtu.be/ia3VPHMESnY?t=361)
 - [Расскажите о тэге `<samp>`?](https://youtu.be/zcF-CVtXSBI?t=309)
 - [Для чего используется атрибут `capture`?](https://youtu.be/zcF-CVtXSBI?t=376)
+- [Опишите процесс валидации форм в HTML5?](https://youtu.be/NxPUaFAIyL0?t=26)
+- [Плюсы и минусы использования `<iframe>`?](https://youtu.be/NxPUaFAIyL0?t=120)
