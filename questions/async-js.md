@@ -9,6 +9,7 @@
 - [Что такое цикл событий (event loop) и как он работает?](https://youtu.be/w-vUj0gHGgg?t=293)
 - [Разница между микро и макрозадачами в event loop?](https://youtu.be/hL5yFo9Pms4?t=249)
 - [Расскажите о `queueMicrotask`?](https://youtu.be/hL5yFo9Pms4?t=330)
+- [Как работает setTimeout с нулевым таймером (0 ms)?](https://youtu.be/1kzbNflP_YA?t=802)
 - [Что такое промисы (Promises)?](https://youtu.be/G4iYlbilozM?t=371)
 - [Плюсы и минусы использовании Ajax?](https://youtu.be/yvOXvZ8aEFo?t=352)
 - [Подходы при работе с асинхронным кодом?](https://youtu.be/yvOXvZ8aEFo?t=410)
