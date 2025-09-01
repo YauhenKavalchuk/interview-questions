@@ -16,3 +16,5 @@
 - [Почему важно минимизировать количество reflow и repaint в браузере? Как этого достигнуть?](https://youtu.be/F2DHz6_y8LY?t=36)
 - [Как оптимизировать загрузку изображений для улучшения производительности?](https://youtu.be/F2DHz6_y8LY?t=145)
 - [Методы оптимизации загрузки шрифтов?](https://youtu.be/F2DHz6_y8LY?t=220)
+- [Что такое TTI (Time to Interactive)? Как его измерить и улучшить?](https://youtu.be/V39eEU9Pwv0?t=578)
+- [Разница между "Render Blocking" и "Layout Thrashing"?](https://youtu.be/V39eEU9Pwv0?t=651)
