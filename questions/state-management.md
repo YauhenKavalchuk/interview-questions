@@ -13,3 +13,4 @@
 - [Как выглядит поток данных в Redux-приложении?](https://youtu.be/HBSAjY-xh3k?t=706)
 - [Плюсы и минусы Redux?](https://youtu.be/HBSAjY-xh3k?t=767)
 - [Какие библиотеки для управления состоянием вы знаете, кроме Redux?](https://youtu.be/CkX3nbEHcJ0?t=815)
+- [Разница между VueX и Redux?](https://youtu.be/2Kf2I9S0ZlM?t=316)
