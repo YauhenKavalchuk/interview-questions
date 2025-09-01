@@ -25,3 +25,4 @@
 - [Что такое `fetch()`? Как работает функция `fetch()`?](https://youtu.be/PI1X5oFHou8?t=713)
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/PI1X5oFHou8?t=786)
 - [Что такое и как работает коэффициент сжатия (compression ratio) в контексте веб-разработки?](https://youtu.be/PI1X5oFHou8?t=835)
+- [Что делает `Promise.finally()`? Сценарий его применения?](https://youtu.be/V39eEU9Pwv0?t=510)
