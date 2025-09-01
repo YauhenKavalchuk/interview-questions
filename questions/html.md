@@ -71,4 +71,4 @@
 - [Для чего используются `<noscript>` и `<script>` в HTML?](https://youtu.be/1kzbNflP_YA?t=174)
 - [Для чего используется тэг `<dialog>` в HTML?](https://youtu.be/1kzbNflP_YA?t=235)
 - [Чем отличается `<iframe>` от `<embed>`?](https://youtu.be/1kzbNflP_YA?t=297)
-- [Для чего используется тэг `<template>`?](https://youtu.be/2Kf2I9S0ZlM?t=26)
+- [Для чего используется тэг `<template>`?](https://youtu.be/V39eEU9Pwv0?t=26)
