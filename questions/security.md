@@ -27,3 +27,4 @@
 - [Что такое SRI (Subresource Integrity)? Как его использовать для улучшения безопасности?](https://youtu.be/Tx5ABBxYs-Y?t=736)
 - [Что такое обфускация кода? Зачем она может быть использована в JavaScript проектах?](https://youtu.be/NxPUaFAIyL0?t=442)
 - [Разница между обфускацией и минификацией кода?](https://youtu.be/NxPUaFAIyL0?t=514)
+- [Как можно защититься от кликджекинг-атак (Clickjacking)?](https://youtu.be/V39eEU9Pwv0?t=845)
