@@ -61,3 +61,5 @@
 - [Расскажите о свойстве `will-change`?](https://youtu.be/1kzbNflP_YA?t=371)
 - [Как работают каскадность и наследование в CSS?](https://youtu.be/1kzbNflP_YA?t=432)
 - [Как работают `transition` и `animation`, и в чем их отличия?](https://youtu.be/1kzbNflP_YA?t=526)
+- [Разница между Flexbox и CSS Grid?](https://youtu.be/2Kf2I9S0ZlM?t=95)
+- [Как можно реализовать адаптивный дизайн без медиа-запросов?](https://youtu.be/2Kf2I9S0ZlM?t=161)
