@@ -23,3 +23,4 @@
 - [Что такое циклические зависимости модулей в Node?](https://youtu.be/R76_xPjzUd8?t=611)
 - [Подходы к масштабированию Node.js приложения?](https://youtu.be/3bC0orWHc5g?t=358)
 - [Что такое переменные окружения в Node.js? Как они используются?](https://youtu.be/3bC0orWHc5g?t=439)
+- [Что такое `EventEmitter` в Node.js? Особенности `EventEmitter`?](https://youtu.be/V39eEU9Pwv0?t=457)
