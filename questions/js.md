@@ -23,7 +23,7 @@
 - [Разница между `.call()`, `.apply()` и `bind()`?](https://youtu.be/rlWgI7AvV18?t=548)
 - [Почему в JS функции называют объектами первого класса?](https://youtu.be/rlWgI7AvV18?t=624)
 - [Как определить наличие свойства в объекте?](https://youtu.be/kx3dR6ztICU?t=226)
-- [Что такое IIFE?](https://youtu.be/kx3dR6ztICU?t=396)
+- [Что такое IIFE (Immediately Invoked Function Expression)?](https://youtu.be/kx3dR6ztICU?t=396)
 - [Что такое псевдомассив `arguments`?](https://youtu.be/kx3dR6ztICU?t=442)
 - [Разница между host-объектами и нативными объектами?](https://youtu.be/kx3dR6ztICU?t=484)
 - [Почему результат сравнения 2х объектов это `false`?](https://youtu.be/IooJ3P2VUYs?t=100)
