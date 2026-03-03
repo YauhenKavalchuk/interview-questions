@@ -75,7 +75,7 @@
 - [Для чего применяется метод `Array.from()`?](https://youtu.be/lZNWrW39ELM?t=328)
 - [Назовите способы преобразования массива в объект?](https://youtu.be/lZNWrW39ELM?t=389)
 - [Разница между `Object` и `Map`?](https://youtu.be/nbWY5W-9OEo?t=214)
-- [Что такое каррирование?](https://youtu.be/nbWY5W-9OEo?t=295)
+- [Что такое каррирование (currying)?](https://youtu.be/nbWY5W-9OEo?t=295)
 - [Для чего используются метод `Object.seal()`?](https://youtu.be/nbWY5W-9OEo?t=354)
 - [Для чего используется свойство `.dataset`?](https://youtu.be/3NGkctg4lsE?t=680)
 - [Каким образом можно обмениваться кодом между файлами?](https://youtu.be/3NGkctg4lsE?t=744)
