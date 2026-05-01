@@ -72,3 +72,4 @@
 - [Для чего используется тэг `<dialog>` в HTML?](https://youtu.be/1kzbNflP_YA?t=235)
 - [Чем отличается `<iframe>` от `<embed>`?](https://youtu.be/1kzbNflP_YA?t=297)
 - [Для чего используется тэг `<template>`?](https://youtu.be/V39eEU9Pwv0?t=26)
+- [Разница между блочными и строчными элементами?](https://youtu.be/Uc378Fmc5vw?t=29)
