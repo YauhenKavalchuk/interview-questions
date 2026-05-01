@@ -63,3 +63,7 @@
 - [Как работают `transition` и `animation`, и в чем их отличия?](https://youtu.be/1kzbNflP_YA?t=526)
 - [Разница между Flexbox и CSS Grid?](https://youtu.be/V39eEU9Pwv0?t=95)
 - [Как можно реализовать адаптивный дизайн без медиа-запросов?](https://youtu.be/V39eEU9Pwv0?t=161)
+- [Разница между mobile-first и desktop-first подходами?](https://youtu.be/Uc378Fmc5vw?t=126)
+- [Что такое CSS containment? Как использовать свойство `contain`?](https://youtu.be/Uc378Fmc5vw?t=198)
+- [Объясните концепцию CSS cascade layers (`@layer`)?](https://youtu.be/Uc378Fmc5vw?t=284)
+- [Что такое CSS container queries? Как они работают?](https://youtu.be/Uc378Fmc5vw?t=383)
