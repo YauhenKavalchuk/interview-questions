@@ -32,3 +32,5 @@
 - [Разница между типами `void`, `never` и `unknown`?](https://youtu.be/__neFkxAO9s?t=883)
 - [Как вы отлавливаете ошибки в TypeScript коде?](https://youtu.be/DQ0BLu6rZYc?t=802)
 - [Разница между `any` и `unknown` в TypeScript?](https://youtu.be/F2DHz6_y8LY?t=662)
+- [Что такое утилитарные типы в TypeScript (Utility Types)?](https://youtu.be/Uc378Fmc5vw?t=471)
+- [Что такое сужение типов (Type narrowing)?](https://youtu.be/Uc378Fmc5vw?t=537)
