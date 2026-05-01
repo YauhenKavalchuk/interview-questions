@@ -4,7 +4,7 @@
 </h3>
 
 - [Что такое прогрессивный рендеринг?](https://youtu.be/IooJ3P2VUYs?t=26)
-- [Что такое прогрессивный SSR?](https://youtu.be/trriSYNrHw4?t=25)
+- [Что такое серверный SSR?](https://youtu.be/trriSYNrHw4?t=25)
 - [SSR (Server-Side Rendering) и CSR (Client-Side Rendering) плюсы и минусы?](https://youtu.be/3bC0orWHc5g?t=579)
 - [Что такое Progressive Web Application (PWA)?](https://youtu.be/XtQPrt8G0n8?t=76)
 - [Что такое кроссбраузерность?](https://youtu.be/kx3dR6ztICU?t=90)
@@ -52,3 +52,8 @@
 - [Что такое "Server-less" архитектура?](https://youtu.be/NxPUaFAIyL0?t=222)
 - [Что такое "Declarative UI"? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
 - [Что такое "Server push"? Как он улучшает производительность страниц?](https://youtu.be/NxPUaFAIyL0?t=353)
+- [Что такое Shadow DOM? Как он связан с веб-компонентами (Web Components)?](https://youtu.be/Uc378Fmc5vw?t=601)
+- [Что такое CSR?](https://youtu.be/Uc378Fmc5vw?t=697)
+- [Что такое SSR?](https://youtu.be/Uc378Fmc5vw?t=811)
+- [Что такое SSG?](https://youtu.be/Uc378Fmc5vw?t=931)
+- [Что такое ISR?](https://youtu.be/Uc378Fmc5vw?t=1043)
