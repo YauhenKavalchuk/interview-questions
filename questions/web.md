@@ -41,7 +41,6 @@
 - [Что такое Web Workers?](https://youtu.be/V-m0sQ-hW58?t=811)
 - [Что такое Web Worklet?](https://youtu.be/__neFkxAO9s?t=521)
 - [Что такое CSR?](https://youtu.be/Uc378Fmc5vw?t=697)
-- [Что такое серверный SSR?](https://youtu.be/trriSYNrHw4?t=25)
 - [Что такое SSR?](https://youtu.be/Uc378Fmc5vw?t=811)
 - [SSR (Server-Side Rendering) и CSR (Client-Side Rendering) плюсы и минусы?](https://youtu.be/3bC0orWHc5g?t=579)
 - [Что такое SSG?](https://youtu.be/Uc378Fmc5vw?t=931)
