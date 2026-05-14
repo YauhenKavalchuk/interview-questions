@@ -54,3 +54,4 @@
 - [Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?](https://youtu.be/1eIRTdgzHtw?t=233)
 - [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)
 - [Особенности разработки мультиязычных сайтов?](https://youtu.be/yvOXvZ8aEFo?t=82)
+- [Разница между `JSON` и `XML`?](https://youtu.be/XtQPrt8G0n8?t=28)
