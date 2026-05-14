@@ -22,8 +22,6 @@
 - [Для чего в TypeScript используется `NoImplicitAny`?](https://youtu.be/54C3u9aCtoU?t=123)
 - [Какие элементы ООП поддерживаются в TypeScript?](https://youtu.be/TOn-1RrowKE?t=688)
 - [Модификаторы доступа в TypeScript?](https://youtu.be/TOn-1RrowKE?t=749)
-- [Что такое декораторы?](https://youtu.be/TOn-1RrowKE?t=31)
-- [Что такое декораторы в TypeScript?](https://youtu.be/VYQl2GhbCUs?t=29)
 - [Что такое декораторы в TypeScript?](https://youtu.be/3kvKFfPteFg?t=872)
 - [Поддерживает ли TypeScript перегрузку функций?](https://youtu.be/TOn-1RrowKE?t=77)
 - [Как TypeScript поддерживает необязательные и дефолтные параметры в функции?](https://youtu.be/VYQl2GhbCUs?t=102)
