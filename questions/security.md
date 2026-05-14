@@ -12,6 +12,7 @@
 - [Виды аутентификации?](https://youtu.be/-mWa7erZu64?t=770)
 - [Что такое "распределенная система аутентификации"?](https://youtu.be/RKFu0MC1aUs?t=793)
 - [Что такое токены JWT? Как их можно использовать для аутентификации пользователей?](https://youtu.be/3bC0orWHc5g?t=771)
+- [Что такое same-origin policy в контексте JavaScript?](https://youtu.be/IooJ3P2VUYs?t=612)
 - [Что такое безопасные (Secure) и `HttpOnly` cookies?](https://youtu.be/ovV8GhIkzBE?t=158)
 - [Какие меры безопасности следует принять при работе с cookie на стороне клиента?](https://youtu.be/RKFu0MC1aUs?t=799)
 - [Лучшие практики при работе с веб-хранилищем?](https://youtu.be/Tx5ABBxYs-Y?t=632)
