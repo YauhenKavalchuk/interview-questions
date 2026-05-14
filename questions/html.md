@@ -73,3 +73,5 @@
 - [Что такое атрибут `target`? Какие значения он принимает?](https://youtu.be/ovV8GhIkzBE?t=30)
 - [Что такое ApplicationCache в HTML5?](https://youtu.be/ovV8GhIkzBE?t=92)
 - [Способы улучшения производительности веб-страницы при использовании HTML?](https://youtu.be/ia3VPHMESnY?t=162)
+- [Что такое поток документа?](https://youtu.be/trriSYNrHw4?t=102)
+- [Что такое Shadow DOM? Как он связан с веб-компонентами (Web Components)?](https://youtu.be/Uc378Fmc5vw?t=601)
