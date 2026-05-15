@@ -58,7 +58,7 @@
 - [Разница между `Object.freeze()` и `Object.seal()`?](https://youtu.be/xZLxdts7ZW4?t=374)
 - [Для чего используется метод `Object.seal()`?](https://youtu.be/nbWY5W-9OEo?t=354)
 - [Разница между глубокой (deep) и поверхностной (shallow) копиями объекта? Как сделать каждую из них?](https://youtu.be/nvktMVFM0_M?t=125)
-- [Почему результат сравнения 2х объектов это `false`?](https://youtu.be/IooJ3P2VUYs?t=100)
+- [Почему результат сравнения двух объектов это `false`?](https://youtu.be/IooJ3P2VUYs?t=100)
 - [Разница между host-объектами и нативными объектами?](https://youtu.be/kx3dR6ztICU?t=484)
 - [Плюсы и минусы иммутабельности? Как достичь иммутабельности в JS?](https://youtu.be/ngyOYuTrUk8?t=445)
 - [Зачем нужен конструктор `Proxy`?](https://youtu.be/zcF-CVtXSBI?t=690)
