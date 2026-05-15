@@ -13,7 +13,6 @@
 - [Что такое технический долг?](https://youtu.be/nTE4qvSvxXY?t=440)
 - [Что такое код ревью? Почему оно важно?](https://youtu.be/nTE4qvSvxXY?t=217)
 - [Какие подходы к оформлению кода и документированию вы считаете лучшими для JavaScript проектов?](https://youtu.be/NxPUaFAIyL0?t=751)
-- [Какие паттерны разработки вы бы рекомендовали для улучшения масштабируемости веб-приложений?](https://youtu.be/NxPUaFAIyL0?t=645)
 - [Что такое CI/CD?](https://youtu.be/nTE4qvSvxXY?t=307)
 - [Плюсы CI/CD?](https://youtu.be/nTE4qvSvxXY?t=376)
 - [Опишите суть методологии GitFlow?](https://youtu.be/hJDqYohmzL8?t=811)
