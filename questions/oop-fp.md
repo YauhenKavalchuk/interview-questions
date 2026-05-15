@@ -36,5 +36,4 @@
 - [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
 - [Что такое паттерн "обратный плагин" (Reverse-Plugin Pattern)? Когда его стоит использовать?](https://youtu.be/3bC0orWHc5g?t=510)
 - [Разница между функцией и методом?](https://youtu.be/ovV8GhIkzBE?t=645)
-- [Однонаправленный поток данных и двусторонняя связь данных? В чем между ними разница?](https://youtu.be/rWEsjNWBoIE?t=845)
 - [Что такое "Declarative UI"? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
