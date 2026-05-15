@@ -38,3 +38,4 @@
 - [Для чего используется метод `.scrollIntoView()`?](https://youtu.be/lZNWrW39ELM?t=682)
 - [Разница между методами `.submit()` и `.requestSubmit()`?](https://youtu.be/3kvKFfPteFg?t=90)
 - [Разница между feature detection, feature inference и анализом строки user-agent?](https://youtu.be/G4iYlbilozM?t=568)
+- [Что такое Shadow DOM? Как он связан с веб-компонентами (Web Components)?](https://youtu.be/Uc378Fmc5vw?t=601)
