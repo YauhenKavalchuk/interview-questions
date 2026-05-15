@@ -33,7 +33,7 @@
 - [Расскажите о свойстве `flex` в контексте Flexbox?](https://youtu.be/3bC0orWHc5g?t=95)
 - [Особенности, или плюсы Flexbox?](https://youtu.be/Tx5ABBxYs-Y?t=96)
 - [Разница между Flexbox и CSS Grid?](https://youtu.be/V39eEU9Pwv0?t=95)
-- [Какое CSS-свойство используется для изменения порядка отображения элементов на веб-странице без изменения их физического расположения в HTML-коде?](https://youtu.be/ia3VPHMESnY?t=442)
+- [Какое CSS-свойство используется для изменения порядка отображения элементов без изменения их физического расположения в HTML-коде?](https://youtu.be/ia3VPHMESnY?t=442)
 - [Что такое CSS containment? Как использовать свойство `contain`?](https://youtu.be/Uc378Fmc5vw?t=198)
 - [Объясните концепцию CSS cascade layers (`@layer`)?](https://youtu.be/Uc378Fmc5vw?t=284)
 - [Что такое "контейнерные запросы" (container queries)? Как они отличаются от медиазапросов (media queries)?](https://youtu.be/ia3VPHMESnY?t=678)
