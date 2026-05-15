@@ -21,6 +21,6 @@
 - [Как выполнить несколько асинхронных операций последовательно?](https://youtu.be/t0sdlbA6yA8?t=599)
 - [Какие проблемы может вызвать неправильное использование асинхронности в JavaScript?](https://youtu.be/t0sdlbA6yA8?t=657)
 - [Что такое AJAX?](https://youtu.be/IooJ3P2VUYs?t=547)
-- [Плюсы и минусы использовании Ajax?](https://youtu.be/yvOXvZ8aEFo?t=352)
+- [Плюсы и минусы использования AJAX?](https://youtu.be/yvOXvZ8aEFo?t=352)
 - [Что такое `fetch()`? Как работает функция `fetch()`?](https://youtu.be/PI1X5oFHou8?t=713)
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/PI1X5oFHou8?t=786)
