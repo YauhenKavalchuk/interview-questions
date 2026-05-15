@@ -27,7 +27,7 @@
 - [Что такое директивы в Angular?](https://youtu.be/54C3u9aCtoU?t=463)
 - [Для чего нужны директивы `<ng-template>`, `<ng-container>`, `<ng-content>`?](https://youtu.be/54C3u9aCtoU?t=532)
 - [Для чего используется связка `ngFor` и `trackBy`?](https://youtu.be/DgevxmyzymQ?t=832)
-- [Что такое пайп (`pipe`) в Angular? Разница между чистыми и нечистыми пайпами?](https://youtu.be/i96lHslBOIc?t=778)
+- [Что такое пайп (pipe) в Angular? Разница между чистыми и нечистыми пайпами?](https://youtu.be/i96lHslBOIc?t=778)
 - [Что такое Change Detection, как работает механизм Change Detection?](https://youtu.be/3kvKFfPteFg?t=674)
 - [Cтратегии обнаружения изменений в Angular?](https://youtu.be/3kvKFfPteFg?t=816)
 - [Принцип работы `ChangeDetectionStrategy.onPush`?](https://youtu.be/i96lHslBOIc?t=718)
