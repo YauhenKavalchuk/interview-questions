@@ -29,7 +29,7 @@
 - [Для чего используется связка `ngFor` и `trackBy`?](https://youtu.be/DgevxmyzymQ?t=832)
 - [Что такое пайп (pipe) в Angular? Разница между чистыми и нечистыми пайпами?](https://youtu.be/i96lHslBOIc?t=778)
 - [Что такое Change Detection, как работает механизм Change Detection?](https://youtu.be/3kvKFfPteFg?t=674)
-- [Cтратегии обнаружения изменений в Angular?](https://youtu.be/3kvKFfPteFg?t=816)
+- [Стратегии обнаружения изменений в Angular?](https://youtu.be/3kvKFfPteFg?t=816)
 - [Принцип работы `ChangeDetectionStrategy.onPush`?](https://youtu.be/i96lHslBOIc?t=718)
 - [Что такое `ngZone`?](https://youtu.be/3kvKFfPteFg?t=747)
 - [Приведите хороший пример использования `NgZone` сервиса?](https://youtu.be/nbWY5W-9OEo?t=410)
