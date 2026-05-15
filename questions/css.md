@@ -5,7 +5,7 @@
 
 - [Что такое CSS? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=251)
 - [Что такое CSS-правило?](https://youtu.be/CjdCxxqObaM?t=228)
-- [Варианты добавление CSS стилей на страницу?](https://youtu.be/ycYp7CYOnO0?t=277)
+- [Варианты добавления CSS стилей на страницу?](https://youtu.be/ycYp7CYOnO0?t=277)
 - [Как работают каскадность и наследование в CSS?](https://youtu.be/1kzbNflP_YA?t=432)
 - [Глобальные ключевые слова в CSS?](https://youtu.be/VYQl2GhbCUs?t=224)
 - [Что такое селектор? И какие селекторы существуют?](https://youtu.be/G7hLwudGWL4?t=282)
