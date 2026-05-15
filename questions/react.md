@@ -64,7 +64,7 @@
 - [Какие хуки были добавлены в React Router версии 5?](https://youtu.be/GZUy2i6QN7o?t=765)
 - [Как передавать пропсы в React Router?](https://youtu.be/GZUy2i6QN7o?t=841)
 - [Что такое "Hydration" в контексте серверного рендеринга React-приложений?](https://youtu.be/NxPUaFAIyL0?t=567)
-- [Техники оптимизации перфоманса React?](https://youtu.be/__neFkxAO9s?t=606)
+- [Техники оптимизации перформанса React?](https://youtu.be/__neFkxAO9s?t=606)
 - [Лучшие практики безопасности в React?](https://youtu.be/__neFkxAO9s?t=694)
 - [Для чего предназначен метод `registerServiceWorker()` в React?](https://youtu.be/GZUy2i6QN7o?t=665)
 - [Что такое `ReactDOMServer`?](https://youtu.be/81yRgVQ1ciM?t=763)
