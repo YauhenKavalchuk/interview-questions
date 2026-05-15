@@ -37,5 +37,4 @@
 - [Для чего используется свойство `.dataset`?](https://youtu.be/3NGkctg4lsE?t=680)
 - [Для чего используется метод `.scrollIntoView()`?](https://youtu.be/lZNWrW39ELM?t=682)
 - [Разница между методами `.submit()` и `.requestSubmit()`?](https://youtu.be/3kvKFfPteFg?t=90)
-- [Что такое `IndexedDB`? Как работает `IndexedDB`?](https://youtu.be/PI1X5oFHou8?t=339)
 - [Разница между feature detection, feature inference и анализом строки user-agent?](https://youtu.be/G4iYlbilozM?t=568)
