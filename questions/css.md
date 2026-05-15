@@ -36,7 +36,7 @@
 - [Какое CSS-свойство используется для изменения порядка отображения элементов без изменения их физического расположения в HTML-коде?](https://youtu.be/ia3VPHMESnY?t=442)
 - [Что такое CSS containment? Как использовать свойство `contain`?](https://youtu.be/Uc378Fmc5vw?t=198)
 - [Объясните концепцию CSS cascade layers (`@layer`)?](https://youtu.be/Uc378Fmc5vw?t=284)
-- [Что такое контейнерные запросы (container queries)? Как они отличаются от медиазапросов (media queries)?](https://youtu.be/ia3VPHMESnY?t=678)
+- [Что такое контейнерные запросы (container queries)? Как они отличаются от медиа запросов (media queries)?](https://youtu.be/ia3VPHMESnY?t=678)
 - [Что такое CSS container queries? Как они работают?](https://youtu.be/Uc378Fmc5vw?t=383)
 - [Разница между mobile-first и desktop-first подходами?](https://youtu.be/Uc378Fmc5vw?t=126)
 - [Как можно реализовать адаптивный дизайн без медиа-запросов?](https://youtu.be/V39eEU9Pwv0?t=161)
