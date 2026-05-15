@@ -48,7 +48,7 @@
 - [Для чего используется атрибут `decoding`?](https://youtu.be/J6CgOSKFOlw?t=150)
 - [Что такое элемент `<output>` в HTML5?](https://youtu.be/rWEsjNWBoIE?t=669)
 - [Что такое свойство `valueAsNumber`?](https://youtu.be/rWEsjNWBoIE?t=717)
-- [Для чего используется `data-`атрибуты?](https://youtu.be/rlWgI7AvV18?t=34)
+- [Для чего используются `data-`атрибуты?](https://youtu.be/rlWgI7AvV18?t=34)
 - [Для чего используется атрибут `alt` и зачем он нужен?](https://youtu.be/G7hLwudGWL4?t=230)
 - [Для чего используется элемент `<picture>`?](https://youtu.be/70VnuTXi4Wk?t=189)
 - [Что такое `srcset`? Как работает `srcset`?](https://youtu.be/70VnuTXi4Wk?t=254)
