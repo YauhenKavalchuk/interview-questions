@@ -17,6 +17,7 @@
 
 ### Темы вопросов:
 - [Web Technologies (общие вопросы по веб-разработке)](./questions/web.md)
+- [Architecture (вопросы по архитектуре веб-приложений)](./questions/architecture.md)
 - [Security (вопросы по веб-безопасности)](./questions/security.md)
 - [OOP & FP (вопросы из объектно-ориентированного и функционального программирования)](./questions/oop-fp.md)   
 - [HTML (вопросы по языку гипертекстовой разметки)](./questions/html.md)
