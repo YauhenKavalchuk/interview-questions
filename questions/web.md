@@ -48,7 +48,6 @@
 - [Что такое прогрессивный рендеринг?](https://youtu.be/IooJ3P2VUYs?t=26)
 - [Что такое Progressive Web Application (PWA)?](https://youtu.be/XtQPrt8G0n8?t=76)
 - [Что такое Веб-компоненты и какие технологии в них используются?](https://youtu.be/G4iYlbilozM?t=704)
-- [Что такое "Server-less" архитектура?](https://youtu.be/NxPUaFAIyL0?t=222)
 - [Почему очищать кэш важно? Как это можно сделать?](https://youtu.be/N1wPX5Z4HKE?t=30)
 - [Что такое кроссбраузерность?](https://youtu.be/kx3dR6ztICU?t=90)
 - [Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?](https://youtu.be/1eIRTdgzHtw?t=233)
