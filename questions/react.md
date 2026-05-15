@@ -17,7 +17,7 @@
 - [Стадии жизненного цикла компонента в React?](https://youtu.be/RpcB5jnJvcI?t=173)
 - [Разница между состоянием (`state`) и пропсами (`props`)?](https://youtu.be/RpcB5jnJvcI?t=621)
 - [Что такое «бурение пропсов» (Prop Drilling)? Как его избежать?](https://youtu.be/81yRgVQ1ciM?t=532)
-- [Как React обрабатывает, или ограничивает использование пропсов определенного типа?](https://youtu.be/81yRgVQ1ciM?t=413)
+- [Как React обрабатывает или ограничивает использование пропсов определенного типа?](https://youtu.be/81yRgVQ1ciM?t=413)
 - [Как работает пропс `children` в React?](https://youtu.be/3bC0orWHc5g?t=160)
 - [Что такое поднятие состояния вверх (Lifting State Up)?](https://youtu.be/ngyOYuTrUk8?t=700)
 - [Что такое обратный поток данных в React?](https://youtu.be/3bC0orWHc5g?t=211)
