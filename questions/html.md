@@ -30,7 +30,7 @@
 - [Расскажите о meta-теге с `name="viewport"`?](https://youtu.be/rWEsjNWBoIE?t=36)
 - [Что такое инлайновый стиль? Можно ли его переопределить?](https://youtu.be/G7hLwudGWL4?t=155)
 - [Есть ли у HTML элементов свои дефолтные специфичные стили?](https://youtu.be/G7hLwudGWL4?t=181)
-- [Какой тэг использовать для того, что бы сверстать кнопку?](https://youtu.be/G7hLwudGWL4?t=96)
+- [Какой тэг использовать для того, чтобы сверстать кнопку?](https://youtu.be/G7hLwudGWL4?t=96)
 - [Разница между кнопкой и ссылкой в HTML?](https://youtu.be/J6CgOSKFOlw?t=30)
 - [Типы `<input>` элементов в HTML?](https://youtu.be/CjdCxxqObaM?t=87)
 - [Для чего используется тэг `<label>`?](https://youtu.be/3NGkctg4lsE?t=338)
