@@ -15,4 +15,4 @@
 - [Какие паттерны разработки вы бы рекомендовали для улучшения масштабируемости веб-приложений?](https://youtu.be/NxPUaFAIyL0?t=645)
 - [Что такое Inversion of control?](https://youtu.be/hJDqYohmzL8?t=463)
 - [Что такое Dependency injection?](https://youtu.be/hJDqYohmzL8?t=540)
-- [Что такое "eclarative UI? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
+- [Что такое Declarative UI? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
