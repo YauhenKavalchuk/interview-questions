@@ -10,7 +10,7 @@
 - [Что такое цикл событий (event loop)?](https://youtu.be/b-jHHEBj7KM?t=307)
 - [Разница между асинхронной и неблокирующей функциями?](https://youtu.be/b-jHHEBj7KM?t=375)
 - [Преимущества однопоточного веб-сервера по сравнению с многопоточным?](https://youtu.be/b-jHHEBj7KM?t=435)
-- [Почему использование блокирующих, или синхронных операций является плохой практикой в Node.js?](https://youtu.be/R76_xPjzUd8?t=390)
+- [Почему использование блокирующих или синхронных операций является плохой практикой в Node.js?](https://youtu.be/R76_xPjzUd8?t=390)
 - [Что такое Continuation-passing Style (CPS)?](https://youtu.be/b-jHHEBj7KM?t=707)
 - [Как избежать Callback Hell?](https://youtu.be/b-jHHEBj7KM?t=746)
 - [Что такое поток (stream)? Типы потоков в Node.js?](https://youtu.be/b-jHHEBj7KM?t=516)
