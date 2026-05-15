@@ -44,7 +44,7 @@
 - [Что такое роутинг и как его создать в Angular?](https://youtu.be/OMQzqLyINnI?t=364)
 - [Жизненный цикл в Angular Router?](https://youtu.be/OMQzqLyINnI?t=469)
 - [Разница между `RouterModule.forRoot()` и `RouterModule.forChild()`?](https://youtu.be/OMQzqLyINnI?t=593)
-- [Как защитит компонент активируемый через роутер?](https://youtu.be/N1wPX5Z4HKE?t=375)
+- [Как защитить компонент активируемый через роутер?](https://youtu.be/N1wPX5Z4HKE?t=375)
 - [Когда нужно использовать стандартные (template driven), а когда реактивные (reactive) формы?](https://youtu.be/jti2FWFqtmk?t=754)
 - [Разница между `NgForm`, `FormGroup`, и `FormControl`?](https://youtu.be/nbWY5W-9OEo?t=651)
 - [Как сделать компонент для показа сообщений об ошибках?](https://youtu.be/nbWY5W-9OEo?t=488)
