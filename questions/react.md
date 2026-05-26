@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/React.png" width="16" height="16" />
-  <span>React:</span>
-</h3>
+### ⚛️ React:
 
 - [Что такое React?](https://youtu.be/7TvS0iKR3_c?t=638)
 - [Перечислите особенности React?](https://youtu.be/7TvS0iKR3_c?t=671)
