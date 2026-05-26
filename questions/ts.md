@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/TypeScript.png" width="16" height="16" />
-  <span>TypeScript:</span>
-</h3>
+### 🔷 TypeScript:
 
 - [Что такое TypeScript?](https://youtu.be/R76_xPjzUd8?t=669)
 - [Основные компоненты TypeScript?](https://youtu.be/R76_xPjzUd8?t=730)
