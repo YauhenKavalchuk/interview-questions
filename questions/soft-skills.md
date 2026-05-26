@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Soft-skills.png" width="16" height="16" />
-  <span>Soft skills:</span>
-</h3>
+### 🤝 Soft skills:
 
 - [Что такое SDLC?](https://youtu.be/nTE4qvSvxXY?t=49)
 - [Что такое Agile?](https://youtu.be/nTE4qvSvxXY?t=135)
