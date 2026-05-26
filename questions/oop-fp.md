@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/WWW.png" width="16" height="16" />
-  <span>OOP & FP:</span>
-</h3>
+###🧩 OOP & FP:
 
 - [Основные принципы ООП?](https://youtu.be/w-vUj0gHGgg?t=538)
 - [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
