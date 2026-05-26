@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Architecture.png" width="16" height="16" />
-  <span>Architecture:</span>
-</h3>
+### 🏛️ Architecture:
 
 - [Что такое MVC?](https://youtu.be/xZLxdts7ZW4?t=181)
 - [Что такое MVVM?](https://youtu.be/ovV8GhIkzBE?t=489)
