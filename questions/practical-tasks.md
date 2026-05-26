@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Dev.png" width="16" height="16" />
-  <span>Практические задачи:</span>
-</h3>
+### 💡 Практические задачи:
 
 - [Функция проверки палиндрома?](https://youtu.be/ycYp7CYOnO0?t=683)
 - [Функция поиска самого короткого слова?](https://youtu.be/G7hLwudGWL4?t=764)
