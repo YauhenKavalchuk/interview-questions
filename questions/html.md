@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/HTML.png" width="16" height="16" />
-  <span>HTML:</span>
-</h3>
+### 📄 HTML:
 
 - [Что такое HTML и для чего он используется?](https://youtu.be/CjdCxxqObaM?t=39)
 - [Что такое HTML-элемент? Какова его структура?](https://youtu.be/ia3VPHMESnY?t=34)
