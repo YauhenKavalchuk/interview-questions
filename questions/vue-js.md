@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Vue.png" width="16" height="16" />
-  <span>Vue.js:</span>
-</h3>
+### 💚 Vue.js:
 
 - [Что такое Vue.js?](https://youtu.be/ad34hPJ273k?t=34)
 - [Перечислите особенности Vue.js?](https://youtu.be/ad34hPJ273k?t=78)
