@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/JSDom.png" width="16" height="16" />
-  <span>JS in Browser:</span>
-</h3>
+### 🖥️ JS in Browser:
 
 - [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
 - [Типы узлов DOM-дерева?](https://youtu.be/7TvS0iKR3_c?t=201)
