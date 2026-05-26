@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Security.png" width="16" height="16" />
-  <span>Security:</span>
-</h3>
+### 🔒 Security:
 
 - [Какие основные угрозы безопасности могут возникать на веб-страницах?](https://youtu.be/RKFu0MC1aUs?t=38)
 - [Что такое OWASP Top 10?](https://youtu.be/DZjIcc6KdjE?t=419)
