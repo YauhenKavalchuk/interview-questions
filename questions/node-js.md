@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Node.png" width="16" height="16" />
-  <span>Node.js:</span>
-</h3>
+### 🟢 Node.js:
 
 - [Что такое Node.js?](https://youtu.be/ad34hPJ273k?t=697)
 - [Разница между Node.js и JavaScript?](https://youtu.be/ad34hPJ273k?t=746)
