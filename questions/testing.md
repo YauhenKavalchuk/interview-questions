@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Testing_Library.png" width="16" height="16" />
-  <span>Testing:</span>
-</h3>
+### 🧪 Testing:
 
 - [Какие бывают виды тестирования?](https://youtu.be/i96lHslBOIc?t=47)
 - [Что такое White/Black/Grey Box-тестирование?](https://youtu.be/__neFkxAO9s?t=30)
