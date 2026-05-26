@@ -1,4 +1,4 @@
-###🧩 OOP & FP:
+### 🧩 OOP & FP:
 
 - [Основные принципы ООП?](https://youtu.be/w-vUj0gHGgg?t=538)
 - [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
