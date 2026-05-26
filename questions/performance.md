@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/performance.png" width="16" height="16" />
-  <span>Performance:</span>
-</h3>
+### 🚀 Performance:
 
 - [Почему хорошей практикой считается располагать `<link>` для подключения CSS стилей внутри тэга `<head>`, а `<script>` для подключения JS ставить перед закрывающимся тэгом `</body>`?](https://youtu.be/7TvS0iKR3_c?t=30)
 - [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
