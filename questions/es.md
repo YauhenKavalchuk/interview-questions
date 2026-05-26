@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/ES6.jpg" width="16" height="16" />
-  <span>ECMAScript:</span>
-</h3>
+### 📜 ECMAScript:
 
 - [Что такое ECMAScript? В чём отличие от JavaScript?](https://youtu.be/IooJ3P2VUYs?t=336)
 - [Разница между `let`, `const` и `var`?](https://youtu.be/1eIRTdgzHtw?t=361)
