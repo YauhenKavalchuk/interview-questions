@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/Tools.png" width="16" height="16" />
-  <span>Tools:</span>
-</h3>
+### 🛠️ Tools:
 
 - [Как работает Webpack? Какие основные концепции в нем существуют?](https://youtu.be/t0sdlbA6yA8?t=761)
 - [Какие основные задачи выполняет Webpack при сборке проекта?](https://youtu.be/Sw4BlFLj2dg?t=641)
