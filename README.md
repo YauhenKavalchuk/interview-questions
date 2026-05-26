@@ -23,7 +23,7 @@
 - 🌐 [Web Technologies](./questions/web.md) - протоколы, API, хранилище, рендеринг, PWA и общие концепции веба
 - 🏛️ [Architecture](./questions/architecture.md) - MVC, MVVM, микросервисы, DDD, паттерны масштабирования
 - 🔒 [Security](./questions/security.md) - XSS, CSRF, CSP, JWT, CORS и другие угрозы и защиты
-- 🖥️ [Browser Rendering](./questions/browser-rendering.md) - CRP, reflow и repaint, compositing, requestAnimationFrame, координаты и работа браузера
+- 🖥️ [Browser Rendering](./questions/browser-rendering.md) - CRP, reflow и repaint, compositing, requestAnimationFrame и работа браузера
 - 🧩 [OOP & FP](./questions/oop-fp.md) - ООП, SOLID, функциональное и реактивное программирование, паттерны
 - 📄 [HTML](./questions/html.md) - семантика, формы, атрибуты, мета-теги, Canvas, SVG и многое другое
 - 🎨 [CSS](./questions/css.md) - селекторы, Flexbox, Grid, анимации, препроцессоры и методологии
