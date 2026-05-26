@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/CSS.png" width="16" height="16" />
-  <span>CSS:</span>
-</h3>
+### 🎨 CSS:
 
 - [Что такое CSS? И для чего он используется?](https://youtu.be/ycYp7CYOnO0?t=251)
 - [Что такое CSS-правило?](https://youtu.be/CjdCxxqObaM?t=228)
