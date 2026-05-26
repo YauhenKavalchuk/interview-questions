@@ -1,7 +1,4 @@
-<h3>
-  <img src="../assets/JavaScript.png" width="16" height="16" />
-  <span>Async JS:</span>
-</h3>
+### ⚡ Async JS:
 
 - [Разница между синхронными и асинхронными функциями?](https://youtu.be/kx3dR6ztICU?t=681)
 - [Подходы при работе с асинхронным кодом?](https://youtu.be/yvOXvZ8aEFo?t=410)
