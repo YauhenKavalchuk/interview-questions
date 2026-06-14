@@ -67,3 +67,6 @@
 - [Что такое `ReactDOMServer`?](https://youtu.be/81yRgVQ1ciM?t=763)
 - [Разница между `React` и `ReactDOM`?](https://youtu.be/81yRgVQ1ciM?t=305)
 - [Что такое Reselect и как он работает?](https://youtu.be/XtQPrt8G0n8?t=847)
+- [Как изменилась мемоизация в React 19?](https://youtu.be/Ezrd2uOq-44?t=674)
+- [Как создать и использовать кастомные хуки (custom hooks)?](https://youtu.be/Ezrd2uOq-44?t=742)
+- [Что значит "статичность массива" в контексте ключей React?](https://youtu.be/Ezrd2uOq-44?t=814)
