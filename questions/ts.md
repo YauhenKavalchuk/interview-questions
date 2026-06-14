@@ -30,3 +30,6 @@
 - [Что такое `.map` файл, как и зачем его использовать?](https://youtu.be/OMQzqLyINnI?t=146)
 - [Что такое JSX в TypeScript? Какие режимы JSX поддерживает TypeScript?](https://youtu.be/TOn-1RrowKE?t=212)
 - [Как вы отлавливаете ошибки в TypeScript коде?](https://youtu.be/DQ0BLu6rZYc?t=802)
+- [Как работает TypeScript в браузере?](https://youtu.be/Ezrd2uOq-44?t=453)
+- [Как работает type guards в TypeScript?](https://youtu.be/Ezrd2uOq-44?t=521)
+- [Для чего нужны `d.ts` файлы?](https://youtu.be/Ezrd2uOq-44?t=601)
