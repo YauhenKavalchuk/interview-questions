@@ -13,6 +13,8 @@
 - [Что такое "трехстороннее рукопожатие" (Triple handshake)?](https://youtu.be/__neFkxAO9s?t=409)
 - [Разница между протоколами `TCP` и `UDP`?](https://youtu.be/trriSYNrHw4?t=234)
 - [Что такое OSI модель?](https://youtu.be/-mWa7erZu64?t=461)
+- [На каком уровне модели OSI находится HTTP?](https://youtu.be/Ezrd2uOq-44?t=27)
+- [Какие этапы происходят после ввода URL в браузере?](https://youtu.be/Ezrd2uOq-44?t=99)
 - [Что такое IP-адрес?](https://youtu.be/70VnuTXi4Wk?t=720)
 - [Разница между host и domain?](https://youtu.be/70VnuTXi4Wk?t=779)
 - [Разница между URI и URL?](https://youtu.be/70VnuTXi4Wk?t=844)
@@ -50,3 +52,4 @@
 - [Разница между адаптивным (adaptive) и отзывчивым (responsive) дизайнами?](https://youtu.be/1eIRTdgzHtw?t=233)
 - [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)
 - [Особенности разработки мультиязычных сайтов?](https://youtu.be/yvOXvZ8aEFo?t=82)
+- [SEO - для чего нужно, как достигается?](https://youtu.be/Ezrd2uOq-44?t=208)
