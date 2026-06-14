@@ -88,3 +88,5 @@
 - [Почему глобальные переменные в JavaScript считаются "антипаттерном"?](https://youtu.be/1kzbNflP_YA?t=670)
 - [Типы всплывающих окон в JavaScript?](https://youtu.be/ngyOYuTrUk8?t=515)
 - [Как сгенерировать случайное число в JavaScript?](https://youtu.be/VYQl2GhbCUs?t=801)
+- [Можно ли в JavaScript создать собственный тип ошибки (custom error type)?](https://youtu.be/Ezrd2uOq-44?t=302)
+- [Что такое функция-конструктор?](https://youtu.be/Ezrd2uOq-44?t=363)
