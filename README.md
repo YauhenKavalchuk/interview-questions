@@ -25,10 +25,10 @@
 - 🔒 [Security](./questions/security.md) - XSS, CSRF, CSP, JWT, CORS и другие угрозы и защиты
 - 🖥️ [Browser Rendering](./questions/browser-rendering.md) - CRP, reflow и repaint, compositing, requestAnimationFrame и работа браузера
 - 🧩 [OOP & FP](./questions/oop-fp.md) - ООП, SOLID, функциональное и реактивное программирование, паттерны
-- 📄 [HTML](./questions/html.md) - семантика, формы, атрибуты, мета-теги, Canvas, SVG и многое другое
+- 📑 [HTML](./questions/html.md) - семантика, формы, атрибуты, мета-теги, Canvas, SVG и многое другое
 - 🎨 [CSS](./questions/css.md) - селекторы, Flexbox, Grid, анимации, препроцессоры и методологии
-- 🟨 [JavaScript](./questions/js.md) - типы данных, прототипы, замыкания, ООП, методы массивов и строк
-- 🖥️ [JS in Browser](./questions/browser-js.md) - DOM, события, BOM, Shadow DOM, Web API и браузерные инструменты
+- ⚙️ [JavaScript](./questions/js.md) - типы данных, прототипы, замыкания, ООП, методы массивов и строк
+- 🧱 [JS in Browser](./questions/browser-js.md) - DOM, события, BOM, Shadow DOM, Web API и браузерные инструменты
 - ⚡ [Async JS](./questions/async-js.md) - Event loop, промисы, async/await, AJAX, fetch и таймеры
 - 📜 [ECMAScript](./questions/es.md) - ES6+, новые возможности стандарта: классы, генераторы, коллекции
 - ♿ [Accessibility](./questions/accessibility.md) - WCAG, ARIA, скринридеры, доступность форм, цвета и мультимедиа
@@ -36,10 +36,10 @@
 - 🔷 [TypeScript](./questions/ts.md) - типы, интерфейсы, generics, декораторы, утилитарные типы
 - ⚛️ [React](./questions/react.md) - хуки, жизненный цикл, Virtual DOM, Fiber, контекст, SSR
 - 💚 [Vue.js](./questions/vue-js.md) - компоненты, директивы, реактивность, Vue Router, Vuex, Composition API
-- 📐 [Angular](./questions/angular.md) - компоненты, DI, RxJS, роутинг, формы, Change Detection
+- 🟥 [Angular](./questions/angular.md) - компоненты, DI, RxJS, роутинг, формы, Change Detection
 - 📦 [State Management](./questions/state-management.md) - Redux, Flux, Vuex, MobX и принципы управления состоянием
 - 🟢 [Node.js](./questions/node-js.md) - Event loop, потоки, модули, кластеры, EventEmitter, npm
-- 🧪 [Testing](./questions/testing.md) - Unit, UI, TDD, BDD, моки, стабы и инструменты тестирования
+- 🪲 [Testing](./questions/testing.md) - Unit, UI, TDD, BDD, моки, стабы и инструменты тестирования
 - 🛠️ [Tools](./questions/tools.md) - Webpack, Babel, Git, ESLint, tree shaking и сборка проектов
 - 🤝 [Soft Skills](./questions/soft-skills.md) - Agile, SDLC, CI/CD, код-ревью, технический долг, GitFlow
 - 💡 [Практические задачи](./questions/practical-tasks.md) - типовые алгоритмические и coding-задачи с разбором решений
