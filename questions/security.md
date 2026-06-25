@@ -26,3 +26,7 @@
 - [Как можно защищаться от DDoS-атак (Distributed Denial of Service)?](https://youtu.be/RKFu0MC1aUs?t=407)
 - [Что такое обфускация кода? Зачем она может быть использована в JavaScript проектах?](https://youtu.be/NxPUaFAIyL0?t=442)
 - [Разница между обфускацией и минификацией кода?](https://youtu.be/NxPUaFAIyL0?t=514)
+- [Какие настройки сервера требуются для CORS?](https://youtu.be/t36qUdDLaH4?t=29)
+- [Как реализуется авторизация на фронтенде?](https://youtu.be/t36qUdDLaH4?t=112)
+- [Как защитить данные в LocalStorage от стороннего JS?](https://youtu.be/t36qUdDLaH4?t=203)
+- [Зачем используется запрос с методом `OPTIONS`?](https://youtu.be/t36qUdDLaH4?t=293)
