@@ -70,3 +70,5 @@
 - [Как изменилась мемоизация в React 19?](https://youtu.be/Ezrd2uOq-44?t=674)
 - [Как создать и использовать кастомные хуки (custom hooks)?](https://youtu.be/Ezrd2uOq-44?t=742)
 - [Что значит "статичность массива" в контексте ключей React?](https://youtu.be/Ezrd2uOq-44?t=814)
+- [Как работает алгоритм Fiber?](https://youtu.be/t36qUdDLaH4?t=634)
+- [Можно ли хранить в ref данные, помимо ссылок на DOM-элементы?](https://youtu.be/t36qUdDLaH4?t=713)
