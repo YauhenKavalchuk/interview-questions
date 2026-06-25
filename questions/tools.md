@@ -10,3 +10,5 @@
 - [Что такое Git CLI?](https://youtu.be/DQ0BLu6rZYc?t=749)
 - [Какие проблемы могут возникнуть при работе с Git?](https://youtu.be/Sw4BlFLj2dg?t=775)
 - [Что такое пулреквест и как его сделать на GitHub?](https://youtu.be/zcF-CVtXSBI?t=746)
+- [Чем `git pull` отличается от `git merge`?](https://youtu.be/t36qUdDLaH4?t=770)
+- [Как объединить несколько последних коммитов в один?](https://youtu.be/t36qUdDLaH4?t=816)
