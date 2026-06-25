@@ -21,3 +21,5 @@
 - [Плюсы и минусы использования AJAX?](https://youtu.be/yvOXvZ8aEFo?t=352)
 - [Что такое `fetch()`? Как работает функция `fetch()`?](https://youtu.be/PI1X5oFHou8?t=713)
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/PI1X5oFHou8?t=786)
+- [Какие есть состояния у промисов?](https://youtu.be/t36qUdDLaH4?t=345)
+- [Что такое `AbortController`? Как его использовать?](https://youtu.be/t36qUdDLaH4?t=395)
