@@ -33,3 +33,5 @@
 - [Как работает TypeScript в браузере?](https://youtu.be/Ezrd2uOq-44?t=453)
 - [Как работает type guards в TypeScript?](https://youtu.be/Ezrd2uOq-44?t=521)
 - [Для чего нужны `d.ts` файлы?](https://youtu.be/Ezrd2uOq-44?t=601)
+- [Для чего нужны миксины в TypeScript?](https://youtu.be/t36qUdDLaH4?t=476)
+- [Где могут быть полезны Conditional Types?](https://youtu.be/t36qUdDLaH4?t=534)
