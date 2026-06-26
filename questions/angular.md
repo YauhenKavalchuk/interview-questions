@@ -1,4 +1,4 @@
-### 📐 Angular:
+### 🟥 Angular:
 
 - [Что такое Angular?](https://youtu.be/lZNWrW39ELM?t=765)
 - [Разница между AngularJS и Angular?](https://youtu.be/lZNWrW39ELM?t=825)
