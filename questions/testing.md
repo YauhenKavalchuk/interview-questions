@@ -1,4 +1,4 @@
-### 🧪 Testing:
+### 🪲 Testing:
 
 - [Какие бывают виды тестирования?](https://youtu.be/i96lHslBOIc?t=47)
 - [Что такое White/Black/Grey Box-тестирование?](https://youtu.be/__neFkxAO9s?t=30)
