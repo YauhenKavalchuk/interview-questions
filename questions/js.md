@@ -1,4 +1,4 @@
-### 🟨 JavaScript:
+### ⚙️ JavaScript:
 
 - [Типы данных в JavaScript?](https://youtu.be/ycYp7CYOnO0?t=471)
 - [Разница между примитивом и объектом?](https://youtu.be/nTE4qvSvxXY?t=791)
