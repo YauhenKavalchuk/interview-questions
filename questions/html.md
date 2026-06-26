@@ -1,4 +1,4 @@
-### 📄 HTML:
+### 📑 HTML:
 
 - [Что такое HTML и для чего он используется?](https://youtu.be/CjdCxxqObaM?t=39)
 - [Что такое HTML-элемент? Какова его структура?](https://youtu.be/ia3VPHMESnY?t=34)
