@@ -1,4 +1,4 @@
-### 🖥️ JS in Browser:
+### 🧱 JS in Browser:
 
 - [Что такое DOM?](https://youtu.be/1eIRTdgzHtw?t=471)
 - [Типы узлов DOM-дерева?](https://youtu.be/7TvS0iKR3_c?t=201)
