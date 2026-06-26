@@ -46,14 +46,22 @@
 
 ---
 
-### 🙌 Поддержать развитие канала
+### Поддержать развитие канала:
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Стать спонсором-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
 
-[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+### Связаться со мной:
+[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | X" src="https://img.shields.io/badge/x-000000.svg?&style=for-the-badge&logo=x&logoColor=white" />][x]
+[<img alt="webDev | Threads" src="https://img.shields.io/badge/threads-ffffff.svg?&style=for-the-badge&logo=threads&logoColor=black" />][threads]
+[<img alt="webDev | Telegram" src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />][telegram]
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
 [linkedin]: https://linkedin.com/in/YauhenKavalchuk
-[vk]: https://vk.com/YauhenKavalchuk
-[twitter]: https://twitter.com/YauhenKavalchuk
+[x]: https://x.com/YauhenKavalchuk
+[threads]: https://www.threads.com/YauhenKavalchuk
+[telegram]: http://t.me/yauhenkavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
 [instruction]: https://github.com/YauhenKavalchuk/youtube/blob/main/instruction.md
