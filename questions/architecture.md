@@ -13,3 +13,6 @@
 - [Что такое Inversion of control?](https://youtu.be/hJDqYohmzL8?t=463)
 - [Что такое Dependency injection?](https://youtu.be/hJDqYohmzL8?t=540)
 - [Что такое Declarative UI? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
+- [Виды архитектур приложений и их основные идеи?](https://youtu.be/9o_PsbrnOyI?t=28)
+- [Всегда ли в сервис-ориентированной архитектуре (SOA) используется шина данных?](https://youtu.be/9o_PsbrnOyI?t=164)
+- [Что такое DDD (Domain-Driven Design)?](https://youtu.be/9o_PsbrnOyI?t=237)
