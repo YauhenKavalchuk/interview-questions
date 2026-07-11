@@ -23,3 +23,6 @@
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/PI1X5oFHou8?t=786)
 - [Какие есть состояния у промисов?](https://youtu.be/t36qUdDLaH4?t=345)
 - [Что такое `AbortController`? Как его использовать?](https://youtu.be/t36qUdDLaH4?t=395)
+- [Разница между параллельным и конкурентным выполнением?](https://youtu.be/9o_PsbrnOyI?t=528)
+- [Что такое асинхронный итератор (`AsyncIterator`)?](https://youtu.be/9o_PsbrnOyI?t=591)
+- [Разница между setTimeout и setInterval с точки зрения Event Loop?](https://youtu.be/9o_PsbrnOyI?t=642)
