@@ -14,3 +14,5 @@
 - [Плюсы CI/CD?](https://youtu.be/nTE4qvSvxXY?t=376)
 - [Опишите суть методологии GitFlow?](https://youtu.be/hJDqYohmzL8?t=811)
 - [Разница между менторингом и коучингом?](https://youtu.be/DZjIcc6KdjE?t=857)
+- [Методологии разработки ПО?](https://youtu.be/9o_PsbrnOyI?t=702)
+- [Как оценивается сложность задач и планируются сроки их выполнения?](https://youtu.be/9o_PsbrnOyI?t=822)
