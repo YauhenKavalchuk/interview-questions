@@ -30,3 +30,6 @@
 - [Как реализуется авторизация на фронтенде?](https://youtu.be/t36qUdDLaH4?t=112)
 - [Как защитить данные в LocalStorage от стороннего JS?](https://youtu.be/t36qUdDLaH4?t=203)
 - [Зачем используется запрос с методом `OPTIONS`?](https://youtu.be/t36qUdDLaH4?t=293)
+- [Что такое Trusted Types?](https://youtu.be/21-v1wNlTT4?t=475)
+- [Способы безопасной передачи конфиденциальных данных через API?](https://youtu.be/21-v1wNlTT4?t=535)
+- [Как работает Same-Site атрибут у cookies?](https://youtu.be/21-v1wNlTT4?t=667)
