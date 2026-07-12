@@ -38,3 +38,5 @@
 - [Как в JavaScript удалять пробельные символы в начале и в конце строки?](https://youtu.be/OA63L1eQ6pA?t=508)
 - [Как увеличить читаемость больших чисел?](https://youtu.be/OA63L1eQ6pA?t=783)
 - [Какие нововведения были представлены в ECMAScript 2021 (ES12)?](https://youtu.be/PI1X5oFHou8?t=634)
+- [Что такое `Proxy` и `Reflect`?](https://youtu.be/21-v1wNlTT4?t=336)
+- [Что такое структурированное клонирование (`.structuredClone()`)?](https://youtu.be/21-v1wNlTT4?t=413)
