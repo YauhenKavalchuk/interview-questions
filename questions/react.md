@@ -72,3 +72,8 @@
 - [Что значит "статичность массива" в контексте ключей React?](https://youtu.be/Ezrd2uOq-44?t=814)
 - [Как работает алгоритм Fiber?](https://youtu.be/t36qUdDLaH4?t=634)
 - [Можно ли хранить в ref данные, помимо ссылок на DOM-элементы?](https://youtu.be/t36qUdDLaH4?t=713)
+- [Как работает `useTransition()`?](https://youtu.be/21-v1wNlTT4?t=28)
+- [Что такое `use()` хук в React 19?](https://youtu.be/21-v1wNlTT4?t=95)
+- [Что такое серверные компоненты в React?](https://youtu.be/21-v1wNlTT4?t=147)
+- [Что такое Concurrent Mode в React?](https://youtu.be/21-v1wNlTT4?t=210)
+- [Как работает optimistic updates с `useOptimistic()`?](https://youtu.be/21-v1wNlTT4?t=276)
