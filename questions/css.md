@@ -65,3 +65,8 @@
 - [Как поддерживать страницы в браузерах с ограниченными функциями?](https://youtu.be/70VnuTXi4Wk?t=75)
 - [Как исправлять специфичные проблемы со стилями для разных браузеров?](https://youtu.be/70VnuTXi4Wk?t=122)
 - [Что такое Flash Of Unstyled Content (FOUC)? Как его избежать?](https://youtu.be/yvOXvZ8aEFo?t=164)
+- [Как работает `@scope` в CSS?](https://youtu.be/jOQEynkKgKA?t=313)
+- [Что такое CSS nesting?](https://youtu.be/jOQEynkKgKA?t=371)
+- [Как работает `color-mix()` в CSS?](https://youtu.be/jOQEynkKgKA?t=428)
+- [Разница между `min()`, `max()` и `clamp()` в CSS?](https://youtu.be/jOQEynkKgKA?t=478)
+- [Что такое логические свойства (logical properties) в CSS?](https://youtu.be/jOQEynkKgKA?t=555)
