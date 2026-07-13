@@ -90,3 +90,7 @@
 - [Как сгенерировать случайное число в JavaScript?](https://youtu.be/VYQl2GhbCUs?t=801)
 - [Можно ли в JavaScript создать собственный тип ошибки (custom error type)?](https://youtu.be/Ezrd2uOq-44?t=302)
 - [Что такое функция-конструктор?](https://youtu.be/Ezrd2uOq-44?t=363)
+- [Что такое `WeakRef`?](https://youtu.be/jOQEynkKgKA?t=635)
+- [Как работает `FinalizationRegistry`?](https://youtu.be/jOQEynkKgKA?t=690)
+- [Что такое `Atomics` и `SharedArrayBuffer`?](https://youtu.be/jOQEynkKgKA?t=759)
+- [Что такое тегированные шаблонные литералы (tagged template literals)?](https://youtu.be/jOQEynkKgKA?t=832)
