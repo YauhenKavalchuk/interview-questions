@@ -71,3 +71,8 @@
 - [Что такое ApplicationCache в HTML5?](https://youtu.be/ovV8GhIkzBE?t=92)
 - [Способы улучшения производительности веб-страницы при использовании HTML?](https://youtu.be/ia3VPHMESnY?t=162)
 - [Что такое поток документа?](https://youtu.be/trriSYNrHw4?t=102)
+- [Что такое `<selectlist />` в HTML?](https://youtu.be/jOQEynkKgKA?t=27)
+- [Что такое `popover` API в HTML?](https://youtu.be/jOQEynkKgKA?t=77)
+- [Как работает атрибут `loading="lazy”` у изображений?](https://youtu.be/jOQEynkKgKA?t=145)
+- [Как работает атрибут `fetchpriority`?](https://youtu.be/jOQEynkKgKA?t=205)
+- [Как работает атрибут `inert` в HTML?](https://youtu.be/jOQEynkKgKA?t=265)
