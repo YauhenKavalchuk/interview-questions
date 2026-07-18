@@ -10,3 +10,7 @@
 - [Плюсы и минусы Redux?](https://youtu.be/HBSAjY-xh3k?t=767)
 - [Какие библиотеки для управления состоянием вы знаете, кроме Redux?](https://youtu.be/CkX3nbEHcJ0?t=815)
 - [Разница между VueX и Redux?](https://youtu.be/V39eEU9Pwv0?t=316)
+- [Разница между Zustand и Redux?](https://youtu.be/zqTSZCbgUI4?t=640)
+- [Разница между Pinia и Vuex?](https://youtu.be/zqTSZCbgUI4?t=709)
+- [Как работает Redux Toolkit? Чем отличается от чистого Redux?](https://youtu.be/zqTSZCbgUI4?t=781)
+- [Что такое MobX и как работает принцип observable/reaction?](https://youtu.be/zqTSZCbgUI4?t=859)
