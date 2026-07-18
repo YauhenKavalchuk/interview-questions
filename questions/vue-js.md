@@ -35,3 +35,5 @@
 - [Что такое Vuex?](https://youtu.be/R76_xPjzUd8?t=83)
 - [Что такое Vue CLI?](https://youtu.be/R76_xPjzUd8?t=32)
 - [Что такое `vue-loader`?](https://youtu.be/i96lHslBOIc?t=594)
+- [Что такое `<script setup />` синтаксис во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=343)
+- [Как работает `<Teleport />` во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=393)
