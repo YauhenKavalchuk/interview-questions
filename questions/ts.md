@@ -35,3 +35,7 @@
 - [Для чего нужны `d.ts` файлы?](https://youtu.be/Ezrd2uOq-44?t=601)
 - [Для чего нужны миксины в TypeScript?](https://youtu.be/t36qUdDLaH4?t=476)
 - [Где могут быть полезны Conditional Types?](https://youtu.be/t36qUdDLaH4?t=534)
+- [Что такое `satisfies` оператор в TypeScript?](https://youtu.be/zqTSZCbgUI4?t=440)
+- [Что такое const assertion (`as const`)?](https://youtu.be/zqTSZCbgUI4?t=478)
+- [Как работает infer в условных типах?](https://youtu.be/zqTSZCbgUI4?t=531)
+- [Как работает variance (ковариантность/контравариантность) в TypeScript?](https://youtu.be/zqTSZCbgUI4?t=574)
