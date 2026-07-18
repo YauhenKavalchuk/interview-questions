@@ -53,3 +53,8 @@
 - [Разница между Progressive Enhancement и Graceful Degradation?](https://youtu.be/rlWgI7AvV18?t=286)
 - [Особенности разработки мультиязычных сайтов?](https://youtu.be/yvOXvZ8aEFo?t=82)
 - [SEO - для чего нужно, как достигается?](https://youtu.be/Ezrd2uOq-44?t=208)
+- [Разница между gRPC и REST?](https://youtu.be/zqTSZCbgUI4?t=27)
+- [Что такое WebRTC?](https://youtu.be/zqTSZCbgUI4?t=116)
+- [Что такое WebAssembly (WASM)?](https://youtu.be/zqTSZCbgUI4?t=161)
+- [Что такое QUIC протокол?](https://youtu.be/zqTSZCbgUI4?t=216)
+- [Что такое Composition API? Чем отличается от Options API?](https://youtu.be/zqTSZCbgUI4?t=272)
