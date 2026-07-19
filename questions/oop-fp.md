@@ -31,3 +31,8 @@
 - [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
 - [Что такое паттерн "обратный плагин" (Reverse-Plugin Pattern)? Когда его стоит использовать?](https://youtu.be/3bC0orWHc5g?t=510)
 - [Разница между функцией и методом?](https://youtu.be/ovV8GhIkzBE?t=645)
+- [Что такое монада в функциональном программировании?](https://youtu.be/x3ZAkbEd2SA?t=425)
+- [Что такое Either монада и как она помогает в обработке ошибок?](https://youtu.be/x3ZAkbEd2SA?t=493)
+- [Что такое functor?](https://youtu.be/x3ZAkbEd2SA?t=552)
+- [Разница между императивным и декларативным подходами на практических примерах?](https://youtu.be/x3ZAkbEd2SA?t=606)
+- [Что такое принцип "Tell, Don't Ask"?](https://youtu.be/x3ZAkbEd2SA?t=650)
