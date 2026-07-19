@@ -33,3 +33,6 @@
 - [Что такое Trusted Types?](https://youtu.be/21-v1wNlTT4?t=475)
 - [Способы безопасной передачи конфиденциальных данных через API?](https://youtu.be/21-v1wNlTT4?t=535)
 - [Как работает Same-Site атрибут у cookies?](https://youtu.be/21-v1wNlTT4?t=667)
+- [Что такое Permissions Policy?](https://youtu.be/x3ZAkbEd2SA?t=701)
+- [Как безопасно хранить токены на фронтенде?](https://youtu.be/x3ZAkbEd2SA?t=751)
+- [Как работает HSTS (HTTP Strict Transport Security)?](https://youtu.be/x3ZAkbEd2SA?t=820)
