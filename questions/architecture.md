@@ -16,3 +16,8 @@
 - [Виды архитектур приложений и их основные идеи?](https://youtu.be/9o_PsbrnOyI?t=28)
 - [Всегда ли в сервис-ориентированной архитектуре (SOA) используется шина данных?](https://youtu.be/9o_PsbrnOyI?t=164)
 - [Что такое DDD (Domain-Driven Design)?](https://youtu.be/9o_PsbrnOyI?t=237)
+- [Что такое BFF (Backend for Frontend)?](https://youtu.be/x3ZAkbEd2SA?t=28)
+- [Что такое Micro Frontends? Подходы к реализации?](https://youtu.be/x3ZAkbEd2SA?t=89)
+- [Что такое EDA (Event-Driven Architecture)?](https://youtu.be/x3ZAkbEd2SA?t=201)
+- [Что такое CQRS и как он применяется?](https://youtu.be/x3ZAkbEd2SA?t=267)
+- [Что такое FSD (Feature Sliced Design)?](https://youtu.be/x3ZAkbEd2SA?t=346)
