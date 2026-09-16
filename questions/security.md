@@ -36,3 +36,6 @@
 - [Что такое Permissions Policy?](https://youtu.be/x3ZAkbEd2SA?t=701)
 - [Как безопасно хранить токены на фронтенде?](https://youtu.be/x3ZAkbEd2SA?t=751)
 - [Как работает HSTS (HTTP Strict Transport Security)?](https://youtu.be/x3ZAkbEd2SA?t=820)
+- [Что такое OAuth 2.0? Как он работает на фронтенде?](https://youtu.be/L0fhVDXVQQM?t=585)
+- [Что такое OpenID Connect? Чем отличается от OAuth 2.0?](https://youtu.be/L0fhVDXVQQM?t=655)
+- [Что такое CSP nonce и как его использовать?](https://youtu.be/L0fhVDXVQQM?t=711)
