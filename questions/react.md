@@ -77,3 +77,7 @@
 - [Что такое серверные компоненты в React?](https://youtu.be/21-v1wNlTT4?t=147)
 - [Что такое Concurrent Mode в React?](https://youtu.be/21-v1wNlTT4?t=210)
 - [Как работает optimistic updates с `useOptimistic()`?](https://youtu.be/21-v1wNlTT4?t=276)
+- [Как работает React Compiler (React Forget)?](https://youtu.be/Md9j72atmE4?t=308)
+- [Что такое Tearing в контексте React?](https://youtu.be/Md9j72atmE4?t=372)
+- [Что такое `use()` хук в React 19?](https://youtu.be/Md9j72atmE4?t=442)
+- [Как работают Server Actions в React?](https://youtu.be/Md9j72atmE4?t=497)
