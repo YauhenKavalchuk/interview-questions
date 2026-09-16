@@ -37,3 +37,8 @@
 - [Что такое `vue-loader`?](https://youtu.be/i96lHslBOIc?t=594)
 - [Что такое `<script setup />` синтаксис во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=343)
 - [Как работает `<Teleport />` во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=393)
+- [Как работает defineModel() во Vue 3?](https://youtu.be/Md9j72atmE4?t=564)
+- [Что такое `<Suspense />` во Vue 3?](https://youtu.be/Md9j72atmE4?t=620)
+- [Как работает `provide()` и `inject()` во Vue 3?](https://youtu.be/Md9j72atmE4?t=669)
+- [Что такое composables? Чем отличаются от миксинов?](https://youtu.be/Md9j72atmE4?t=717)
+- [Разница между `watchEffect()` и `watch()`?](https://youtu.be/Md9j72atmE4?t=783)
