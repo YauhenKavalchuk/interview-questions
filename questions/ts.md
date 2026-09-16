@@ -39,3 +39,8 @@
 - [Что такое const assertion (`as const`)?](https://youtu.be/zqTSZCbgUI4?t=478)
 - [Как работает infer в условных типах?](https://youtu.be/zqTSZCbgUI4?t=531)
 - [Как работает variance (ковариантность/контравариантность) в TypeScript?](https://youtu.be/zqTSZCbgUI4?t=574)
+- [Что такое шаблонные литеральные типы (Template Literal Types)?](https://youtu.be/Md9j72atmE4?t=26)
+- [Что такое дискриминируемые объединения (Discriminated Unions)?](https://youtu.be/Md9j72atmE4?t=77)
+- [Как работают сопоставленные типы (Mapped Types)?](https://youtu.be/Md9j72atmE4?t=129)
+- [Что такое номинальные типы (Branded Types)? Зачем они нужны?](https://youtu.be/Md9j72atmE4?t=175)
+- [Как работает проверка исчерпываемости (Exhaustiveness Checking) в TypeScript?](https://youtu.be/Md9j72atmE4?t=245)
