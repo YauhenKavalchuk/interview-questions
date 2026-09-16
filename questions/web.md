@@ -58,3 +58,6 @@
 - [Что такое WebAssembly (WASM)?](https://youtu.be/zqTSZCbgUI4?t=161)
 - [Что такое QUIC протокол?](https://youtu.be/zqTSZCbgUI4?t=216)
 - [Что такое Composition API? Чем отличается от Options API?](https://youtu.be/zqTSZCbgUI4?t=272)
+- [Как работает поиск DNS (DNS lookup)?](https://youtu.be/L0fhVDXVQQM?t=382)
+- [Что такое `Cache-Control` заголовок и его директивы?](https://youtu.be/L0fhVDXVQQM?t=440)
+- [Как работают Server-Sent Events (SSE) на практике?](https://youtu.be/L0fhVDXVQQM?t=512)
