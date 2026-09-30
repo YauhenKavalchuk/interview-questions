@@ -25,11 +25,11 @@
 | 🌐 [Web Technologies](./questions/web.md) | HTTP, API, хранилища, CSR/SSR и PWA | 61 |
 | 🏛️ [Architecture](./questions/architecture.md) | MVC, MVVM, микросервисы, DDD, микрофронтенды и FSD | 21 |
 | 🔒 [Security](./questions/security.md) | XSS, CSRF, CSP, JWT, CORS и другие угрозы и защиты | 39 |
-| 🖥️ [Browser Rendering](./questions/browser-rendering.md) | CRP, reflow и repaint, compositing, requestAnimationFrame и работа браузера | 7 |
-| 🧩 [OOP & FP](./questions/oop-fp.md) | ООП, SOLID, функциональное и реактивное программирование, паттерны | 36 |
-| 📑 [HTML](./questions/html.md) | семантика, формы, атрибуты, мета-теги, Canvas, SVG и многое другое | 76 |
+| 🖥️ [Browser Rendering](./questions/browser-rendering.md) | CRP, reflow и repaint, requestAnimationFrame и работа браузера | 7 |
+| 🧩 [OOP & FP](./questions/oop-fp.md) | ООП, ФП, SOLID, реактивное программирование и паттерны | 36 |
+| 📑 [HTML](./questions/html.md) | семантика, формы, атрибуты, мета-теги, Canvas, SVG | 76 |
 | 🎨 [CSS](./questions/css.md) | селекторы, Flexbox, Grid, анимации, препроцессоры и методологии | 70 |
-| ⚙️ [JavaScript](./questions/js.md) | типы данных, прототипы, замыкания, ООП, методы массивов и строк | 94 |
+| ⚙️ [JavaScript](./questions/js.md) | типы данных, прототипы, замыкания, методы массивов и строк | 94 |
 | 🧱 [JS in Browser](./questions/browser-js.md) | DOM, события, BOM и Shadow DOM | 33 |
 | ⚡ [Async JS](./questions/async-js.md) | Event loop, промисы, async/await, AJAX, fetch и таймеры | 26 |
 | 📜 [ECMAScript](./questions/es.md) | let/const, классы, модули, коллекции и новые операторы | 40 |
@@ -37,7 +37,7 @@
 | 🚀 [Performance](./questions/performance.md) | Core Web Vitals, загрузка страницы, изображения и шрифты | 12 |
 | 🔷 [TypeScript](./questions/ts.md) | типы, интерфейсы, generics, декораторы, утилитарные типы | 44 |
 | ⚛️ [React](./questions/react.md) | хуки, жизненный цикл, Virtual DOM, Fiber, контекст, SSR | 81 |
-| 💚 [Vue.js](./questions/vue-js.md) | компоненты, директивы, реактивность, Vue Router, Vuex, Composition API | 42 |
+| 💚 [Vue.js](./questions/vue-js.md) | директивы, реактивность, Vue Router, Vuex, Composition API | 42 |
 | 🟥 [Angular](./questions/angular.md) | компоненты, DI, RxJS, роутинг, формы, Change Detection | 57 |
 | 📦 [State Management](./questions/state-management.md) | Redux, Redux Toolkit, MobX, Zustand и Pinia | 14 |
 | 🟢 [Node.js](./questions/node-js.md) | Event loop, потоки, модули, кластеры, EventEmitter, npm | 27 |
