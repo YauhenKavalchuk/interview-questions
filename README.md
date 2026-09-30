@@ -28,7 +28,7 @@
 | 🖥️ [Browser Rendering](./questions/browser-rendering.md) | CRP, reflow и repaint, requestAnimationFrame и работа браузера | 7 |
 | 🧩 [OOP & FP](./questions/oop-fp.md) | ООП, ФП, SOLID, реактивное программирование и паттерны | 36 |
 | 📑 [HTML](./questions/html.md) | семантика, формы, атрибуты, мета-теги, Canvas, SVG | 76 |
-| 🎨 [CSS](./questions/css.md) | селекторы, Flexbox, Grid, анимации, препроцессоры и методологии | 70 |
+| 🎨 [CSS](./questions/css.md) | Flexbox, Grid, анимации, препроцессоры и методологии | 70 |
 | ⚙️ [JavaScript](./questions/js.md) | типы данных, прототипы, замыкания, методы массивов и строк | 94 |
 | 🧱 [JS in Browser](./questions/browser-js.md) | DOM, события, BOM и Shadow DOM | 33 |
 | ⚡ [Async JS](./questions/async-js.md) | Event loop, промисы, async/await, AJAX, fetch и таймеры | 26 |
