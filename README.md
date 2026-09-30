@@ -20,29 +20,32 @@
 
 ### 📚 Темы вопросов
 
-- 🌐 [Web Technologies](./questions/web.md) - протоколы, API, хранилище, рендеринг, PWA и общие концепции веба
-- 🏛️ [Architecture](./questions/architecture.md) - MVC, MVVM, микросервисы, DDD, паттерны масштабирования
-- 🔒 [Security](./questions/security.md) - XSS, CSRF, CSP, JWT, CORS и другие угрозы и защиты
-- 🖥️ [Browser Rendering](./questions/browser-rendering.md) - CRP, reflow и repaint, compositing, requestAnimationFrame и работа браузера
-- 🧩 [OOP & FP](./questions/oop-fp.md) - ООП, SOLID, функциональное и реактивное программирование, паттерны
-- 📑 [HTML](./questions/html.md) - семантика, формы, атрибуты, мета-теги, Canvas, SVG и многое другое
-- 🎨 [CSS](./questions/css.md) - селекторы, Flexbox, Grid, анимации, препроцессоры и методологии
-- ⚙️ [JavaScript](./questions/js.md) - типы данных, прототипы, замыкания, ООП, методы массивов и строк
-- 🧱 [JS in Browser](./questions/browser-js.md) - DOM, события, BOM, Shadow DOM, Web API и браузерные инструменты
-- ⚡ [Async JS](./questions/async-js.md) - Event loop, промисы, async/await, AJAX, fetch и таймеры
-- 📜 [ECMAScript](./questions/es.md) - ES6+, новые возможности стандарта: классы, генераторы, коллекции
-- ♿ [Accessibility](./questions/accessibility.md) - WCAG, ARIA, скринридеры, доступность форм, цвета и мультимедиа
-- 🚀 [Performance](./questions/performance.md) - Core Web Vitals, рендеринг, оптимизация загрузки и изображений
-- 🔷 [TypeScript](./questions/ts.md) - типы, интерфейсы, generics, декораторы, утилитарные типы
-- ⚛️ [React](./questions/react.md) - хуки, жизненный цикл, Virtual DOM, Fiber, контекст, SSR
-- 💚 [Vue.js](./questions/vue-js.md) - компоненты, директивы, реактивность, Vue Router, Vuex, Composition API
-- 🟥 [Angular](./questions/angular.md) - компоненты, DI, RxJS, роутинг, формы, Change Detection
-- 📦 [State Management](./questions/state-management.md) - Redux, Flux, Vuex, MobX и принципы управления состоянием
-- 🟢 [Node.js](./questions/node-js.md) - Event loop, потоки, модули, кластеры, EventEmitter, npm
-- 🪲 [Testing](./questions/testing.md) - Unit, UI, TDD, BDD, моки, стабы и инструменты тестирования
-- 🛠️ [Tools](./questions/tools.md) - Webpack, Babel, Git, ESLint, tree shaking и сборка проектов
-- 🤝 [Soft Skills](./questions/soft-skills.md) - Agile, SDLC, CI/CD, код-ревью, технический долг, GitFlow
-- 💡 [Практические задачи](./questions/practical-tasks.md) - типовые алгоритмические и coding-задачи с разбором решений
+| Тема | О чём | Вопросов |
+| --- | --- | ---: |
+| 🌐 [Web Technologies](./questions/web.md) | HTTP, API, хранилища, CSR/SSR и PWA | 61 |
+| 🏛️ [Architecture](./questions/architecture.md) | MVC, MVVM, микросервисы, DDD, микрофронтенды и FSD | 21 |
+| 🔒 [Security](./questions/security.md) | XSS, CSRF, CSP, JWT, CORS и другие угрозы и защиты | 39 |
+| 🖥️ [Browser Rendering](./questions/browser-rendering.md) | CRP, reflow и repaint, compositing, requestAnimationFrame и работа браузера | 7 |
+| 🧩 [OOP & FP](./questions/oop-fp.md) | ООП, SOLID, функциональное и реактивное программирование, паттерны | 36 |
+| 📑 [HTML](./questions/html.md) | семантика, формы, атрибуты, мета-теги, Canvas, SVG и многое другое | 76 |
+| 🎨 [CSS](./questions/css.md) | селекторы, Flexbox, Grid, анимации, препроцессоры и методологии | 70 |
+| ⚙️ [JavaScript](./questions/js.md) | типы данных, прототипы, замыкания, ООП, методы массивов и строк | 94 |
+| 🧱 [JS in Browser](./questions/browser-js.md) | DOM, события, BOM и Shadow DOM | 33 |
+| ⚡ [Async JS](./questions/async-js.md) | Event loop, промисы, async/await, AJAX, fetch и таймеры | 26 |
+| 📜 [ECMAScript](./questions/es.md) | let/const, классы, модули, коллекции и новые операторы | 40 |
+| ♿ [Accessibility](./questions/accessibility.md) | WCAG, ARIA, скринридеры, фокус и клавиатура | 22 |
+| 🚀 [Performance](./questions/performance.md) | Core Web Vitals, загрузка страницы, изображения и шрифты | 12 |
+| 🔷 [TypeScript](./questions/ts.md) | типы, интерфейсы, generics, декораторы, утилитарные типы | 44 |
+| ⚛️ [React](./questions/react.md) | хуки, жизненный цикл, Virtual DOM, Fiber, контекст, SSR | 81 |
+| 💚 [Vue.js](./questions/vue-js.md) | компоненты, директивы, реактивность, Vue Router, Vuex, Composition API | 42 |
+| 🟥 [Angular](./questions/angular.md) | компоненты, DI, RxJS, роутинг, формы, Change Detection | 57 |
+| 📦 [State Management](./questions/state-management.md) | Redux, Redux Toolkit, MobX, Zustand и Pinia | 14 |
+| 🟢 [Node.js](./questions/node-js.md) | Event loop, потоки, модули, кластеры, EventEmitter, npm | 27 |
+| 🪲 [Testing](./questions/testing.md) | виды тестов, TDD, BDD, моки, стабы и UI-тесты | 13 |
+| 🛠️ [Tools](./questions/tools.md) | Webpack, Babel, tree shaking, stylelint и Git | 12 |
+| 🤝 [Soft Skills](./questions/soft-skills.md) | Agile, SDLC, CI/CD, код-ревью, технический долг, GitFlow | 20 |
+| 💡 [Практические задачи](./questions/practical-tasks.md) | небольшие задачи на строки, массивы и числа | 12 |
+| **Всего** | | **859** |
 
 ---
 
