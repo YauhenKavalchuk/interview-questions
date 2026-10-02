@@ -1,13 +1,12 @@
 ### 💚 Vue.js:
 
+#### 🟢 Junior
+
 - [Что такое Vue.js?](https://youtu.be/ad34hPJ273k?t=34)
 - [Перечислите особенности Vue.js?](https://youtu.be/ad34hPJ273k?t=78)
 - [Перечислите преимущества Vue.js?](https://youtu.be/i96lHslBOIc?t=474)
 - [Что общего у React и Vue.js?](https://youtu.be/R76_xPjzUd8?t=172)
-- [Разница между React и Vue.js?](https://youtu.be/R76_xPjzUd8?t=211)
-- [Разница между Angular и Vue.js?](https://youtu.be/R76_xPjzUd8?t=290)
 - [Что такое SFC? Какие проблемы он решает?](https://youtu.be/jti2FWFqtmk?t=30)
-- [Как реализована реактивность во Vue2 и Vue3?](https://youtu.be/jti2FWFqtmk?t=107)
 - [Что такое компонент?](https://youtu.be/b-jHHEBj7KM?t=46)
 - [Назовите хуки жизненного цикла компонента во Vue.js?](https://youtu.be/ad34hPJ273k?t=133)
 - [Опишите жизненный цикл компонента во Vue.js?](https://youtu.be/ad34hPJ273k?t=185)
@@ -22,6 +21,17 @@
 - [Какие модификаторы событий предоставляет Vue.js?](https://youtu.be/ad34hPJ273k?t=555)
 - [Какие модификаторы кнопок предоставляет Vue.js?](https://youtu.be/ad34hPJ273k?t=636)
 - [Какие модификаторы кнопок мыши предоставляет Vue.js?](https://youtu.be/b-jHHEBj7KM?t=28)
+- [Что такое Vue Router? Назовите его особенности?](https://youtu.be/jti2FWFqtmk?t=164)
+- [Что такое вложенные роуты (Routes)?](https://youtu.be/jti2FWFqtmk?t=227)
+- [Что такое Vuex?](https://youtu.be/R76_xPjzUd8?t=83)
+- [Что такое Vue CLI?](https://youtu.be/R76_xPjzUd8?t=32)
+- [Что такое `<script setup />` синтаксис во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=343)
+
+#### 🟡 Middle
+
+- [Разница между React и Vue.js?](https://youtu.be/R76_xPjzUd8?t=211)
+- [Разница между Angular и Vue.js?](https://youtu.be/R76_xPjzUd8?t=290)
+- [Как реализована реактивность во Vue2 и Vue3?](https://youtu.be/jti2FWFqtmk?t=107)
 - [Какие хуки предоставляют директивы?](https://youtu.be/i96lHslBOIc?t=338)
 - [Что такое аргументы директивных хуков?](https://youtu.be/i96lHslBOIc?t=384)
 - [Что такое миксины Vue.js?](https://youtu.be/b-jHHEBj7KM?t=209)
@@ -30,15 +40,13 @@
 - [Что такое рендер-функция (render function)? Преимущества рендер-функции?](https://youtu.be/DgevxmyzymQ?t=349)
 - [Что такое динамические (`<keep-alive>`) компоненты?](https://youtu.be/DgevxmyzymQ?t=424)
 - [Что такое асинхронные компоненты?](https://youtu.be/DgevxmyzymQ?t=510)
-- [Что такое Vue Router? Назовите его особенности?](https://youtu.be/jti2FWFqtmk?t=164)
-- [Что такое вложенные роуты (Routes)?](https://youtu.be/jti2FWFqtmk?t=227)
-- [Что такое Vuex?](https://youtu.be/R76_xPjzUd8?t=83)
-- [Что такое Vue CLI?](https://youtu.be/R76_xPjzUd8?t=32)
 - [Что такое `vue-loader`?](https://youtu.be/i96lHslBOIc?t=594)
-- [Что такое `<script setup />` синтаксис во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=343)
 - [Как работает `<Teleport />` во Vue 3?](https://youtu.be/zqTSZCbgUI4?t=393)
 - [Как работает defineModel() во Vue 3?](https://youtu.be/Md9j72atmE4?t=564)
-- [Что такое `<Suspense />` во Vue 3?](https://youtu.be/Md9j72atmE4?t=620)
 - [Как работает `provide()` и `inject()` во Vue 3?](https://youtu.be/Md9j72atmE4?t=669)
 - [Что такое composables? Чем отличаются от миксинов?](https://youtu.be/Md9j72atmE4?t=717)
 - [Разница между `watchEffect()` и `watch()`?](https://youtu.be/Md9j72atmE4?t=783)
+
+#### 🟠 Senior
+
+- [Что такое `<Suspense />` во Vue 3?](https://youtu.be/Md9j72atmE4?t=620)

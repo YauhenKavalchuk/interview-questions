@@ -1,41 +1,52 @@
 ### 🔒 Security:
 
+#### 🟢 Junior
+
 - [Какие основные угрозы безопасности могут возникать на веб-страницах?](https://youtu.be/RKFu0MC1aUs?t=38)
-- [Что такое OWASP Top 10?](https://youtu.be/DZjIcc6KdjE?t=419)
-- [Какие принципы следует учитывать при разработке стратегии безопасности?](https://youtu.be/RKFu0MC1aUs?t=246)
+- [Разница между идентификацией, аутентификацией, авторизацией?](https://youtu.be/-mWa7erZu64?t=735)
+- [Что такое same-origin policy в контексте JavaScript?](https://youtu.be/IooJ3P2VUYs?t=612)
+- [Что такое межсайтовый скриптинг (XSS)?](https://youtu.be/ovV8GhIkzBE?t=292)
+
+#### 🟡 Middle
+
 - [Что такое принцип наименьших привилегий (POLP)?](https://youtu.be/RKFu0MC1aUs?t=349)
 - [Методы повышения безопасности веб-приложений?](https://youtu.be/DZjIcc6KdjE?t=347)
-- [Разница между идентификацией, аутентификацией, авторизацией?](https://youtu.be/-mWa7erZu64?t=735)
 - [Виды аутентификации?](https://youtu.be/-mWa7erZu64?t=770)
-- [Что такое "распределенная система аутентификации"?](https://youtu.be/RKFu0MC1aUs?t=793)
 - [Что такое токены JWT? Как их можно использовать для аутентификации пользователей?](https://youtu.be/3bC0orWHc5g?t=771)
-- [Что такое same-origin policy в контексте JavaScript?](https://youtu.be/IooJ3P2VUYs?t=612)
 - [Что такое безопасные (Secure) и `HttpOnly` cookies?](https://youtu.be/ovV8GhIkzBE?t=158)
 - [Какие меры безопасности следует принять при работе с cookie на стороне клиента?](https://youtu.be/RKFu0MC1aUs?t=799)
 - [Лучшие практики при работе с веб-хранилищем?](https://youtu.be/Tx5ABBxYs-Y?t=632)
 - [Что такое `SSL`/`TLS`? Зачем они используются в веб-разработке?](https://youtu.be/-mWa7erZu64?t=663)
 - [Что такое CORS?](https://youtu.be/w-vUj0gHGgg?t=360)
 - [Подходы для междоменных запросов в JavaScript?](https://youtu.be/Tx5ABBxYs-Y?t=511)
-- [Что такое Content Security Policy (CSP)?](https://youtu.be/ovV8GhIkzBE?t=231)
-- [Какие типы HTTP заголовков могут быть полезны для обеспечения безопасности веб-приложений?](https://youtu.be/RKFu0MC1aUs?t=164)
-- [Что такое SRI (Subresource Integrity)? Как его использовать для улучшения безопасности?](https://youtu.be/Tx5ABBxYs-Y?t=736)
-- [Что такое межсайтовый скриптинг (XSS)?](https://youtu.be/ovV8GhIkzBE?t=292)
 - [Как можно защищаться от межсайтового скриптинга (XSS)?](https://youtu.be/RKFu0MC1aUs?t=596)
 - [Как можно защищаться от CSRF-атак (Cross-Site Request Forgery)?](https://youtu.be/RKFu0MC1aUs?t=509)
 - [Как можно защититься от кликджекинг-атак (Clickjacking)?](https://youtu.be/V39eEU9Pwv0?t=845)
-- [Как можно защищаться от DDoS-атак (Distributed Denial of Service)?](https://youtu.be/RKFu0MC1aUs?t=407)
-- [Что такое обфускация кода? Зачем она может быть использована в JavaScript проектах?](https://youtu.be/NxPUaFAIyL0?t=442)
 - [Разница между обфускацией и минификацией кода?](https://youtu.be/NxPUaFAIyL0?t=514)
 - [Какие настройки сервера требуются для CORS?](https://youtu.be/t36qUdDLaH4?t=29)
 - [Как реализуется авторизация на фронтенде?](https://youtu.be/t36qUdDLaH4?t=112)
-- [Как защитить данные в LocalStorage от стороннего JS?](https://youtu.be/t36qUdDLaH4?t=203)
 - [Зачем используется запрос с методом `OPTIONS`?](https://youtu.be/t36qUdDLaH4?t=293)
-- [Что такое Trusted Types?](https://youtu.be/21-v1wNlTT4?t=475)
 - [Способы безопасной передачи конфиденциальных данных через API?](https://youtu.be/21-v1wNlTT4?t=535)
 - [Как работает Same-Site атрибут у cookies?](https://youtu.be/21-v1wNlTT4?t=667)
+- [Что такое OAuth 2.0? Как он работает на фронтенде?](https://youtu.be/L0fhVDXVQQM?t=585)
+
+#### 🟠 Senior
+
+- [Что такое OWASP Top 10?](https://youtu.be/DZjIcc6KdjE?t=419)
+- [Что такое "распределенная система аутентификации"?](https://youtu.be/RKFu0MC1aUs?t=793)
+- [Что такое Content Security Policy (CSP)?](https://youtu.be/ovV8GhIkzBE?t=231)
+- [Какие типы HTTP заголовков могут быть полезны для обеспечения безопасности веб-приложений?](https://youtu.be/RKFu0MC1aUs?t=164)
+- [Что такое SRI (Subresource Integrity)? Как его использовать для улучшения безопасности?](https://youtu.be/Tx5ABBxYs-Y?t=736)
+- [Как можно защищаться от DDoS-атак (Distributed Denial of Service)?](https://youtu.be/RKFu0MC1aUs?t=407)
+- [Что такое обфускация кода? Зачем она может быть использована в JavaScript проектах?](https://youtu.be/NxPUaFAIyL0?t=442)
+- [Как защитить данные в LocalStorage от стороннего JS?](https://youtu.be/t36qUdDLaH4?t=203)
+- [Что такое Trusted Types?](https://youtu.be/21-v1wNlTT4?t=475)
 - [Что такое Permissions Policy?](https://youtu.be/x3ZAkbEd2SA?t=701)
 - [Как безопасно хранить токены на фронтенде?](https://youtu.be/x3ZAkbEd2SA?t=751)
 - [Как работает HSTS (HTTP Strict Transport Security)?](https://youtu.be/x3ZAkbEd2SA?t=820)
-- [Что такое OAuth 2.0? Как он работает на фронтенде?](https://youtu.be/L0fhVDXVQQM?t=585)
 - [Что такое OpenID Connect? Чем отличается от OAuth 2.0?](https://youtu.be/L0fhVDXVQQM?t=655)
 - [Что такое CSP nonce и как его использовать?](https://youtu.be/L0fhVDXVQQM?t=711)
+
+#### 🔴 Lead
+
+- [Какие принципы следует учитывать при разработке стратегии безопасности?](https://youtu.be/RKFu0MC1aUs?t=246)

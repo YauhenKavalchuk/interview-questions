@@ -1,38 +1,46 @@
 ### 🧩 OOP & FP:
 
+#### 🟢 Junior
+
 - [Основные принципы ООП?](https://youtu.be/w-vUj0gHGgg?t=538)
+- [Что такое статический метод класса (`static`)? Как осуществляется его вызов?](https://youtu.be/G4iYlbilozM?t=641)
+- [В чём заключаются особенности геттеров и сеттеров?](https://youtu.be/XtQPrt8G0n8?t=315)
+- [Что такое функциональное программирование?](https://youtu.be/ovV8GhIkzBE?t=410)
+- [Плюсы функционального программирования?](https://youtu.be/Sw4BlFLj2dg?t=247)
+- [Разница между императивным и декларативным подходами программирования?](https://youtu.be/Sw4BlFLj2dg?t=316)
+- [Что такое паттерн, или шаблон проектирования?](https://youtu.be/N1wPX5Z4HKE?t=216)
+- [Разница между функцией и методом?](https://youtu.be/ovV8GhIkzBE?t=645)
+- [Разница между императивным и декларативным подходами на практических примерах?](https://youtu.be/x3ZAkbEd2SA?t=606)
+
+#### 🟡 Middle
+
 - [Что такое SOLID?](https://youtu.be/w-vUj0gHGgg?t=603)
 - [Какие принципы можно использовать вместе с наследованием?](https://youtu.be/XtQPrt8G0n8?t=119)
 - [Какие ещё принципы кроме SOLID вы знаете?](https://youtu.be/XtQPrt8G0n8?t=156)
 - [Разница между классовым и прототипным наследованием?](https://youtu.be/rWEsjNWBoIE?t=751)
 - [Разница между композицией и наследованием?](https://youtu.be/GZUy2i6QN7o?t=29)
 - [Что такое композиция в контексте JavaScript?](https://youtu.be/54C3u9aCtoU?t=31)
-- [Разница между агрегацией и композицией?](https://youtu.be/hJDqYohmzL8?t=610)
 - [Что такое агрегация в ООП?](https://youtu.be/F2DHz6_y8LY?t=744)
 - [Типы полиморфизма?](https://youtu.be/DQ0BLu6rZYc?t=135)
-- [Можно ли в JavaScript реализовать абстрактный класс и как это сделать?](https://youtu.be/Sw4BlFLj2dg?t=31)
-- [Что такое статический метод класса (`static`)? Как осуществляется его вызов?](https://youtu.be/G4iYlbilozM?t=641)
 - [Что такое дескрипторы свойств объектов?](https://youtu.be/XtQPrt8G0n8?t=237)
-- [В чём заключаются особенности геттеров и сеттеров?](https://youtu.be/XtQPrt8G0n8?t=315)
 - [Как работает механизм прототипов в JavaScript?](https://youtu.be/Sw4BlFLj2dg?t=85)
-- [Что такое функциональное программирование?](https://youtu.be/ovV8GhIkzBE?t=410)
 - [Основные принципы функционального программирования?](https://youtu.be/Sw4BlFLj2dg?t=149)
-- [Плюсы функционального программирования?](https://youtu.be/Sw4BlFLj2dg?t=247)
 - [Что такое каррирование (Currying)?](https://youtu.be/ovV8GhIkzBE?t=681)
 - [Разница между ООП и ФП в JavaScript?](https://youtu.be/hJDqYohmzL8?t=191)
 - [Плюсы и минусы ФП и ООП?](https://youtu.be/70VnuTXi4Wk?t=327)
-- [Разница между императивным и декларативным подходами программирования?](https://youtu.be/Sw4BlFLj2dg?t=316)
 - [Разница между процедурным и функциональным программированием?](https://youtu.be/hJDqYohmzL8?t=711)
-- [Что такое реактивное программирование?](https://youtu.be/hJDqYohmzL8?t=304)
-- [Плюсы и минусы реактивного программирования?](https://youtu.be/hJDqYohmzL8?t=370)
-- [Что такое паттерн, или шаблон проектирования?](https://youtu.be/N1wPX5Z4HKE?t=216)
 - [Типы паттернов?](https://youtu.be/N1wPX5Z4HKE?t=266)
 - [Что такое GOF паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
+
+#### 🟠 Senior
+
+- [Разница между агрегацией и композицией?](https://youtu.be/hJDqYohmzL8?t=610)
+- [Можно ли в JavaScript реализовать абстрактный класс и как это сделать?](https://youtu.be/Sw4BlFLj2dg?t=31)
+- [Что такое реактивное программирование?](https://youtu.be/hJDqYohmzL8?t=304)
+- [Плюсы и минусы реактивного программирования?](https://youtu.be/hJDqYohmzL8?t=370)
 - [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
 - [Что такое паттерн "обратный плагин" (Reverse-Plugin Pattern)? Когда его стоит использовать?](https://youtu.be/3bC0orWHc5g?t=510)
-- [Разница между функцией и методом?](https://youtu.be/ovV8GhIkzBE?t=645)
 - [Что такое монада в функциональном программировании?](https://youtu.be/x3ZAkbEd2SA?t=425)
 - [Что такое Either монада и как она помогает в обработке ошибок?](https://youtu.be/x3ZAkbEd2SA?t=493)
 - [Что такое functor?](https://youtu.be/x3ZAkbEd2SA?t=552)
-- [Разница между императивным и декларативным подходами на практических примерах?](https://youtu.be/x3ZAkbEd2SA?t=606)
 - [Что такое принцип "Tell, Don't Ask"?](https://youtu.be/x3ZAkbEd2SA?t=650)

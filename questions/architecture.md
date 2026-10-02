@@ -1,18 +1,25 @@
 ### 🏛️ Architecture:
 
+#### 🟢 Junior
+
 - [Что такое MVC?](https://youtu.be/xZLxdts7ZW4?t=181)
+- [Однонаправленный поток данных и двусторонняя связь данных? В чем между ними разница?](https://youtu.be/rWEsjNWBoIE?t=845)
+
+#### 🟡 Middle
+
 - [Что такое MVVM?](https://youtu.be/ovV8GhIkzBE?t=489)
 - [Что такое MVP?](https://youtu.be/ovV8GhIkzBE?t=581)
-- [Недостатки паттерна MVW?](https://youtu.be/xZLxdts7ZW4?t=282)
 - [Разница между монолитной и микросервисной архитектурами?](https://youtu.be/70VnuTXi4Wk?t=436)
 - [Плюсы и минусы монолитной и микросервисной архитектур?](https://youtu.be/70VnuTXi4Wk?t=506)
 - [Что такое "Server-less" архитектура?](https://youtu.be/NxPUaFAIyL0?t=222)
-- [Однонаправленный поток данных и двусторонняя связь данных? В чем между ними разница?](https://youtu.be/rWEsjNWBoIE?t=845)
 - [Что такое Flux?](https://youtu.be/RpcB5jnJvcI?t=792)
-- [Какие паттерны разработки вы бы рекомендовали для улучшения масштабируемости веб-приложений?](https://youtu.be/NxPUaFAIyL0?t=645)
 - [Что такое Inversion of control?](https://youtu.be/hJDqYohmzL8?t=463)
 - [Что такое Dependency injection?](https://youtu.be/hJDqYohmzL8?t=540)
 - [Что такое Declarative UI? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
+
+#### 🟠 Senior
+
+- [Недостатки паттерна MVW?](https://youtu.be/xZLxdts7ZW4?t=282)
 - [Виды архитектур приложений и их основные идеи?](https://youtu.be/9o_PsbrnOyI?t=28)
 - [Всегда ли в сервис-ориентированной архитектуре (SOA) используется шина данных?](https://youtu.be/9o_PsbrnOyI?t=164)
 - [Что такое DDD (Domain-Driven Design)?](https://youtu.be/9o_PsbrnOyI?t=237)
@@ -21,3 +28,7 @@
 - [Что такое EDA (Event-Driven Architecture)?](https://youtu.be/x3ZAkbEd2SA?t=201)
 - [Что такое CQRS и как он применяется?](https://youtu.be/x3ZAkbEd2SA?t=267)
 - [Что такое FSD (Feature Sliced Design)?](https://youtu.be/x3ZAkbEd2SA?t=346)
+
+#### 🔴 Lead
+
+- [Какие паттерны разработки вы бы рекомендовали для улучшения масштабируемости веб-приложений?](https://youtu.be/NxPUaFAIyL0?t=645)
