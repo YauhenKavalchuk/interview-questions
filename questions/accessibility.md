@@ -2,14 +2,14 @@
 
 #### 🟢 Junior
 
-- [Что такое WCAG?](https://youtu.be/hL5yFo9Pms4?t=457)
+- [Что такое WCAG (Web Content Accessibility Guidelines)?](https://youtu.be/hL5yFo9Pms4?t=457)
 - [Основные принципы доступности?](https://youtu.be/hL5yFo9Pms4?t=523)
 - [Разница между usability и accessibility?](https://youtu.be/t0sdlbA6yA8?t=304)
 - [Что нужно учитывать при разработке доступного сайта?](https://youtu.be/t0sdlbA6yA8?t=397)
 - [Что такое скринридер?](https://youtu.be/xIGp2FCxqj0?t=30)
-- [Что такое ARIA роли в веб приложении?](https://youtu.be/N1wPX5Z4HKE?t=131)
-- [Какие HTML атрибуты можно использовать для улучшения доступности?](https://youtu.be/t0sdlbA6yA8?t=30)
-- [Как структура заголовков (`<H1>`-`<H6>`) влияет на доступность? Как правильно их использовать для улучшения навигации и доступности контента?](https://youtu.be/zcF-CVtXSBI?t=23)
+- [Что такое ARIA-роли в веб приложении?](https://youtu.be/N1wPX5Z4HKE?t=131)
+- [Какие HTML-атрибуты можно использовать для улучшения доступности?](https://youtu.be/t0sdlbA6yA8?t=30)
+- [Как структура заголовков (от `<h1>` до `<h6>`) влияет на доступность? Как правильно их использовать для улучшения навигации и доступности контента?](https://youtu.be/zcF-CVtXSBI?t=23)
 - [Что такое `tabindex`? Как он влияет на порядок фокуса?](https://youtu.be/9o_PsbrnOyI?t=343)
 
 #### 🟡 Middle
@@ -19,7 +19,7 @@
 - [Как скрыть содержимое тэга от скринридеров?](https://youtu.be/hL5yFo9Pms4?t=672)
 - [Как удалить семантику у элемента?](https://youtu.be/hL5yFo9Pms4?t=725)
 - [Разница между `role` и `aria-label` в контексте accessibility?](https://youtu.be/F2DHz6_y8LY?t=431)
-- [Как создать доступный список в HTML с помощью ARIA ролей?](https://youtu.be/F2DHz6_y8LY?t=298)
+- [Как создать доступный список в HTML с помощью ARIA-ролей?](https://youtu.be/F2DHz6_y8LY?t=298)
 - [Какие правила следует соблюдать при работе с цветом для обеспечения лучшей доступности?](https://youtu.be/zcF-CVtXSBI?t=107)
 - [Какие рекомендации существуют для работы с мультимедиа-контентом для обеспечения лучшей доступности?](https://youtu.be/zcF-CVtXSBI?t=204)
 - [Что такое "skip-links" и как они используются для улучшения доступности?](https://youtu.be/F2DHz6_y8LY?t=351)

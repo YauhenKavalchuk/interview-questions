@@ -2,18 +2,18 @@
 
 #### 🟢 Junior
 
-- [Что такое ECMAScript? В чём отличие от JavaScript?](https://youtu.be/IooJ3P2VUYs?t=336)
+- [Что такое ECMAScript? Разница между ECMAScript и JavaScript?](https://youtu.be/IooJ3P2VUYs?t=336)
 - [Разница между `let`, `const` и `var`?](https://youtu.be/1eIRTdgzHtw?t=361)
 - [Можно ли изменить значение определённое через `const`?](https://youtu.be/IooJ3P2VUYs?t=407)
-- [Что такое временная мёртвая зона (temporal dead zone)?](https://youtu.be/IooJ3P2VUYs?t=478)
+- [Что такое временная мёртвая зона (Temporal dead zone)?](https://youtu.be/IooJ3P2VUYs?t=478)
 - [Разница между обычными функциями и стрелочными?](https://youtu.be/nvktMVFM0_M?t=347)
-- [Что такое ES6 модули?](https://youtu.be/V-m0sQ-hW58?t=494)
+- [Что такое ES6-модули?](https://youtu.be/V-m0sQ-hW58?t=494)
 - [Разница между Rest и Spread операторами?](https://youtu.be/w-vUj0gHGgg?t=183)
 - [Что такое деструктуризация?](https://youtu.be/w-vUj0gHGgg?t=241)
-- [Что такое шаблонные литералы (Template Literals)?](https://youtu.be/G4iYlbilozM?t=254)
+- [Что такое шаблонные литералы (Template literals)?](https://youtu.be/G4iYlbilozM?t=254)
 - [Как работают дефолтные параметры в ES6?](https://youtu.be/PI1X5oFHou8?t=507)
 - [Что такое оператор нулевого слияния (`??`)?](https://youtu.be/3kvKFfPteFg?t=242)
-- [В чём отличие оператора нулевого слияния (`??`) и оператора "ИЛИ" (`||`)?](https://youtu.be/3kvKFfPteFg?t=304)
+- [Разница между оператором нулевого слияния (`??`) и оператором "ИЛИ" (`||`)?](https://youtu.be/3kvKFfPteFg?t=304)
 - [Расскажите об операторе Optional Chaining (`?.`)?](https://youtu.be/OA63L1eQ6pA?t=568)
 - [Назовите основные методы и свойства работы с коллекцией `Map`?](https://youtu.be/3kvKFfPteFg?t=382)
 - [Назовите основные методы и свойства работы с коллекцией `Set`?](https://youtu.be/3kvKFfPteFg?t=443)
@@ -41,7 +41,7 @@
 - [Для чего используется метод `.replaceAll()`?](https://youtu.be/OA63L1eQ6pA?t=632)
 - [Как увеличить читаемость больших чисел?](https://youtu.be/OA63L1eQ6pA?t=783)
 - [Какие нововведения были представлены в ECMAScript 2021 (ES12)?](https://youtu.be/PI1X5oFHou8?t=634)
-- [Что такое структурированное клонирование (`.structuredClone()`)?](https://youtu.be/21-v1wNlTT4?t=413)
+- [Что такое структурированное клонирование (`structuredClone()`)?](https://youtu.be/21-v1wNlTT4?t=413)
 
 #### 🟠 Senior
 

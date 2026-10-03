@@ -13,11 +13,11 @@
 #### 🟡 Middle
 
 - [Что такое Testing Trophy?](https://youtu.be/hJDqYohmzL8?t=28)
-- [Что такое принцип FIRST в тестировании?](https://youtu.be/hJDqYohmzL8?t=95)
+- [Что такое принцип FIRST (Fast, Independent, Repeatable, Self-validating, Timely) в тестировании?](https://youtu.be/hJDqYohmzL8?t=95)
 - [Как можно оценить качество тестирования?](https://youtu.be/Sw4BlFLj2dg?t=471)
 - [Что такое UI-тестирование? Назовите подходы UI-тестирования?](https://youtu.be/Sw4BlFLj2dg?t=372)
 
 #### 🟠 Senior
 
-- [Разница между TDD и BDD?](https://youtu.be/__neFkxAO9s?t=247)
+- [Разница между TDD (Test-Driven Development) и BDD (Behavior-Driven Development)?](https://youtu.be/__neFkxAO9s?t=247)
 - [Что такое Quality Gates?](https://youtu.be/__neFkxAO9s?t=145)

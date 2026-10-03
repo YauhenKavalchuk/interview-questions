@@ -30,7 +30,7 @@
 - [Плюсы и минусы ФП и ООП?](https://youtu.be/70VnuTXi4Wk?t=327)
 - [Разница между процедурным и функциональным программированием?](https://youtu.be/hJDqYohmzL8?t=711)
 - [Типы паттернов?](https://youtu.be/N1wPX5Z4HKE?t=266)
-- [Что такое GOF паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
+- [Что такое GoF-паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
 
 #### 🟠 Senior
 
@@ -38,8 +38,8 @@
 - [Можно ли в JavaScript реализовать абстрактный класс и как это сделать?](https://youtu.be/Sw4BlFLj2dg?t=31)
 - [Что такое реактивное программирование?](https://youtu.be/hJDqYohmzL8?t=304)
 - [Плюсы и минусы реактивного программирования?](https://youtu.be/hJDqYohmzL8?t=370)
-- [Что такое GRASP паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
-- [Что такое паттерн "обратный плагин" (Reverse-Plugin Pattern)? Когда его стоит использовать?](https://youtu.be/3bC0orWHc5g?t=510)
+- [Что такое GRASP-паттерны?](https://youtu.be/J6CgOSKFOlw?t=511)
+- [Что такое паттерн "обратный плагин" (Reverse-plugin pattern)? Когда его стоит использовать?](https://youtu.be/3bC0orWHc5g?t=510)
 - [Что такое монада в функциональном программировании?](https://youtu.be/x3ZAkbEd2SA?t=425)
 - [Что такое Either монада и как она помогает в обработке ошибок?](https://youtu.be/x3ZAkbEd2SA?t=493)
 - [Что такое functor?](https://youtu.be/x3ZAkbEd2SA?t=552)
