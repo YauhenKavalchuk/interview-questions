@@ -16,6 +16,9 @@
 - [Что такое Inversion of control?](https://youtu.be/hJDqYohmzL8?t=463)
 - [Что такое Dependency injection?](https://youtu.be/hJDqYohmzL8?t=540)
 - [Что такое Declarative UI? Какие фреймворки поддерживают этот подход?](https://youtu.be/NxPUaFAIyL0?t=290)
+- [Разница между горизонтальным и вертикальным масштабированием?](https://youtu.be/zvUhdDSaZxs?t=733)
+- [Что такое гексагональная архитектура (Hexagonal architecture)?](https://youtu.be/zvUhdDSaZxs?t=677)
+- [Разница между оркестрацией (Orchestration) и хореографией (Choreography) в микросервисах?](https://youtu.be/zvUhdDSaZxs?t=795)
 
 #### 🟠 Senior
 

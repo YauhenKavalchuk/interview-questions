@@ -35,9 +35,15 @@
 - [Для чего используется свойство `.forms`?](https://youtu.be/lZNWrW39ELM?t=616)
 - [Для чего используется свойство `.dataset`?](https://youtu.be/3NGkctg4lsE?t=680)
 - [Для чего используется метод `.scrollIntoView()`?](https://youtu.be/lZNWrW39ELM?t=682)
+- [Что такое frame budget и почему важно укладываться в 16ms?](https://youtu.be/zvUhdDSaZxs?t=346)
 
 #### 🟠 Senior
 
 - [Разница между методами `.submit()` и `.requestSubmit()`?](https://youtu.be/3kvKFfPteFg?t=90)
 - [Разница между feature detection, feature inference и анализом строки user-agent?](https://youtu.be/G4iYlbilozM?t=568)
 - [Что такое Shadow DOM? Как он связан с веб-компонентами (Web components)?](https://youtu.be/Uc378Fmc5vw?t=601)
+- [Как браузер строит CSSOM (CSS Object Model)?](https://youtu.be/zvUhdDSaZxs?t=30)
+- [Разница между compositor thread и main thread?](https://youtu.be/zvUhdDSaZxs?t=91)
+- [Как работает GPU acceleration в браузере?](https://youtu.be/zvUhdDSaZxs?t=214)
+- [Как работает prerender в браузере?](https://youtu.be/zvUhdDSaZxs?t=279)
+

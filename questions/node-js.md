@@ -12,6 +12,7 @@
 - [Что такое переменные окружения в Node.js? Как они используются?](https://youtu.be/3bC0orWHc5g?t=439)
 - [Что такое REPL (Read-Eval-Print Loop) в Node.js?](https://youtu.be/b-jHHEBj7KM?t=660)
 - [Разница между ESM (ECMAScript Modules) и CJS (CommonJS) в Node.js?](https://youtu.be/L0fhVDXVQQM?t=199)
+- [Как принято работать с файлами в Node.js?](https://youtu.be/V0RxOrWWOdE?t=411)
 
 #### 🟡 Middle
 
@@ -26,6 +27,8 @@
 - [Почему в модулях переменные верхнего уровня не являются глобальными?](https://youtu.be/R76_xPjzUd8?t=554)
 - [Что такое циклические зависимости модулей в Node?](https://youtu.be/R76_xPjzUd8?t=611)
 - [Как работает кэширование модулей в Node.js?](https://youtu.be/L0fhVDXVQQM?t=268)
+- [Типы стримов (Streams) в Node.js?](https://youtu.be/V0RxOrWWOdE?t=496)
+- [Объясните влияние блокирующих операций на Event Loop?](https://youtu.be/V0RxOrWWOdE?t=575)
 
 #### 🟠 Senior
 
@@ -35,3 +38,5 @@
 - [Как работает Worker Threads в Node.js?](https://youtu.be/L0fhVDXVQQM?t=81)
 - [Разница между Cluster и Worker Threads?](https://youtu.be/L0fhVDXVQQM?t=137)
 - [Что такое `process.nextTick()`?](https://youtu.be/L0fhVDXVQQM?t=311)
+- [Worker threads - преимущества? Что происходит при передаче данных в worker thread?](https://youtu.be/V0RxOrWWOdE?t=648)
+

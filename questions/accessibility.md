@@ -24,9 +24,13 @@
 - [Какие рекомендации существуют для работы с мультимедиа-контентом для обеспечения лучшей доступности?](https://youtu.be/zcF-CVtXSBI?t=204)
 - [Что такое "skip-links" и как они используются для улучшения доступности?](https://youtu.be/F2DHz6_y8LY?t=351)
 - [Назовите средства и методы тестирования доступности?](https://youtu.be/t0sdlbA6yA8?t=125)
+- [Как тестировать доступность с помощью клавиатуры?](https://youtu.be/zvUhdDSaZxs?t=545)
+- [Что такое prefers-color-scheme и как его использовать?](https://youtu.be/zvUhdDSaZxs?t=618)
 
 #### 🟠 Senior
 
 - [Для чего используется атрибут `aria-roledescription`?](https://youtu.be/hL5yFo9Pms4?t=791)
 - [Что такое focus trap и когда он нужен?](https://youtu.be/9o_PsbrnOyI?t=412)
 - [Разница между `aria-hidden` и `display: none` с точки зрения доступности?](https://youtu.be/9o_PsbrnOyI?t=466)
+- [Как правильно делать доступные модальные окна?](https://youtu.be/zvUhdDSaZxs?t=409)
+- [Что такое live regions в ARIA (Accessible Rich Internet Applications)?](https://youtu.be/zvUhdDSaZxs?t=480)

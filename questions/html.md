@@ -84,3 +84,6 @@
 - [Что такое `popover` API в HTML?](https://youtu.be/jOQEynkKgKA?t=77)
 - [Как работает атрибут `fetchpriority`?](https://youtu.be/jOQEynkKgKA?t=205)
 - [Как работает атрибут `inert` в HTML?](https://youtu.be/jOQEynkKgKA?t=265)
+- [Что такое DSD (Declarative Shadow DOM)?](https://youtu.be/V0RxOrWWOdE?t=28)
+- [Что такое `blocking="render"` атрибут у скриптов?](https://youtu.be/V0RxOrWWOdE?t=75)
+

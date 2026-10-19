@@ -37,6 +37,7 @@
 - [Какие CSS-препроцессоры вы знаете? Преимущества их использования?](https://youtu.be/DZjIcc6KdjE?t=250)
 - [Что такое BEM (Block Element Modifier) и как это помогает в CSS?](https://youtu.be/Tx5ABBxYs-Y?t=28)
 - [Что такое CSS-спрайт? И для чего он используется?](https://youtu.be/CjdCxxqObaM?t=330)
+- [Разница между `em`, `rem`, `vw`, `vh`, `dvh`?](https://youtu.be/V0RxOrWWOdE?t=326)
 
 #### 🟡 Middle
 
@@ -78,3 +79,6 @@
 - [Как работает `@scope` в CSS?](https://youtu.be/jOQEynkKgKA?t=313)
 - [Как работает `color-mix()` в CSS?](https://youtu.be/jOQEynkKgKA?t=428)
 - [Что такое логические свойства (Logical properties) в CSS?](https://youtu.be/jOQEynkKgKA?t=555)
+- [Как работает CSS Houdini?](https://youtu.be/V0RxOrWWOdE?t=128)
+- [Что такое CSS Anchor Positioning?](https://youtu.be/V0RxOrWWOdE?t=208)
+- [Как работает view transitions API?](https://youtu.be/V0RxOrWWOdE?t=266)
