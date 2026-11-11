@@ -1,4 +1,4 @@
-### 🔷 TypeScript:
+### 💎 TypeScript:
 
 #### 🟢 Junior
 

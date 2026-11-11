@@ -3,6 +3,7 @@
 #### 🟢 Junior
 
 - [Разница между `<script>`, `<script async>` и `<script defer>`?](https://youtu.be/rlWgI7AvV18?t=77)
+- [Как работает lazy loading для компонентов?](https://youtu.be/O5VEqIcc2X8?t=28)
 
 #### 🟡 Middle
 
@@ -14,9 +15,13 @@
 - [Как реализовать отложенную загрузку изображений?](https://youtu.be/zcF-CVtXSBI?t=540)
 - [Методы оптимизации загрузки шрифтов?](https://youtu.be/F2DHz6_y8LY?t=220)
 - [Что такое и как работает коэффициент сжатия (Compression ratio) в контексте веб-разработки?](https://youtu.be/PI1X5oFHou8?t=835)
+- [Что такое bundle splitting и как его настроить?](https://youtu.be/O5VEqIcc2X8?t=92)
+- [Как работает атрибут sizes для оптимизации загрузки изображений?](https://youtu.be/O5VEqIcc2X8?t=143)
 
 #### 🟠 Senior
 
 - [Разница между `preload`, `prefetch`, `preconnect` и `prerender`?](https://youtu.be/DQ0BLu6rZYc?t=410)
 - [Для чего нужен паттерн PRPL (Push, Render, Pre-cache, Lazy-load)?](https://youtu.be/DQ0BLu6rZYc?t=519)
 - [Что такое TTI (Time to Interactive)? Как его измерить и улучшить?](https://youtu.be/V39eEU9Pwv0?t=578)
+- [Что такое Back/Forward Cache (bfcache)?](https://youtu.be/O5VEqIcc2X8?t=213)
+- [Как работает `PerformanceObserver` и какие типы записей он поддерживает?](https://youtu.be/O5VEqIcc2X8?t=274)

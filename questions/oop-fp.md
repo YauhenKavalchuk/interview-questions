@@ -31,6 +31,7 @@
 - [Разница между процедурным и функциональным программированием?](https://youtu.be/hJDqYohmzL8?t=711)
 - [Типы паттернов?](https://youtu.be/N1wPX5Z4HKE?t=266)
 - [Что такое GoF-паттерны?](https://youtu.be/J6CgOSKFOlw?t=426)
+- [Что такое point-free style?](https://youtu.be/LEo0dFN87sY?t=812)
 
 #### 🟠 Senior
 
@@ -44,3 +45,5 @@
 - [Что такое Either монада и как она помогает в обработке ошибок?](https://youtu.be/x3ZAkbEd2SA?t=493)
 - [Что такое functor?](https://youtu.be/x3ZAkbEd2SA?t=552)
 - [Что такое принцип "Tell, Don't Ask"?](https://youtu.be/x3ZAkbEd2SA?t=650)
+- [Что такое trampolining в контексте рекурсии?](https://youtu.be/LEo0dFN87sY?t=772)
+- [Что такое lens в функциональном программировании?](https://youtu.be/LEo0dFN87sY?t=849)

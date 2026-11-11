@@ -1,4 +1,4 @@
-### 🧱 JS in Browser:
+### 🧭 JS in Browser:
 
 #### 🟢 Junior
 

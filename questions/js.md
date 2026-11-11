@@ -91,6 +91,9 @@
 - [Почему глобальные переменные в JavaScript считаются "антипаттерном"?](https://youtu.be/1kzbNflP_YA?t=670)
 - [Можно ли в JavaScript создать собственный тип ошибки (Custom error type)?](https://youtu.be/Ezrd2uOq-44?t=302)
 - [Что такое тегированные шаблонные литералы (Tagged template literals)?](https://youtu.be/jOQEynkKgKA?t=832)
+- [Разница между `eval()` и `new Function()`?](https://youtu.be/LEo0dFN87sY?t=405)
+- [Что такое with statement и почему его не используют?](https://youtu.be/LEo0dFN87sY?t=466)
+- [Что такое Labeled statements в JavaScript?](https://youtu.be/LEo0dFN87sY?t=528)
 
 #### 🟠 Senior
 

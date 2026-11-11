@@ -11,6 +11,8 @@
 - [Что такое пулреквест и как его сделать на GitHub?](https://youtu.be/zcF-CVtXSBI?t=746)
 - [Разница между `git pull` и `git merge`?](https://youtu.be/t36qUdDLaH4?t=770)
 - [Что такое ESLint и как его настроить?](https://youtu.be/V0RxOrWWOdE?t=870)
+- [Как строится работа с системами контроля версий, например Git?](https://youtu.be/O5VEqIcc2X8?t=611)
+- [Разница между `git pull` и `git fetch`?](https://youtu.be/O5VEqIcc2X8?t=728)
 
 #### 🟡 Middle
 
@@ -19,6 +21,7 @@
 - [Что такое stylelint? Назовите особенности stylelint?](https://youtu.be/DQ0BLu6rZYc?t=644)
 - [Как объединить несколько последних коммитов в один?](https://youtu.be/t36qUdDLaH4?t=816)
 - [Разница между Vite и Webpack?](https://youtu.be/V0RxOrWWOdE?t=725)
+- [Как работает `git bisect`?](https://youtu.be/O5VEqIcc2X8?t=680)
 
 #### 🟠 Senior
 

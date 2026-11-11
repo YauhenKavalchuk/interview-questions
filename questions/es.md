@@ -42,9 +42,15 @@
 - [Как увеличить читаемость больших чисел?](https://youtu.be/OA63L1eQ6pA?t=783)
 - [Какие нововведения были представлены в ECMAScript 2021 (ES12)?](https://youtu.be/PI1X5oFHou8?t=634)
 - [Что такое структурированное клонирование (`structuredClone()`)?](https://youtu.be/21-v1wNlTT4?t=413)
+- [Что такое top-level await?](https://youtu.be/LEo0dFN87sY?t=44)
+- [Что такое Temporal API?](https://youtu.be/LEo0dFN87sY?t=161)
+- [Что такое Array grouping (`Object.groupBy()`)?](https://youtu.be/LEo0dFN87sY?t=231)
 
 #### 🟠 Senior
 
 - [Что такое генераторы? Когда стоит использовать генераторы?](https://youtu.be/nvktMVFM0_M?t=476)
 - [Для чего используется метод `.getOwnPropertyDescriptors()`?](https://youtu.be/OA63L1eQ6pA?t=61)
 - [Что такое `Proxy` и `Reflect`?](https://youtu.be/21-v1wNlTT4?t=336)
+- [Что такое well-known symbols и зачем они нужны?](https://youtu.be/LEo0dFN87sY?t=101)
+- [Что такое Iterator helpers?](https://youtu.be/LEo0dFN87sY?t=277)
+- [Что такое Pattern Matching?](https://youtu.be/LEo0dFN87sY?t=347)

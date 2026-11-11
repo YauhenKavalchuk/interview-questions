@@ -9,6 +9,7 @@
 - [Что такое Mock в unit тестировании?](https://youtu.be/i96lHslBOIc?t=234)
 - [Разница между Mock и Stub?](https://youtu.be/i96lHslBOIc?t=299)
 - [Какие инструменты тестирования вы знаете?](https://youtu.be/Sw4BlFLj2dg?t=556)
+- [Как тестировать асинхронный код?](https://youtu.be/O5VEqIcc2X8?t=403)
 
 #### 🟡 Middle
 
@@ -16,6 +17,10 @@
 - [Что такое принцип FIRST (Fast, Independent, Repeatable, Self-validating, Timely) в тестировании?](https://youtu.be/hJDqYohmzL8?t=95)
 - [Как можно оценить качество тестирования?](https://youtu.be/Sw4BlFLj2dg?t=471)
 - [Что такое UI-тестирование? Назовите подходы UI-тестирования?](https://youtu.be/Sw4BlFLj2dg?t=372)
+- [Что такое snapshot тестирование?](https://youtu.be/O5VEqIcc2X8?t=351)
+- [Разница между shallow и mount рендерингом в тестах?](https://youtu.be/O5VEqIcc2X8?t=456)
+- [Как тестировать кастомные хуки в React?](https://youtu.be/O5VEqIcc2X8?t=518)
+- [Как тестировать компоненты с контекстом (Context)?](https://youtu.be/O5VEqIcc2X8?t=569)
 
 #### 🟠 Senior
 

@@ -1,4 +1,4 @@
-### ⚡ Async JS:
+### ⛓️‍💥 Async JS:
 
 #### 🟢 Junior
 
@@ -17,6 +17,7 @@
 - [Что такое `fetch()`? Как работает функция `fetch()`?](https://youtu.be/PI1X5oFHou8?t=713)
 - [Что такое JSON в JavaScript? Как его можно использовать?](https://youtu.be/PI1X5oFHou8?t=786)
 - [Какие есть состояния у промисов?](https://youtu.be/t36qUdDLaH4?t=345)
+- [Какие есть состояния у промисов?](https://youtu.be/LEo0dFN87sY?t=569)
 
 #### 🟡 Middle
 
@@ -29,8 +30,11 @@
 - [Что такое `AbortController`? Как его использовать?](https://youtu.be/t36qUdDLaH4?t=395)
 - [Разница между параллельным и конкурентным выполнением?](https://youtu.be/9o_PsbrnOyI?t=528)
 - [Разница между `setTimeout()` и `setInterval()` с точки зрения Event Loop?](https://youtu.be/9o_PsbrnOyI?t=642)
+- [Что такое `Promise.withResolvers()`?](https://youtu.be/LEo0dFN87sY?t=603)
 
 #### 🟠 Senior
 
 - [Расскажите о `queueMicrotask()`?](https://youtu.be/hL5yFo9Pms4?t=330)
 - [Что такое асинхронный итератор (`AsyncIterator`)?](https://youtu.be/9o_PsbrnOyI?t=591)
+- [Как работает `ReadableStream`?](https://youtu.be/LEo0dFN87sY?t=648)
+- [Что такое scheduler API в браузере?](https://youtu.be/LEo0dFN87sY?t=701)

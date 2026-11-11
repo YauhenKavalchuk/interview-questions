@@ -1,4 +1,4 @@
-### 💚 Vue.js:
+### ✳️ Vue.js:
 
 #### 🟢 Junior
 
